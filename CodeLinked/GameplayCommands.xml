@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} is incapacitated.</IsIncapped>
-
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
-
-  <CommandBedSetForPrisonersLabel>Set for prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc> Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForColonistsLabel>Set for colonists</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc> Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
-
-  
-  
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
-
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
-
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
-
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
-  
-  
+ 
+  <CommandDraftLabel>Naverbovat</CommandDraftLabel>
+  <CommandUndraftLabel>Vyradiť</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Prepína vojenské naverbovanie.\n\nNaverbovaní ľudia prijímajú rozkazy a bojujú. Nebudú pracovať, jesť alebo odpočívať.</CommandToggleDraftDesc>
+  <IsIncapped>{0} je v bezvedomí.</IsIncapped>
+ 
+  <CommandCancelConstructionLabel>Zrušiť</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Zrušiť túto stavbu.</CommandCancelConstructionDesc>
+ 
+  <CommandBedSetForPrisonersLabel>Nastaviť pre väzňov</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Nastaviť postele v tejto izbe pre väzňov.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Nastaviť pre kolonistov</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Nastaviť postele v tejto izbe pre kolonistov.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Zapnutie väzenského módu ovplyvňuje celú izbu (keďže kolonisti a väzni nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Vypnutie väzenského módu ovplyvní celú izbu (keďže väzni a kolonisti nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Naozaj to chcete spraviť?</AreYouSure>
+ 
+ 
+ 
+  <CommandDetonateDesc>Začať odpočítavanie k výbuchu.</CommandDetonateDesc>
+  <CommandDetonateLabel>Vybuchnúť</CommandDetonateLabel>
+ 
+  <CommandRenameZoneDesc>Premenovať túto zónu.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Premenovať</CommandRenameZoneLabel>
+ 
+  <CommandHideZoneDesc>Skryť/odkryť túto zónu.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Skryť</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Odkryť</CommandUnhideZoneLabel>
+ 
+  <CommandDeleteZoneDesc>Zmazať túto zónu.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Zmazať</CommandDeleteZoneLabel>
+ 
+ 
 </LanguageData>
