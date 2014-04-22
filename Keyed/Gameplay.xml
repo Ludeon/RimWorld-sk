@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Zostávajúca práca</WorkLeft>
+  <Contents>Obsah</Contents>
+  <ForPrisonerUse>Pre väzňov</ForPrisonerUse>
+  <ForColonistUse>Pre kolonistov</ForColonistUse>
+  <Owner>Vlastník</Owner>
+  <Nobody>Nikto</Nobody>
+  <Unowned>Bez vlastníka</Unowned>
+  <GunInstalled>Inštalovaný</GunInstalled>
+  <DeadTime>Mŕtvy {0}</DeadTime>
+  <WalkSpeed>rýchlosť chôdze {0}</WalkSpeed>
+  <DyingLower>umiera</DyingLower>  
+  <PawnEffectiveness>Efektivita</PawnEffectiveness>
+  <FilthOnFeet>Špina na topánkach:</FilthOnFeet>
+  <Food>Jedlo</Food>
+  <Rest>Odpočinok</Rest>
+
+  <!-- Job reports -->
+  <ReportHaulingTo>Nosí {0} do {1}.</ReportHaulingTo>
+  <ReportHauling>Nosí {0}.</ReportHauling>
+
+  <!-- Shooting report -->
+  <RangeSlashSkill>VZdialenosť/schopnosť</RangeSlashSkill>
+  <RangeSlashEquipment>Vzdialenosť/výbava</RangeSlashEquipment>
+  <Darkness>Temnota</Darkness>
+  <TargetProne>Cieľ vzpriamený</TargetProne>
+  <TargetSize>Veľkosť cieľa</TargetSize>
+  <Weather>Počasie</Weather>
+  <ShootingCover>Úkryt</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{0} zastavuje {1}</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>bez krytia</NoCoverLower>
+
+  <!-- Thoughts -->
+  <Loyalty>Loajalita</Loyalty>
+  <Happiness>Spokojnosť</Happiness>
+  <Fear>Strach</Fear>
+  <ThoughtExpiresIn>Vyprší za: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Začne vyprchávať za: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Vypršanie skončí o: {0}</ThoughtFinishesExpiringIn>
+  
+  <!--Effectiveness-->
+  <EffectivenessFull>Plný</EffectivenessFull>
+  <EffectivenessReduced>Znížený</EffectivenessReduced>
+  <EffectivenessImpaired>Obmedzený</EffectivenessImpaired>
+  <EffectivenessIncapacitated>V bezvedomí</EffectivenessIncapacitated>
+
+  <!-- Time indicator-->
+  <ClockDay>Deň</ClockDay>
+  <ClockTime>Čas</ClockTime>
+  <ClockTip>Počet dní a hodín od vášho príchodu.</ClockTip>
+  
+  <!-- Inspector -->
+  <Health>Zdravie</Health>
+  <Faction>Frakcia</Faction>
+  <Equipped>Nesený</Equipped>
+  <EquippedNothing>Nič</EquippedNothing>
+  <Incapacitated>V bezvedomí</Incapacitated>
+  <InRestraints>V putách (spomalený)</InRestraints>
+  <SelectNextInSquareTip>Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
+
+  <!-- ITab titles -->
+  <TabBills>Recepty</TabBills>
+  <TabGrowing>Pestuje (?)</TabGrowing>
+  <TabCharacter>Postava</TabCharacter>
+  <TabNeeds>Potreby</TabNeeds>
+  <TabPrisoner>Väzeň</TabPrisoner>
+  <TabThoughts>Myšlienky</TabThoughts>
+  <TabStorage>Úložisko</TabStorage>
+
+  <!-- ITabs -->
+  <AddBill>Pridať úlohu</AddBill>
+  <RecipeRequiresSkills>Recept {0} vyžaduje schopnosti uvedené nižšie. Žiadni z vašich kolonistov tieto schopnosti nemajú, takže nikto túto úlohu nemôže splniť.</RecipeRequiresSkills>
+  <BillConfig>Nastavenia</BillConfig>
+  <SuspendedCaps>POZASTAVENÝ</SuspendedCaps>
+  <PlantVerb>Rastlina</PlantVerb>
+  <RecruitmentDifficulty>Zložitosť naverbovania</RecruitmentDifficulty>
+  <PrisonerGetsFood>Získava jedlo</PrisonerGetsFood>
+  <ShouldTryToRecruit>Pokúsiť sa naverbovať</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Ignorovať väzňa</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Priateľský rozhovor</PrisonerFriendlyChat>
+  <PrisonerMildBeating>Malá bitka</PrisonerMildBeating>
+  <PrisonerViciousBeating>Drsná bitka</PrisonerViciousBeating>
+  <PrisonerExecution>Poprava</PrisonerExecution>
+
+  <!-- like 'Blood of John' -->
+  <OfLower>z</OfLower>
+
+  <!-- Power readout -->
+  <PowerNotConnected>Bez pripojenia na elektrinu.</PowerNotConnected>
+  <PowerConnectedRate>Pripojený výkon: {0}W</PowerConnectedRate>
+  <PowerConnectedStored>Uložená energia: {0}Wd</PowerConnectedStored>
+	
+  <!--Rotting-->
+  <RotStateFresh>Fresh</RotStateFresh>
+  <RotStateRotting>Rotting</RotStateRotting>
+  <RotStateDessicated>Dessicated</RotStateDessicated>
+
+  <!-- Tooltip -->
+  <Carrying>Nesie</Carrying>
+  <ShotBy>Postrelený od: {0}</ShotBy>
+  <CannotHit>Nie je možné zasiahnuť cieľ.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Neuskladnený</StoragePriorityUnstored>
+  <StoragePriorityLow>Nízky</StoragePriorityLow>
+  <StoragePriorityNormal>Normálny</StoragePriorityNormal>
+  <StoragePriorityPreferred>Uprednostnený</StoragePriorityPreferred>
+  <StoragePriorityImportant>Dôležitý</StoragePriorityImportant>
+  <StoragePriorityCritical>Kritický</StoragePriorityCritical>
+
+  <!-- Meal -->
+  <TimeToSpoil>Pokazí sa o {0}</TimeToSpoil>
+  <Ingredients>Prísady</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0}% rast</PercentGrowth>
+  <Growing></Growing>
+  <NotGrowingNow>Nerastie (musí byť {0}).</NotGrowingNow>
+  <HarvestableIn>Zberateľný po {0} rastu.</HarvestableIn>
+  <FullyGrownIn>Zrelý po {0} rastu.</FullyGrownIn>
+  <ReadyToHarvest>Zber je možný.</ReadyToHarvest>
+  <Mature>Dospelý.</Mature>
+  
+  <!-- Zones -->
+  <Zone>Zóna</Zone>
+  <GrowingZone>Poľná zóna</GrowingZone>
+  <Stockpile>Sklad</Stockpile>
+  <DumpingStockpile>Sklad smetí</DumpingStockpile>
+  <SellingStockpile>Predajný sklad</SellingStockpile>
+  <Priority>Priorita</Priority>
+
+  <!-- General use time stuff -->
+  <DaysLower>dní</DaysLower>
+  <SecondsLower>sekúnd</SecondsLower>
+
+  <!-- Mouseover indicator -->
+  <Undiscovered>Neobjavený</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Prepínať zobrazenie zón.</ZoneVisibilityToggleButton>
+  
+  <!-- Fire -->
+  <Fire>Oheň</Fire>
+  <FireOn>Oheň na {0}</FireOn>
+  <Burning>Horí</Burning>
+  <FireSizeLower>veľkosť ohniska {0}</FireSizeLower>
+    
+</LanguageData>
