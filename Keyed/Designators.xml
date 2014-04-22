@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Zrušiť</DesignatorCancel>
+  <DesignatorCancelDesc>Zrušiť plánovanú stavbu, ťažbu, prepravu, zber úrody a iné naplánované úlohy.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Zber rastlín</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Označenie rastlín pre zber a zničenie. Rastlina bude úplne odstránená a akékoľvek jedlo z nej bude zozbierané.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Zbúrať</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Zbúranie stavieb a získanie časti z použitých surovín späť.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvestPlants>Žatva rastlín</DesignatorHarvestPlants>
+  <DesignatorHarvestPlantsDesc>Označenie rastlín pre žatvu. Bude zozbierané použiteľné jedlo z rastlín, ale samotné rastliny zostanú neporušené.</DesignatorHarvestPlantsDesc>
+
+  <DesignatorHaulThings>Preprava predmetov</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Označenie sute a iných predmetov na prepravu na smetisko. Nie je potrebné pre jedlo alebo mŕtvoly, ktoré sú vždy prepravovateľné.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Nie je tu nič na prepravu.</NothingToHaulHere>
+  <MustHaulHaulables>Môžete označiť len prepravovateľné neautomatické predmety (ako napr. suť).</MustHaulHaulables>
+
+  <DesignatorHunt>Lov</DesignatorHunt>
+  <DesignatorHuntDesc>Označenie zvierat určených na lov vašimi lovcami.</DesignatorHuntDesc>
+
+  <DesignatorMine>Ťažba</DesignatorMine>
+  <DesignatorMineDesc>Označenie skalnatého územia pre ťažbu.</DesignatorMineDesc>
+
+  <DesignatorPlan>Plánovanie</DesignatorPlan>
+  <DesignatorPlanDesc>Vyznačenie plánovaných oblastí. Tieto nemajú žiadnu funkciu okrem pomoci pri plánovaní budúceho rozšírenia kolónie.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Odstránenie plánovania</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Odstránia sa plánované územia.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Pridať Domácu oblasť.</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Kolonisti budú túto oblasť čistiť a hasiť v nej oheň.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Odstrániť Domácu oblasť</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Odstráni sa domáca oblasť. Kolonistu tu už nebudú upratovať alebo hasiť ohne.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Vytvoriť oblasť bez strechy</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Vytvorí sa oblasť, kde nebude postavená strecha. Kolonisti tu tiež strhnú existujúcu strechu.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Odstrániť oblasť bez strechy</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Odstráni sa oblasť bez strechy. Bude tu postavená strecha a existujúce strechy nebudú strhnuté.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Vytvorí sa zóna, v ktorej budú kolonisti pestovať konkrétnu rastlinu.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Vytvorí sa sklad, v ktorom budú kolonisti uskladňovať zdroje.\nTento nástroj môže tiež rozšíriť existujúci sklad.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Vytvorí sa smeticko, do ktorého budú kolonisti nosiť odpad.\nTento nástroj môže tiež rozšíriť existujúce smetisko.</DesignatorZoneCreateStorageDumpingDesc>
+
+
+  <DesignatorZoneDelete>Zmazať zóny</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Odstráni zóny, ako napríklad sklady.</DesignatorZoneDeleteDesc>
+  
+  
+  
+  <!-- placement of blueprints -->
+  <TooCloseToMapEdge>Príliš blízko kraja mapy.</TooCloseToMapEdge>
+  <OutOfBounds>Mimo mapu.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Nie je možné umiestniť mimo objavených oblastí.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Miesto určenia je blokované.</InteractionSpotBlocked>
+  <InteractionSpotWillBeBlocked>Miesto určenia bude blokované.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} by blokoval/a/o miesto určenia pre {1}.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Terén na tomto mieste už je {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Na tomto mieste už existuje rovnaký predmet.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Na tomto mieste už existuje rovnaký návrh.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Terén na tomto miesto to nepodporuje.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Miesto je už obsadené.</SpaceAlreadyOccupied>
+
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Rozšírte {0} alebo\nVytvorte nový/ú/é {1}.</ExpandOrCreateZone>
+  <CreateNewZone>Vytvoriť nový/ú/é {0}</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Prenáša energiu</TransmitsPower>
+
+
+</LanguageData>
