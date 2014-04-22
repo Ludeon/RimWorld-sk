@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+  <AnimalInsanitySingle>Miestny/a {0} zošalel/a. Zaútočí na každého, koho zbadá.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Terénom sa prehnala neznáma psychická vlna. Kolonisti sú v poriadku, ale...\n\nVyzerá to ta, že veľa týchto zvierat zošalelo: {0}.</AnimalInsanityMultiple>
+ 
+  <CropBlight>Podivná pliaga zničila všetku vašu úrodu.</CropBlight>
+ 
+  <EclipseIncident>Jeden z mesiacov tejto planéty prechádza popred slnko. Začalo zatmenie.</EclipseIncident>
+ 
+  <MiracleHeal>{0} sa zázračne vyliečil/a!</MiracleHeal>
+ 
+ 
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Neďaleko pristála skupina nájazdníkov z {0}.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Neďaleko pristála z orbity skupina nájazdníkov z {0}.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Z orbity pristála skupina nájazdníkov z {0} priamo pred vaše dvere!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Nejaký čas sa budú pripravovať a potom zaútočia.\n\nPripravte si obranu, alebo predčasne zaútočte sami.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Okamžite útočia.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Vyzerá to tak, že chcú obliehať kolóniu.</EnemyRaidBesiege>
+ 
+ 
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Neďaleko pristála skupina spriatelených bojovníkov z {0}.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Neďaleko pristála z orbity skupina spriatelených bojovníkov z {0}.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Z orbity pristála skupina spriatelených bojovníkov z {0} priamo pred vaše dvere!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Nejaký čas sa budú pripravovať a potom sa vám vydajú na pomoc.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Idú vám na pomoc okamžite.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Vyzerá to tak, že vám chcú pomôcť obliehacou taktikou.</FriendlyRaidBesiege>
+ 
+  <RefugeePodCrash>Zaregistrovali ste únikový modul, ktorý neďaleko tvrdo pristál.\n\nAk niekto prežil náraz, bude určite veľmi ranený.</RefugeePodCrash>
+ 
+  <CargoPodCrash>Zaregistrovali ste neďaleko spadnuté zásobovacie moduly.\n\nMožno v nich nájdete niečo užitočné.</CargoPodCrash>
+ 
+  <AnElectricalConduit>elektrický vodič</AnElectricalConduit>
+  <AWallsPowerConduit>elektrický vodič v stene</AWallsPowerConduit>
+  <ShortCircuit>Chyba v {0} spôsobila skrat.\n\nVšetkých {1} Wd elektriny v pripojených batériách bolo pri elektrickej explózii vybitých.</ShortCircuit>
+  <ShortCircuitWasLarge>Toto množstvo energie spôsobilo masívnu explóziu.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>To je naozaj veľká explózia. Mamička moja!</ShortCircuitWasHuge>
+ 
+  <SolarFlare>Začala solárna búrka.\n\nIntenzívne žiarenie spôsobí vypnutie všetkých elektrických zariadení.\n\nBúrka by mala prejsť asi po dni.</SolarFlare>
+ 
+  <TraderArrival>Neďaleko sa presúva obchodná loď.\n\nJe známa ako {0}. Je to {1}.</TraderArrival>
+ 
+  <SingleTravelerPassing>{0} z {1} prechádza okolo. HECAP sa nazýva {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Skupina cestovateľov z {0} prechádza okolo.</GroupTravelersPassing>
+ 
+  <SingleVisitorArrives>{0} z {1} navštívi kolóniu.\n\nHECAP sa nazýva {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>Skupina z {0} navštívila kolóniu.</GroupVisitorsArrive>
+  <VisitorsLeaving>Návštevníci z {0} odchádzajú.</VisitorsLeaving>
+ 
+  <WandererJoin>Prišiel/a {0} menom NAME a pridal/a sa ku kolónii. HECAP je {1}.</WandererJoin>
+ 
+</LanguageData>
