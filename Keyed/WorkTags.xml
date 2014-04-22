@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Žiadny</WorkTagNone>
+  <WorkTagIntellectual>Intelektuál</WorkTagIntellectual>
+  <WorkTagManualDumb>Jednoduchá práca</WorkTagManualDumb>
+  <WorkTagManualSkilled>Náročná práca</WorkTagManualSkilled>
+  <WorkTagViolent>Násilník</WorkTagViolent>
+  <WorkTagCaring>Dobrosrdečný</WorkTagCaring>
+  <WorkTagSocial>Sociálny</WorkTagSocial>
+  <WorkTagScary>Strašidelný</WorkTagScary>
+  <WorkTagArtistic>Umelec</WorkTagArtistic>
+  <WorkTagCrafting>Remeselník</WorkTagCrafting>
+  <WorkTagCooking>Kuchár</WorkTagCooking>
+  <WorkTagFirefighting>Hasič</WorkTagFirefighting>
+  <WorkTagCleaning>Upratovač</WorkTagCleaning>
+  <WorkTagHauling>Nosič</WorkTagHauling>
+  <WorkTagPlantWork>Záhradkár</WorkTagPlantWork>
+  <WorkTagMining>Baník</WorkTagMining>
+
+</LanguageData>
