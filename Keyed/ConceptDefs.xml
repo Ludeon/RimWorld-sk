@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ConceptText_MoveCamera>Kameru môžete posúvať stlačením a ťahaním STREDNÉHO TLAČÍTKA MYŠI alebo klávesami WASD.</ConceptText_MoveCamera>
+
+  <ConceptText_RescueColonist>Zraneného kolonistu zachránite tak, že zvolíte zdravého kolonistu a kliknete pravým tlačítkom na zraneného.</ConceptText_RescueColonist>
+
+  <ConceptText_Capture1>Nepriateľ je v bezvedomí. Môžete ho zajať!</ConceptText_Capture1>
+  <ConceptText_Capture2>Pre zajatie zvoľte kolonistu, kliknite pravým tlačítkom na nepriateľa v bezvedomí a zvoľte Zajať.\n\nMusíte mať voľnú posteľ označenú pre väzňov.</ConceptText_Capture2>
+
+  <ConceptText_Draft1>Ak chcete priamo ovládať kolonistov v boji, označte ich a stlačte tlačítk Zapnúť bojový režim.</ConceptText_Draft1>
+  <ConceptText_Draft2>Kolonista v bojovom režime bude robiť len to, čo mu prikážete a môže vykonávať len bojové akcie. Kolonisti budú používať svoje zbrane, ak bude treba.\n\nNenechávajte kolonistov v bojovom režime príliš dlho - budú hladovať a začnú byť nespokojní.</ConceptText_Draft2>
+
+  <ConceptText_Forbid>Kolonisti budú ignorovať predmety označené ako ZAKÁZANÉ.\n\nOznačte jedlo a železo blízko miesta pristátia a stlačte F pre ZRUŠENIE ZÁKAZU.</ConceptText_Forbid>
+
+  <ConceptText_BillsTab>Aby kolonisti používali pracovný stôl, zvoľte stôl a otvorte záložku Recepty. Tu môžete určiť, aké typy jedál sa budú variť, aké predmety sa budú vyrábať, alebo aké zvieratá budú spracované.</ConceptText_BillsTab>
+
+  <ConceptText_GrowingFood>Pre pestovanie jedla vytvorte PESTOVACIE ZÓNY pomocou menu Architekt.\n\nTieto môžu byť umiestnené len na úrodnej zemi.</ConceptText_GrowingFood>
+
+  <ConceptText_BuildOrbitalTradeBeacon>Tip:\n\nPre odoslanie predmetov alebo striebra obchodníkom na orbite musíte vonku postaviť ZÁSOBOVACÍ MAJÁK a blízko neho aj sklad predmetov.</ConceptText_BuildOrbitalTradeBeacon>
+
+  <ConceptText_ReadingAlerts>Ak nebudete vediť, čo ďalej, skontrolujte UPOZORNENIA na pravej strane obrazovky.</ConceptText_ReadingAlerts>
+
+  <ConceptText_CameraZoom>Priblížte si zobrazenie pomocou KOLIEČKA MYŠI alebo kláves T a G.</ConceptText_CameraZoom>
+
+  <ConceptText_TimeControls>Priebeh času v hre môžete zrýchliť, spomaliť alebo zastaviť pomocou ovládania času vpravo dole.</ConceptText_TimeControls>
+
+  <ConceptText_PrisonerTab>Interakciu s väzňom môžete určiť v záložke "Väzeň".\n\nBudete potrebovať kolonistu s povolaním Strážca, ktorý sa bude o väzňa starať.</ConceptText_PrisonerTab>
+
+  <ConceptText_Mining>Miesto ťažby môžete určiť pomocou menu Architekt.\n\nŤažba MINERÁLOV poskytuje ŽELEZO.\n\nŤažba SKÁL neposkytuje nič.</ConceptText_Mining>
+
+  <ConceptText_WorkOverview1>Nastavenia povolaní kolonistov môžete určiť v okne PREHĽAD na obrazovke vpravo dole.\n\nKolonisti budú vždy najskôr vykonávať prácu defName s vyššou prioritou, akú nájdu.</ConceptText_WorkOverview1>
+  <ConceptText_WorkOverview2>Kolonisti nebudú vykonávať prácu, ktorú nemajú nastavenú.\n\nAk nemá nikto nastavenú konkrétnu prácu defName, nebude táto nikdy vykonaná.</ConceptText_WorkOverview2>
+
+  <ConceptText_EquippingWeapons>Pre ozbrojenie kolonistu zbraňou zvoľte kolonistu a kliknite pravým tlačítkom myši na zbraň.\n\nNeďaleko vášho miesta pristátia je na zemi zopár zbraní.</ConceptText_EquippingWeapons>
+
+  <ConceptText_HomeRegion>DOMÁCE OBLASTI určujú, ktoré priestory budú kolonisti čistiť a hasiť v nich oheň.\n\nDOMÁCE OBLASTI môžete určiť v menu Architekt v kategórii Zóny.</ConceptText_HomeRegion>
+
+  <ConceptText_StorageTabCategories>V záložke Skladovanie môžete prechádzať kategórie a povoliť alebo zakázať uskladnenie špecifických predmetov. Kliknite na trojuholníky naľavo od názvov kategórií.</ConceptText_StorageTabCategories>
+
+  <ConceptText_StorageTab>Sklady a skladovacie priestory nastavíte tak, že ich zvolíte a otvoríte záložku SKLADOVANIE vo vrchnej časti inšpekčného okna.</ConceptText_StorageTab>
+
+  <ConceptText_SpacePause>Stlačením medzerníka pozastavíte alebo znovu spustíte hru.\n\nZapamätejte si - ak sa deje príliš veľa vecí naraz, stlačte MEDZERNÍK!</ConceptText_SpacePause>
+
+  <ConceptText_RightClickClearLetter>Prichádzajúce správy môžete okamžite zrušiť kliknutím pravým tlačítkom myši.</ConceptText_RightClickClearLetter>
+
+  <ConceptText_OpeningComms>Pre komunikáciu zvoľte pracujúceho kolonistu a kliknite pravým tlačítkom myši na komunikačnú konzolu.</ConceptText_OpeningComms>
+
+  <ConceptText_StoragePriority>Môžete nastaviť PRIORITU skladu. Kolonisti budú najskôr napĺňať sklady s vyššou prioritou.</ConceptText_StoragePriority>
+
+  <ConceptText_Wiki>Viac informácií môžete nájsť na WIKI.\n\nPoužite odkaz na obrazovke vpravo dole.</ConceptText_Wiki>
+
+  <ConceptText_TradeGoodsMustBeNearBeacon>Predávať môžete iba tovary, ktoré sú umiestnené neďaleko zásobovacieho majáka a nie sú pod strechou.</ConceptText_TradeGoodsMustBeNearBeacon>
+  
+  
+  
+</LanguageData>
