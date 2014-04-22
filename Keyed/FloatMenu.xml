@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CallOnRadio>Zavolať {0}</CallOnRadio>
+  <CannotUseSolarFlare>Nie je možné použiť (slnečné žiarenie)</CannotUseSolarFlare>
+  <CannotUseNoPower>Nie je možné použiť (chýba energia)</CannotUseNoPower>
+  <CannotUseNoPath>Nie je možné použiť (chýba cesta)</CannotUseNoPath>
+
+  <FireAt>Strieľať na {0}</FireAt>
+
+  <OutOfRange>mimo dostrel</OutOfRange>
+  <CannotHitTarget>nie je možné zasiahnuť cieľ</CannotHitTarget>
+  <CannotFight>{0} nemôže bojovať</CannotFight>
+
+  <MeleeAttack>Útok zblízka na {0}</MeleeAttack>
+  <MeleeAttackToDeath>Útok zblízka na {0} až na smrť</MeleeAttackToDeath>
+  <NoPath>žiadna cesta</NoPath>
+
+  <ForbiddenLower>zakázaný</ForbiddenLower>
+  <SociallyImproperLower>sociálne nevhodný</SociallyImproperLower>
+  <BurningLower>horí</BurningLower>
+  <NoEmptyPlaceLower>nie je nastavené prázdne miesto pre uskladnenie</NoEmptyPlaceLower>
+  <AlreadyFilledLower>už je dostatočne naplnený/á</AlreadyFilledLower>
+	
+  <CannotGoNoPath>Nie je možné ísť sem (žiadna cesta)</CannotGoNoPath>
+  <GoHere>Ísť sem</GoHere>
+  
+  <Arrest>Uväzniť {0}</Arrest>
+  <CannotArrest>Nie je možné uväzniť</CannotArrest>
+
+  <Capture>Zajať {0}</Capture>
+  <CannotCapture>Nie je možné zajať</CannotCapture>
+
+  <Rescue>Zachrániť {0}</Rescue>
+  <CannotRescue>Nie je možné zachrániť</CannotRescue>
+
+  <NoPrisonerBed>Nedostatok uzavretých postelí pre väzňov.</NoPrisonerBed>
+  <NoNonPrisonerBed>Nedostatok použiteľných postelí pre kolonistov.</NoNonPrisonerBed>
+  <Reserved>Rezervované pre niekoho iného.</Reserved>
+  <ReservedBy>Rezervoval: {0}</ReservedBy>
+  <IsReservedBy>{0} je rezervovaný/á pre {1}.</IsReservedBy>
+
+
+  <Equip>Vziať {0}</Equip>
+  <CannotEquip>Nie je možné vziať {0}</CannotEquip>
+
+  <Deposit>Uložiť {0} do {1}</Deposit>
+  <CannotDeposit>Nie je možné uložiť {0} do {1}</CannotDeposit>
+
+  <Drop>Položiť {0}</Drop>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Nie je možné {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>{0} {1} už je</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Nie je možné prioritizovať ({0} nie je {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Nie je možné prioritizovať (výskum je dlhodobá úloha)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Nie je možné prioritizovať ({0} je zakázaný/á).</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioritizovať: {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>
