@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Dark>Tma</Dark>
+  <Lit>Svetlo</Lit>
+  <LitBrightly>Jasné svetlo</LitBrightly>
+
+  <WorkTab>Povolanie</WorkTab>
+  <ManualPriorities>Manuálne priority</ManualPriorities>
+  <HigherPriority>Vyššia priorita</HigherPriority>
+  <LowerPriority>Nižšia priorita</LowerPriority>
+  <RelevantSkills>Vhodné schopnosti: {0}\nPriemer vhodných schopností: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Kliknutím prejdete na:</ClickToJumpTo>
+  <CannotDoThisWork>{0} nemôže vykonávať túto prácu.</CannotDoThisWork>
+  <NoneBrackets>(none)</NoneBrackets>
+  
+  
+  <FactionsTab>Frakcie</FactionsTab>
+  <Hostile>Nepriateľský</Hostile>
+  <HostileTo>Nepriateľ voči {0}</HostileTo>
+  <CurrentGoodwill>Aktuálna vzájomná náklonnosť s touto frakciou (-100 až 100).</CurrentGoodwill>
+
+
+  <SkillMax>MAX</SkillMax>
+  
+  
+</LanguageData>
