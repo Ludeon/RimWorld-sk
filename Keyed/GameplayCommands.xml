@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CommandForbiddenDesc>Zakázaný - kolonisti objekt ignorujú.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Nezakázaný - kolonisti môžu s objektom pracovať.</CommandNotForbiddenDesc>
+
+
+
+  <CommandDraftLabel>Zapnúť bojový režim</CommandDraftLabel>
+  <CommandUndraftLabel>Ukončiť bojový režim</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Prepína bojový režim.\n\nĽudia v bojovom režime prijímajú rozkazy a bojujú. Nebudú pracovať, jesť alebo odpočívať.</CommandToggleDraftDesc>
+  <IsIncapped>{0} je v bezvedomí.</IsIncapped>
+
+  <CommandCancelConstructionLabel>Zrušiť</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Zrušiť túto stavbu.</CommandCancelConstructionDesc>
+
+  <CommandBedSetForPrisonersLabel>Nastaviť pre väzňov</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Nastaviť postele v tejto izbe pre väzňov.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Nastaviť pre kolonistov</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Nastaviť postele v tejto izbe pre kolonistov.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Zapnutie väzenského módu ovplyvňuje celú izbu (keďže kolonisti a väzni nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Vypnutie väzenského módu ovplyvní celú izbu (keďže väzni a kolonisti nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Naozaj to chcete spraviť?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Začať odpočítavanie k výbuchu.</CommandDetonateDesc>
+  <CommandDetonateLabel>Odpáliť</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Premenovať túto zónu.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Premenovať</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Skryť/odkryť túto zónu.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Skryť</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Odkryť</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Zmazať túto zónu.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Zmazať</CommandDeleteZoneLabel>
+  
+  
+</LanguageData>
