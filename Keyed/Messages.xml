@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MessageRaidersLeaving>Návštevníci z {0} odchádzajú.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>Návštevníci z {0} to vzdali a odchádzajú.</MessageRaidersGivenUpLeaving>
+	
+  <MessageShipHasLeftCommsRange>{0} je mimo komunikačný dosah.</MessageShipHasLeftCommsRange>
+	
+  <MessageNeedBeaconToTradeWithShip>Pre obchodovanie s loďou potrebujete obchodný maják.</MessageNeedBeaconToTradeWithShip>
+  
+  <MessageBillComplete>Úloha ukončená: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} je plne uzdravený/á.</MessageFullyHealed>
+
+  <MessageFightersFleeing>Bojovníci z {0} utekajú.</MessageFightersFleeing>
+
+  <MessageFriendlyFightersLeaving>Spriatelení bojovníci {0} odchádzajú.</MessageFriendlyFightersLeaving>
+
+  <MessageRaidersLeaving>Nájazdníci z {0} odchádzajú.</MessageRaidersLeaving>
+
+  <MessageRaidersBeginningAssault>Nájazdníci z {0} začínajú útok.</MessageRaidersBeginningAssault>
+
+  <MessageRaidersDetectedEarlyAssault>Najazdníci z {0} vás objavili a začínajú svoj útok predčasne.</MessageRaidersDetectedEarlyAssault>
+
+  <MessagePrisonerIsEscaping>Väzeň {0} uteká.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} úspešne naverboval/a {1} (šanca {2}).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} nenaverboval/a {1} (šanca {2}).</MessageRecruitFail>
+  <MessageRecruitFailBecauseLoyalty>{0} nenaverboval/a {1} (väzeň je pod hranicou loajality).</MessageRecruitFailBecauseLoyalty>
+
+  <MessageTraderCannotAfford>Obchodník si nemôže dovoliť tento obchod.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolónia si nemôže dovoliť tento obchod.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Nemáte dostatok dostupného striebra na obchodovanie.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Obchodník nemá dostatok striebra.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritické upozornenie: {0}</MessageCriticalAlert>
+
+
+  
+</LanguageData>
