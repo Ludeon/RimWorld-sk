@@ -46,7 +46,7 @@
 
   <DesignatorZoneCreateStorageResourcesDesc>Vytvorí sa sklad, v ktorom budú kolonisti uskladňovať zdroje.\nTento nástroj môže tiež rozšíriť existujúci sklad.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Vytvorí sa smeticko, do ktorého budú kolonisti nosiť odpad.\nTento nástroj môže tiež rozšíriť existujúce smetisko.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Vytvorí sa smetisko, do ktorého budú kolonisti nosiť odpad.\nTento nástroj môže tiež rozšíriť existujúce smetisko.</DesignatorZoneCreateStorageDumpingDesc>
 
 
   <DesignatorZoneDelete>Zmazať zóny</DesignatorZoneDelete>
