@@ -25,6 +25,8 @@
 
   <DevelopmentMode>Vývojársky režim</DevelopmentMode>
 
+  <LogDeepProfileData>Logovať detailnejšie dáta profilu</LogDeepProfileData>
+  
   <NamesYouWantToSee>Priezviská postáv, ktoré chcete v hre vidieť.</NamesYouWantToSee>
 
   <Resolution>Rozlíšenie</Resolution>
