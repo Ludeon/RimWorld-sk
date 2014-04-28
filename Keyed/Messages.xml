@@ -6,7 +6,7 @@
 	
   <MessageShipHasLeftCommsRange>{0} je mimo komunikačný dosah.</MessageShipHasLeftCommsRange>
 	
-  <MessageNeedBeaconToTradeWithShip>Pre obchodovanie s loďou potrebujete obchodný maják.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Pre obchodovanie s loďou potrebujete orbitálny obchodný maják.</MessageNeedBeaconToTradeWithShip>
   
   <MessageBillComplete>Úloha ukončená: {0}.</MessageBillComplete>
   
