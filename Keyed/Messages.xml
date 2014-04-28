@@ -16,8 +16,6 @@
 
   <MessageFriendlyFightersLeaving>Spriatelení bojovníci {0} odchádzajú.</MessageFriendlyFightersLeaving>
 
-  <MessageRaidersLeaving>Nájazdníci z {0} odchádzajú.</MessageRaidersLeaving>
-
   <MessageRaidersBeginningAssault>Nájazdníci z {0} začínajú útok.</MessageRaidersBeginningAssault>
 
   <MessageRaidersDetectedEarlyAssault>Najazdníci z {0} vás objavili a začínajú svoj útok predčasne.</MessageRaidersDetectedEarlyAssault>
