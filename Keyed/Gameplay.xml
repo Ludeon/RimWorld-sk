@@ -15,8 +15,7 @@
   <DyingLower>umiera</DyingLower>  
   <PawnEffectiveness>Efektivita</PawnEffectiveness>
   <FilthOnFeet>Špina na topánkach:</FilthOnFeet>
-  <Food>Jedlo</Food>
-  <Rest>Odpočinok</Rest>
+
 
   <!-- Job reports -->
   <ReportHaulingTo>Nosí {0} do {1}.</ReportHaulingTo>
@@ -33,13 +32,30 @@
   <CoverThingBlocksPercentOfShots>{0} zastavuje {1}</CoverThingBlocksPercentOfShots>
   <NoCoverLower>bez krytia</NoCoverLower>
 
-  <!-- Thoughts -->
-  <Loyalty>Loajalita</Loyalty>
+  
+  <!-- Status levels -->
+  <Loyalty>Lojalita</Loyalty>
+  <LoyaltyTip>Lojalika predstavuje dôveru kolonistu vo vývoj kolónie. Ak príliš klesne, kolonista môže rezignovať, stať sa iracionálnym, alebo zošalieť.\n\nLojalita je rovná spokojnosti alebo strachu - podľa toho, čo je vyššie.</LoyaltyTip>
   <Happiness>Spokojnosť</Happiness>
+  <HappinessTip>Spokojnosť je udržovaná uspokojovaním fyzických a psychických potrieb kolonistu.</HappinessTip>
   <Fear>Strach</Fear>
+  <FearTip>Strach vyjadruje úroveň zastrašenia osoby jej prostredím.\n\nZvyšuje sa pri spozorovaní nebezpečenstva, brutality a prejavov moci.</FearTip>
+  <Food>Jedlo</Food>
+  <FoodTip>Jedlo vyjadruje spokojnosť s prijímanou potravou. \n\nTento údaj sa reštartuje pri každom prijímaní potravy. Zanedlho potom znovu začne klesať. Pri klesnutí na nulu získava osoba poškodenie z hladovania.</FoodTip>
+  <Rest>Odpočinok</Rest>
+  <RestTip>Odpočinok vyjadruje množstvo a kvalitu odpočinku osoby.\n\nStúpa na maximum pri spánku v posteli. Mimo postele postupne klesá.</RestTip>
+  <Environment>Prostredie</Environment>
+  <EnvironmentTip>Prostredie vyjadruje, ako príjemne osoba vníma svoje okolie.\n\nProstredie je vysoké, ak ľudia bývajú v priestranných izbách s peknými doplnkami. Je naopak nízke, ak je okolie pre osobu škaredé.</EnvironmentTip>
+  <Openness>Otvorenosť</Openness>
+
+  
+  <!-- Thoughts -->
   <ThoughtExpiresIn>Vyprší za: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Začne vyprchávať za: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>Vypršanie skončí o: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Hranica nervového zrútenia</MentalBreakThreshold>
+
+  
   
   <!--Effectiveness-->
   <EffectivenessFull>Plný</EffectivenessFull>
@@ -92,7 +108,12 @@
   <PowerNotConnected>Bez pripojenia na elektrinu.</PowerNotConnected>
   <PowerConnectedRate>Pripojený výkon: {0}W</PowerConnectedRate>
   <PowerConnectedStored>Uložená energia: {0}Wd</PowerConnectedStored>
-	
+  <PowerNeeded>Potrebná energia</PowerNeeded>
+  <PowerOutput>Výkon</PowerOutput>
+  <PowerBatteryStored>Uložené</PowerBatteryStored>
+  <PowerBatteryEfficiency>Účinnosť</PowerBatteryEfficiency>
+
+  
   <!--Rotting-->
   <RotStateFresh>Fresh</RotStateFresh>
   <RotStateRotting>Rotting</RotStateRotting>
@@ -147,5 +168,11 @@
   <FireOn>Oheň na {0}</FireOn>
   <Burning>Horí</Burning>
   <FireSizeLower>veľkosť ohniska {0}</FireSizeLower>
-    
+   
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Špeciálne podmienky momentálne ovplyvňujúce územie.</MapConditionsTip>
+  <SolarFlare>Slnečná búrka</SolarFlare>
+  <Eclipse>Zatmenie</Eclipse>
+
+   
 </LanguageData>
