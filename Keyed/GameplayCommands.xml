@@ -4,7 +4,14 @@
   <CommandForbiddenDesc>Zakázaný - kolonisti objekt ignorujú.</CommandForbiddenDesc>
   <CommandNotForbiddenDesc>Nezakázaný - kolonisti môžu s objektom pracovať.</CommandNotForbiddenDesc>
 
+  <CommandTogglePowerDesc>Zapnúť/vypnúť energiu.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Zapnúť/vypnúť energiu</CommandTogglePowerLabel>
 
+  <CommandGatherSpotToggleLabel>Zhromaždisko</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktívne - kolonisti sa budú okolo tohto objektu zhromažďovať.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Neaktívne - kolonisti sa okolo tohto objektu nebudú zhromažďovať.</CommandGatherSpotToggleDescInactive>
+
+  
 
   <CommandDraftLabel>Zapnúť bojový režim</CommandDraftLabel>
   <CommandUndraftLabel>Ukončiť bojový režim</CommandUndraftLabel>
