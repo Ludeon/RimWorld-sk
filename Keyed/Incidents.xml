@@ -38,7 +38,7 @@
   <ShortCircuitWasLarge>Toto množstvo energie spôsobilo masívnu explóziu.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>To je naozaj veľká explózia. Mamička moja!</ShortCircuitWasHuge>
  
-  <SolarFlare>Začala solárna búrka.\n\nIntenzívne žiarenie spôsobí vypnutie všetkých elektrických zariadení.\n\nBúrka by mala prejsť asi po dni.</SolarFlare>
+  <LetterSolarFlare>Začala slnečná búrka.\n\nIntenzívne žiarenie spôsobí vypnutie všetkých elektrických zariadení.\n\nBúrka by mala trvať asi 1 deň.</LetterSolarFlare>
  
   <TraderArrival>Neďaleko sa presúva obchodná loď.\n\nJe známa ako {0}. Je to {1}.</TraderArrival>
  
