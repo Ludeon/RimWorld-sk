@@ -13,22 +13,25 @@
   <LoadGameButton>Nahrať</LoadGameButton>
   <ConfirmDelete>Naozaj zmazať {0}?</ConfirmDelete>
   <DeleteThisSavegame>Zmazať túto uloženú hru.</DeleteThisSavegame>
-
   <SavedAs>Uložiť ako {0}.</SavedAs>
   <NeedAName>Zadajte prosím meno.</NeedAName>
   <LoadingLongEvent>Nahrávam...</LoadingLongEvent>
 
+  
+  <!-- Colony naming-->
   <NameColonyMessage>Každý vie, že nechcete na tejto skale zostať naveky. Ale {0} navrhuje, aby ste aj tak svoju kolóniu pomenovali.\n\nAko sa má volať?</NameColonyMessage>
   <ColonyGainsName>Kolónia sa odteraz volá {0}.</ColonyGainsName>
   <ColonyNameIsInvalid>Toto meno kolónie nie je platné.</ColonyNameIsInvalid>
 
+  <!-- Zone naming -->
   <ZoneGainsName>Táto zóna sa odteraz nazýva {0}.</ZoneGainsName>
   <ZoneNameIsInvalid>Uveďte prosím platné meno zóny.</ZoneNameIsInvalid>
 
-
-
-  <!-- Res change dialog -->
-
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Nezhoda verzií: Mapa bola uložená vo verzii hry {0}, pričom práve hráte verziu {1}.\n\n Nahratie tejto hry pravdepodobne spôsobí chyby a nestabilitu.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Nekompatibilná uložená pozícia</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Zmenili ste rozlíšenie. Pracuje toto nové správne?\n\nAutomatické vrátenie pôvodného rozlíšenia o {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Ponechať</ResolutionKeep>
   <ResolutionRevert>Vrátiť</ResolutionRevert>
@@ -64,11 +67,15 @@
   <DoXTimes>Vykonať X-krát</DoXTimes>
   <DoUntilYouHaveX>Vykonať, až kým nie je X</DoUntilYouHaveX>
   <DoForever>Vykonať donekonečna</DoForever>
-  
+  <BillRepeatTargetCountShort>Až do {0}</BillRepeatTargetCountShort>
+ 
+ 
   <!-- Trade -->
   <TradeGoodsNearBeaconLesson>Pre odoslanie predmetov alebo striebra obchodníkom na orbite musíte vonku postaviť ORBITÁLNY OBCHODNÝ MAJÁK a blízko neho aj sklad predmetov.</TradeGoodsNearBeaconLesson>
   <YourTradeableSilver>Vaše obchodovateľné striebro: {0}</YourTradeableSilver>
+   	<YourTradeableSilverTip>Môžete obchodovať iba so striebrom, ktoré sa nachádza neďaleko orbitálneho obchodného majáka a nie je pod strechou.</YourTradeableSilverTip>
 
+  
   <!-- Comms -->  
   <SocialSkillIs>Sociálna schopnosť: {0}</SocialSkillIs>
 
