@@ -68,14 +68,26 @@
   <ClockTime>Čas</ClockTime>
   <ClockTip>Počet dní a hodín od vášho príchodu.</ClockTip>
   
-  <!-- Inspector -->
+  <!-- Pawn info readout -->
   <Health>Zdravie</Health>
+  <PawnMainDescWithFactionGendered>{0} {1} z {2}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{0} z {1}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
   <Faction>Frakcia</Faction>
   <Equipped>Nesený</Equipped>
   <EquippedNothing>Nič</EquippedNothing>
   <Incapacitated>V bezvedomí</Incapacitated>
   <InRestraints>V putách (spomalený)</InRestraints>
-  <SelectNextInSquareTip>Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
+  <Carrying>Nesie</Carrying>
+  <SanityDazedWander>V troskách: Bezcieľne sa potuľuje</SanityDazedWander>
+  <SanityGiveUpExit>V troskách: Vzdal/a to a odchádza</SanityGiveUpExit>
+  <SanityPanicFlee>V troskách: Uteká v panike</SanityPanicFlee>
+  <SanityPsychotic>V troskách: Zúrivá psychóza</SanityPsychotic>
+
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Označiť ďalší objekt na políčku.\n\nTiež je možné opakovane klikať na to isté políčko.</SelectNextInSquareTip>
 
   <!-- ITab titles -->
   <TabBills>Recepty</TabBills>
@@ -119,8 +131,7 @@
   <RotStateRotting>Rotting</RotStateRotting>
   <RotStateDessicated>Dessicated</RotStateDessicated>
 
-  <!-- Tooltip -->
-  <Carrying>Nesie</Carrying>
+  <!-- Shooting Tooltip -->
   <ShotBy>Postrelený od: {0}</ShotBy>
   <CannotHit>Nie je možné zasiahnuť cieľ.</CannotHit>
 
@@ -147,7 +158,7 @@
   
   <!-- Zones -->
   <Zone>Zóna</Zone>
-  <GrowingZone>Poľná zóna</GrowingZone>
+  <GrowingZone>Pole</GrowingZone>
   <Stockpile>Sklad</Stockpile>
   <DumpingStockpile>Sklad smetí</DumpingStockpile>
   <SellingStockpile>Predajný sklad</SellingStockpile>
@@ -171,8 +182,7 @@
    
   <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Špeciálne podmienky momentálne ovplyvňujúce územie.</MapConditionsTip>
-  <SolarFlare>Slnečná búrka</SolarFlare>
-  <Eclipse>Zatmenie</Eclipse>
+
 
    
 </LanguageData>
