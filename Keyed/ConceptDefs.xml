@@ -50,8 +50,9 @@
 
   <ConceptText_Wiki>Viac informácií môžete nájsť na WIKI.\n\nPoužite odkaz na obrazovke vpravo dole.</ConceptText_Wiki>
 
-  <ConceptText_TradeGoodsMustBeNearBeacon>Predávať môžete iba tovary, ktoré sú umiestnené neďaleko zásobovacieho majáka a nie sú pod strechou.</ConceptText_TradeGoodsMustBeNearBeacon>
+  <ConceptText_TradeGoodsMustBeNearBeacon>Aby ste mohli posielať striebro alebo predmety obchodníkom na orbite, musíte postaviť na otvorenom priestranstve orbitálny obchodný maják a okolo neho vytvoriť sklad predmetov.</ConceptText_TradeGoodsMustBeNearBeacon>
   
-  
+  <ConceptText_ArrestingCreatesEnemies>Ak niekoho uväzníte, jeho celá frakcia sa začne správať nepriateľsky.\n\nNeväznite členov frakcie, ktorej chcete zostať priateľom!</ConceptText_ArrestingCreatesEnemies>
+
   
 </LanguageData>
