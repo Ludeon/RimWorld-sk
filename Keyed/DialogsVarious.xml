@@ -1,24 +1,91 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
- 
-  <FactionGreetingHostile>Zástupca {0} vychŕli na monitor zopár expresívnych výrazov a odpojí sa.</FactionGreetingHostile>
-  <FactionGreetingWary>Zástupca {0} opatrne pozdraví {1} a spýta sa na JEHO žiadosť.</FactionGreetingWary>
-  <FactionGreetingWarm>Zástupca {0} priateľsky pozdraví {1} a spýta sa, ako sa kolónii darí.</FactionGreetingWarm>
- 
-  <Disconnect>Odpojiť</Disconnect>
- 
-  <OfferGift>Ponúknuť dar</OfferGift>
-  <NeedSilverLaunchable>potrebné predajné striebro: {0}</NeedSilverLaunchable>
-  <NotEnoughSilver>Nie je dostatok striebra.</NotEnoughSilver>
-  <SilverForGoodwill>{0} striebra za {1} povesti</SilverForGoodwill>
-  <SilverGiftSent>Zástupca {0} sa vám poďakuje.\n\n(Povesť zvýšená o {1}.)</SilverGiftSent>
- 
- 
-  <RequestMilitaryAid>Vyžiadať okamžitú vojenskú pomoc ({0} povesti)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} vám nepomôže v boji proti iným frakciám, ktoré nie sú jeho nepriateľmi. To zahŕňa aj tie, ktoré vás ({1}) momentálne ohrozujú. Chcete aj tak požiadať o pomoc?</MilitaryAidConfirmMutualEnemy>
-  <CallConfirm>Áno, aj tak im zavolajte.</CallConfirm>
-  <CallCancel>Nie, nevadí.</CallCancel>
-  <MilitaryAidSent>Zástupca {0} súhlasí s vyslaním bojovníkov ku vám na pomoc.</MilitaryAidSent>
+
+
+
+  <Confirm>Potvrdiť</Confirm>
+  <GoBack>Späť</GoBack>
+  <OK>OK</OK>
+
+ <!-- Save/load -->
+  <SaveGameButton>Uložiť</SaveGameButton>
+  <OverwriteButton>Prepísať</OverwriteButton>
+  <LoadGameButton>Nahrať</LoadGameButton>
+  <ConfirmDelete>Naozaj zmazať {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Zmazať túto uloženú hru.</DeleteThisSavegame>
+  <SavedAs>Uložiť ako {0}.</SavedAs>
+  <NeedAName>Zadajte prosím meno.</NeedAName>
+  <LoadingLongEvent>Nahrávam...</LoadingLongEvent>
+
   
+  <!-- Colony naming-->
+  <NameColonyMessage>Každý vie, že nechcete na tejto skale zostať naveky. Ale {0} navrhuje, aby ste aj tak svoju kolóniu pomenovali.\n\nAko sa má volať?</NameColonyMessage>
+  <ColonyGainsName>Kolónia sa odteraz volá {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Toto meno kolónie nie je platné.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>Táto zóna sa odteraz nazýva {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Uveďte prosím platné meno zóny.</ZoneNameIsInvalid>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Nezhoda verzií: Mapa bola uložená vo verzii hry {0}, pričom práve hráte verziu {1}.\n\n Nahratie tejto hry pravdepodobne spôsobí chyby a nestabilitu.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Nekompatibilná uložená pozícia</SaveGameIncompatibleWarningTitle>
   
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Zmenili ste rozlíšenie. Pracuje toto nové správne?\n\nAutomatické vrátenie pôvodného rozlíšenia o {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Ponechať</ResolutionKeep>
+  <ResolutionRevert>Vrátiť</ResolutionRevert>
+  
+  <!-- Overview -->  
+  <OverviewOf>Prehľad o {0}</OverviewOf>
+  
+  <!-- Research -->    
+  <Research>Výskum</Research>
+  <Researched>Preskúmané</Researched>
+  <Unresearched>Nepreskúmané</Unresearched>
+  <Finished>Ukončené</Finished>
+  <InProgress>Prebieha</InProgress>
+
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>UPOZORNENIE: Výkon môže pri väčších mapách klesnúť, pokiaľ nemáte dostatočne rýchly počítač. Pri slabšom počítači zvoľte Malá; hra je stále vyrovnaná. Ludeonikrózna veľkosť nebola zatiaľ príliš otestovaná :) </MapSizePerformanceWarning>
+  <MapSize>Veľkosť mapy</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} políčok)</MapSizeDesc>
+  <MapSizeSmall>Malá</MapSizeSmall>
+  <MapSizeMedium>Stredná</MapSizeMedium>
+  <MapSizeLarge>Veľká</MapSizeLarge>
+  <MapSizeExtreme>Ludeonikrózna</MapSizeExtreme>
+
+
+  
+  <!-- Bill config -->
+  <Suspended>Pozastavený</Suspended>
+  <NotSuspended>Nepozastavený</NotSuspended>
+  <SuspendedAllCaps>POZASTAVENÝ</SuspendedAllCaps>
+  <RepeatCount>Opakovať: {0}</RepeatCount>
+  <Forever>Donekonečna</Forever>
+  <IngredientSearchRadius>Okruh hľadania prísad</IngredientSearchRadius>
+  <TargetCount>Vyrobiť viac, pokiaľ nie je: {0}</TargetCount>
+  <Infinite>Donekonečna</Infinite>
+  <RecipeCannotHaveTargetCount>(Tento recept nemôže mať cieľový počet, pretože má viacero alebo nepredvídateľné produkty.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Povolené prísady</PermittedIngredients>
+  <MinimumSkills>Minimálne schopnosti:</MinimumSkills>
+  <DoXTimes>Vykonať X-krát</DoXTimes>
+  <DoUntilYouHaveX>Vykonať, až kým nie je X</DoUntilYouHaveX>
+  <DoForever>Vykonať donekonečna</DoForever>
+  <BillRepeatTargetCountShort>Až do {0}</BillRepeatTargetCountShort>
+ 
+ 
+  <!-- Trade -->
+  <YourTradeableSilver>Vaše obchodovateľné striebro: {0}</YourTradeableSilver>
+   	<YourTradeableSilverTip>Môžete obchodovať iba so striebrom, ktoré sa nachádza neďaleko orbitálneho obchodného majáka a nie je pod strechou.</YourTradeableSilverTip>
+
+  
+  <!-- Comms -->  
+  <SocialSkillIs>Sociálna schopnosť: {0}</SocialSkillIs>
+
+
+  <!--Other-->
+  <ResearchFinished>Výskum dokončený: {0}</ResearchFinished>
+  <ResearchScreen>Obrazovka výskumu</ResearchScreen>
+	  
 </LanguageData>
