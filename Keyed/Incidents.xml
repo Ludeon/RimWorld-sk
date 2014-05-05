@@ -12,18 +12,18 @@
  
  
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Neďaleko pristála skupina nájazdníkov z {0}.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Neďaleko pristála z orbity skupina nájazdníkov z {0}.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Z orbity pristála skupina nájazdníkov z {0} priamo pred vaše dvere!</EnemyRaidCenterDrop>
+  <EnemyRaidWalkIn>Neďaleko pristála skupina: {0} z {1}.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Neďaleko pristála z orbity vo výsadkových moduloch skupina: {0} z {1}.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Z orbity pristála skupina priamo pred vaše dvere: {0} z {1}</EnemyRaidCenterDrop>
   <EnemyRaidStageThenAttack>Nejaký čas sa budú pripravovať a potom zaútočia.\n\nPripravte si obranu, alebo predčasne zaútočte sami.</EnemyRaidStageThenAttack>
   <EnemyRaidImmediateAttack>Okamžite útočia.</EnemyRaidImmediateAttack>
   <EnemyRaidBesiege>Vyzerá to tak, že chcú obliehať kolóniu.</EnemyRaidBesiege>
  
  
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Neďaleko pristála skupina spriatelených bojovníkov z {0}.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Neďaleko pristála z orbity skupina spriatelených bojovníkov z {0}.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Z orbity pristála skupina spriatelených bojovníkov z {0} priamo pred vaše dvere!</FriendlyRaidCenterDrop>
+  <FriendlyRaidWalkIn>Neďaleko pristála skupina: spriatelení {0} z {1}.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Neďaleko pristála z orbity skupina: spriatelení {0} z {1}.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Z orbity pristála skupina priamo pred vaše dvere: spriatelení {0} z {1} </FriendlyRaidCenterDrop>
   <FriendlyRaidStageThenAttack>Nejaký čas sa budú pripravovať a potom sa vám vydajú na pomoc.</FriendlyRaidStageThenAttack>
   <FriendlyRaidImmediateAttack>Idú vám na pomoc okamžite.</FriendlyRaidImmediateAttack>
   <FriendlyRaidBesiege>Vyzerá to tak, že vám chcú pomôcť obliehacou taktikou.</FriendlyRaidBesiege>
