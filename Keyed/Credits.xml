@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FullCredits><![CDATA[--Ludomancer--
+  <FullCredits>
+	  <![CDATA[--Ludomancer--
     Tynan Sylvester
 
     --Grafika hry--
@@ -21,8 +22,22 @@
     Benjamin 'Hypolite' Lorteau
 
     --Prekladatelia--
-    TheEisbaer (German)
-    Haplo (German)
+    TheEisbaer (nemčina)
+    Haplo (nemčina)
+    Hiztaar (francúzština)
+    Neone (polština)
+    AlyxMS (čínština)
+    AcDie (ruština)
+    joeyeti (slovenčina)
+    Vhiden (španielčina)
+    Ribas (portugalčina)
+    Ser-Geeves (holandština)
+    ConfusedWings (holandština)
+    
+    --Prispievajúci prekladatelia--
+    GlobusGames (polština)
+    John Fucking Rambo (polština)
+
 
     --Testeri--
     Semmy
