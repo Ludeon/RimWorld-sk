@@ -18,7 +18,7 @@
   <FactionsTab>Frakcie</FactionsTab>
   <Hostile>Nepriateľský</Hostile>
   <HostileTo>Nepriateľ voči {0}</HostileTo>
-  <CurrentGoodwill>Aktuálna vzájomná náklonnosť s touto frakciou (-100 až 100).</CurrentGoodwill>
+  <CurrentGoodwill>Aktuálna vzájomná náklonnosť s touto frakciou.</CurrentGoodwill>
 
 
   <SkillMax>MAX</SkillMax>
