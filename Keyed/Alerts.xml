@@ -3,7 +3,11 @@
 
   <ClickToJumpToProblem>Kliknutím preskočíte na problém</ClickToJumpToProblem>
 
+  <EquipStartingEquipment>Vezmite si svoju výbavu</EquipStartingEquipment>
+  <EquipStartingEquipmentDesc>Pristáli ste s niekoľkými zbraňami. Nájdete ich blízko miesta pristátia.\n\nAby ste sa vystrojili, označte kolonistu a kliknite na predmet pravým tlačítkom.</EquipStartingEquipmentDesc>
 
+  
+  
   <MentalBreakSoon>Riziko nervového kolapsu</MentalBreakSoon>
   <MentalBreakSoonDesc>Títo kolonisti sú na ceste k nervovému kolapsu:\n\n{0}\nZlepšite rýchlo ich psychickú situáciu, inak bude zle...</MentalBreakSoonDesc>
 
