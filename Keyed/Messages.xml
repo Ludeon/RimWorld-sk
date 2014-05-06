@@ -26,6 +26,7 @@
   <MessageRecruitFail>{0} nenaverboval/a {1} (šanca {2}).</MessageRecruitFail>
   <MessageRecruitFailBecauseLoyalty>{0} nenaverboval/a {1} (väzeň je pod hranicou loajality).</MessageRecruitFailBecauseLoyalty>
 
+  
   <MessageTraderCannotAfford>Obchodník si nemôže dovoliť tento obchod.</MessageTraderCannotAfford>
   <MessageColonyCannotAfford>Kolónia si nemôže dovoliť tento obchod.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Nemáte dostatok dostupného striebra na obchodovanie.</MessageColonyNotEnoughSilver>
@@ -33,6 +34,9 @@
 
   <MessageCriticalAlert>Kritické upozornenie: {0}</MessageCriticalAlert>
 
+  <MessageMustDesignateHarvestablePlants>Musíte označiť spracovateľné rastliny.</MessageMustDesignateHarvestablePlants>
+  <MessageMustDesignatePlants>Musíte označiť rastliny.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Musíte označiť prenositeľné predmety.</MessageMustDesignateHaulable>
 
   
 </LanguageData>
