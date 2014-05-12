@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Dark>Tma</Dark>
   <Lit>Svetlo</Lit>
   <LitBrightly>Jasné svetlo</LitBrightly>
 
+  <SkillMax>MAX</SkillMax>
+
+
+  <!-- Work tab -->  
   <WorkTab>Povolanie</WorkTab>
   <ManualPriorities>Manuálne priority</ManualPriorities>
   <HigherPriority>Vyššia priorita</HigherPriority>
@@ -14,14 +18,22 @@
   <CannotDoThisWork>{0} nemôže vykonávať túto prácu.</CannotDoThisWork>
   <NoneBrackets>(none)</NoneBrackets>
   
-  
+  <!-- Factions tab -->  
   <FactionsTab>Frakcie</FactionsTab>
   <Hostile>Nepriateľský</Hostile>
   <HostileTo>Nepriateľ voči {0}</HostileTo>
   <CurrentGoodwill>Aktuálna vzájomná náklonnosť s touto frakciou.</CurrentGoodwill>
 
+  <!-- Statistics tab -->
+  <StatisticsTab>Štatistiky</StatisticsTab>
+  <ColonyWealthTotal>Bohatstvo kolónie</ColonyWealthTotal>
+  <ColonyWealthItems>Bohatstvo kolónie (predmety)</ColonyWealthItems>
+  <ColonyWealthBuildings>Bohatstvo kolónie (budovy)</ColonyWealthBuildings>
+  <ColonyStrength>Sila kolónie</ColonyStrength>
+  <Danger>Nebezpečenstvo</Danger>
+  <FiresOnMap>Ohne na mape</FiresOnMap>
+  <NumEnemyRaids>Nepriateľské nájazdy</NumEnemyRaids>
 
-  <SkillMax>MAX</SkillMax>
   
   
 </LanguageData>

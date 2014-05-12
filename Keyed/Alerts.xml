@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClickToJumpToProblem>Kliknutím preskočíte na problém</ClickToJumpToProblem>
 
   <EquipStartingEquipment>Vezmite si svoju výbavu</EquipStartingEquipment>
   <EquipStartingEquipmentDesc>Pristáli ste s niekoľkými zbraňami. Nájdete ich blízko miesta pristátia.\n\nAby ste sa vystrojili, označte kolonistu a kliknite na predmet pravým tlačítkom.</EquipStartingEquipmentDesc>
-
-  
   
   <MentalBreakSoon>Riziko nervového kolapsu</MentalBreakSoon>
   <MentalBreakSoonDesc>Títo kolonisti sú na ceste k nervovému kolapsu:\n\n{0}\nZlepšite rýchlo ich psychickú situáciu, inak bude zle...</MentalBreakSoonDesc>
@@ -19,7 +17,7 @@
   <ColonistsNeedRescueDesc>Títo kolonisti ležia v bezvedomí na zemi:\n\n{0}\nPošlite iného kolonistu, aby ich zachránil a preniesol do postele.\n\n(Pre záchranu zvoľte iného kolonistu, kliknite pravým tlačítkom na obeť a zvoľte Zachrániť.)</ColonistsNeedRescueDesc>
 
   <BuildARoom>Postavte miestnosť</BuildARoom>
-  <BuildARoomDesc>Nemáte žiadne miestnosti.\n\nPostavte uzavretú miestnosť pomocou stien a dverí.\n\nNa vyznačenie miesta pre stavbu použite menu ARCHITEKT na spodnej strane obrazovky.</BuildARoomDesc>
+  <BuildARoomDesc>Nemáte žiadne miestnosti.\n\nPostavte miestnosť zo štyroch stien a dverí.\n\nNa vyznačenie miesta pre stavbu použite menu ARCHITEKT na spodnej strane obrazovky. Akonáhle zadáte novú stavbu, kolonisti sa ju budú snažiť vykonať v súlade so svojími už naplánovanými úlohami.</BuildARoomDesc>
 
   <NeedGrowingZone>Potrebujete pole</NeedGrowingZone>
   <NeedGrowingZoneDesc>Nemáte žiadnu pestovaciu zónu.\n\nUmiestnite pole na úrodnú pôdu pomocou menu ARCHITEKT.</NeedGrowingZoneDesc>

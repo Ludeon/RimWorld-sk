@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!--=========== Main menu ==========-->
   <NewColony>Nová kolónia</NewColony>
   <BackToGame>Späť do hry</BackToGame>
   <Save>Uložiť</Save>
@@ -17,21 +18,23 @@
   <TynansTwitter>Tynanov twitter</TynansTwitter>
   <TynansDesignBook>Tynanov dizajnblok</TynansDesignBook>
 
-
+  <!--=========== Version info ==========-->
   <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť.</BuildNowAvailable>
   <BuildUpToDate>Vaša verzia hry je aktuálna.</BuildUpToDate>
   <ErrorGettingVersionInfo>Chyba pri kontrole informácií o verzii hry: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Načítavam informácie o verzii hry...</LoadingVersionInfo>
 
-
+  <!--=========== Mods screen ==========-->
   <GetMods>Získať mody</GetMods>
   <ConfirmDisableCoreMod>Naozaj chcete zakázať základný mod? Hra nebude fungovať, pokiaľ nemáte iný mod, ktorý nahrádza základnú funkcionalitu.\n\nZapamätajte si, že iné mody môžu nahradiť definície v základnom mode použitím rovnakých "defName".</ConfirmDisableCoreMod>
   <Author>Autor</Author>
   
-  <Gameplay>Hranie hry</Gameplay>
 
+  <!--=========== Storyteller chooser ==========-->
   <ChooseAIStoryteller>Voľba UI Rozprávača</ChooseAIStoryteller>
-  
+  <HowStorytellersWork>UI Rozprávač vytvára udalosti ako pirátske nájazdy, straty zdrojov alebo útoky zvierat. Tieto rozhodnutia ovplyvňujú napredovanie a príbeh vašej kolónie.</HowStorytellersWork>
+
+  <!--=========== Character chooser ==========-->  
   <CreateCharacters>Tvorba postáv</CreateCharacters>
   <FirstNameDesc>Krstné meno postavy.\n\nToto je zobrazené len v niektorých ponukách.</FirstNameDesc>
   <ShortIdentifierDesc>Krátky identifikátor postavy.\n\nTento je zobrazený vždy. Môže to byť krstné meno alebo priezvisko, alebo niečo úplne iné.</ShortIdentifierDesc>
@@ -49,12 +52,17 @@
   <Male>Muž</Male>
   <Female>Žena</Female>
 
+  
+  <!--=========== Misc ==========-->
   <Start>Štart</Start>
   <Advanced>Pokročilé</Advanced>
   <Next>Ďalej</Next>
   <Back>Späť</Back>
 
+  <Gameplay>Hranie hry</Gameplay>
+
   <ConfirmQuit>Naozaj chcete skončiť? Stratíte neuloženú hru.</ConfirmQuit>
+  
   <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Vytváram svet...</GeneratingWorld>

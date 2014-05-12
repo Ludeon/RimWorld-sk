@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
   <DesignatorCancel>Zrušiť</DesignatorCancel>
@@ -10,8 +10,11 @@
   <DesignatorDeconstruct>Zbúrať</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Zbúranie stavieb a získanie časti z použitých surovín späť.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestPlants>Žatva rastlín</DesignatorHarvestPlants>
-  <DesignatorHarvestPlantsDesc>Označenie rastlín pre žatvu. Bude zozbierané použiteľné jedlo z rastlín, ale samotné rastliny zostanú neporušené.</DesignatorHarvestPlantsDesc>
+  <DesignatorHarvestFood>Zber jedla</DesignatorHarvestFood>
+  <DesignatorHarvestFoodDesc>Označenie rastlín na zber jedla. Bude zozbierané použiteľné jedlo z rastlín, ale samotné rastliny zostanú neporušené.</DesignatorHarvestFoodDesc>
+  
+  <DesignatorHarvestWood>Výrub dreva</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Označenie stromov určených na výrub pre získanie dreva.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Preprava predmetov</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Označenie sute a iných predmetov na prepravu na smetisko. Nie je potrebné pre jedlo alebo mŕtvoly, ktoré sú vždy prepravovateľné.</DesignatorHaulThingsDesc>

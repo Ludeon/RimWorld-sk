@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
@@ -45,7 +45,8 @@
   <Unresearched>Nepreskúmané</Unresearched>
   <Finished>Ukončené</Finished>
   <InProgress>Prebieha</InProgress>
-
+  <ResearchMenuWithoutBench>Pokiaľ nepostavíte VÝVOJÁRSKY STÔL, kolonisti nebudú môcť vykonávať výskum.\n\nStále si ale môžete pozrieť detaily výskumných projektov a zvoliť plánovaný projekt na výskum.</ResearchMenuWithoutBench>
+  
   <!-- Advanced game start options -->
   <MapSizePerformanceWarning>UPOZORNENIE: Výkon môže pri väčších mapách klesnúť, pokiaľ nemáte dostatočne rýchly počítač. Pri slabšom počítači zvoľte Malá; hra je stále vyrovnaná. Ludeonikrózna veľkosť nebola zatiaľ príliš otestovaná :) </MapSizePerformanceWarning>
   <MapSize>Veľkosť mapy</MapSize>

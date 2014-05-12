@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MessageRaidersLeaving>Návštevníci z {0} odchádzajú.</MessageRaidersLeaving>
-  <MessageRaidersGivenUpLeaving>Návštevníci z {0} to vzdali a odchádzajú.</MessageRaidersGivenUpLeaving>
-	
+  <MessageRaidersLeaving>{0} z {1} odchádzajú.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} z {1} to vzdali a odchádzajú.</MessageRaidersGivenUpLeaving>
+
+  <MessageFightersFleeing>{0} z {1} utekajú.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Spriatelení {0} z {1} odchádzajú.</MessageFriendlyFightersLeaving>
+
+  <MessageRaidersBeginningAssault>{0} z {1} začínajú útok.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} z {1} vás objavili a začínajú svoj útok predčasne.</MessageRaidersDetectedEarlyAssault>
+  
+  
   <MessageShipHasLeftCommsRange>{0} je mimo komunikačný dosah.</MessageShipHasLeftCommsRange>
 	
   <MessageNeedBeaconToTradeWithShip>Pre obchodovanie s loďou potrebujete orbitálny obchodný maják.</MessageNeedBeaconToTradeWithShip>
@@ -12,20 +19,11 @@
   
   <MessageFullyHealed>{0} je plne uzdravený/á.</MessageFullyHealed>
 
-  <MessageFightersFleeing>Bojovníci z {0} utekajú.</MessageFightersFleeing>
-
-  <MessageFriendlyFightersLeaving>Spriatelení bojovníci {0} odchádzajú.</MessageFriendlyFightersLeaving>
-
-  <MessageRaidersBeginningAssault>Nájazdníci z {0} začínajú útok.</MessageRaidersBeginningAssault>
-
-  <MessageRaidersDetectedEarlyAssault>Najazdníci z {0} vás objavili a začínajú svoj útok predčasne.</MessageRaidersDetectedEarlyAssault>
-
   <MessagePrisonerIsEscaping>Väzeň {0} uteká.</MessagePrisonerIsEscaping>
 
   <MessageRecruitSuccess>{0} úspešne naverboval/a {1} (šanca {2}).</MessageRecruitSuccess>
   <MessageRecruitFail>{0} nenaverboval/a {1} (šanca {2}).</MessageRecruitFail>
   <MessageRecruitFailBecauseLoyalty>{0} nenaverboval/a {1} (väzeň je pod hranicou loajality).</MessageRecruitFailBecauseLoyalty>
-
   
   <MessageTraderCannotAfford>Obchodník si nemôže dovoliť tento obchod.</MessageTraderCannotAfford>
   <MessageColonyCannotAfford>Kolónia si nemôže dovoliť tento obchod.</MessageColonyCannotAfford>
@@ -34,7 +32,9 @@
 
   <MessageCriticalAlert>Kritické upozornenie: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestablePlants>Musíte označiť spracovateľné rastliny.</MessageMustDesignateHarvestablePlants>
+  <MessageMustDesignateHarvestableFood>Musíte označiť dostatočne zrelé rastliny produkujúce jedlo.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Musíte označiť stromy poskytujúce drevo, ktoré majú dostatočný vzrast.</MessageMustDesignateHarvestableWood>
+  
   <MessageMustDesignatePlants>Musíte označiť rastliny.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Musíte označiť prenositeľné predmety.</MessageMustDesignateHaulable>
 
