@@ -35,8 +35,8 @@
 	<HunterHunt.gerund>loví</HunterHunt.gerund>
 	<DoBillsCook.verb>variť</DoBillsCook.verb>
 	<DoBillsCook.gerund>varí</DoBillsCook.gerund>
-	<DoBillsButcherFlesh.verb>porážať</DoBillsCook.verb>
-	<DoBillsButcherFlesh.gerund>poráža</DoBillsCook.gerund>		
+	<DoBillsButcherFlesh.verb>porážať</DoBillsButcherFlesh.verb>
+	<DoBillsButcherFlesh.gerund>poráža</DoBillsButcherFlesh.gerund>		
 	<CookFillHopper.verb>plniť</CookFillHopper.verb>
 	<CookFillHopper.gerund>plní</CookFillHopper.gerund>
 	<DoBillsCremate.verb>spopoľňovať</DoBillsCremate.verb>
