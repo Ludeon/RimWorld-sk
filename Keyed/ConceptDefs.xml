@@ -34,7 +34,7 @@
 
   <ConceptText_EquippingWeapons>Pre ozbrojenie kolonistu zbraňou zvoľte kolonistu a kliknite pravým tlačítkom myši na zbraň.\n\nNeďaleko vášho miesta pristátia je na zemi zopár zbraní.</ConceptText_EquippingWeapons>
 
-  <ConceptText_HomeRegion>DOMÁCE OBLASTI určujú, ktoré priestory budú kolonisti čistiť a hasiť v nich oheň.\n\nDOMÁCE OBLASTI môžete určiť v menu Architekt v kategórii Zóny.</ConceptText_HomeRegion>
+  <ConceptText_HomeRegion>DOMÁCE ZÓNY určujú, ktoré priestory budú kolonisti čistiť a hasiť v nich oheň.\n\nDOMÁCE ZÓNY môžete určiť v menu Architekt v kategórii Zóny.</ConceptText_HomeRegion>
 
   <ConceptText_StorageTabCategories>V záložke Skladovanie môžete prechádzať kategórie a povoliť alebo zakázať uskladnenie špecifických predmetov. Kliknite na trojuholníky naľavo od názvov kategórií.</ConceptText_StorageTabCategories>
 
@@ -53,6 +53,5 @@
   <ConceptText_TradeGoodsMustBeNearBeacon>Aby ste mohli posielať striebro alebo predmety obchodníkom na orbite, musíte postaviť na otvorenom priestranstve orbitálny obchodný maják a okolo neho vytvoriť sklad predmetov.</ConceptText_TradeGoodsMustBeNearBeacon>
   
   <ConceptText_ArrestingCreatesEnemies>Ak niekoho uväzníte, jeho celá frakcia sa začne správať nepriateľsky.\n\nNeväznite členov frakcie, ktorej chcete zostať priateľom!</ConceptText_ArrestingCreatesEnemies>
-
   
 </LanguageData>

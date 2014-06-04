@@ -33,11 +33,11 @@
   <DesignatorPlanRemove>Odstránenie plánovania</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Odstránia sa plánované územia.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Pridať Domácu oblasť.</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAdd>Pridať Domácu zónu.</DesignatorHomeRegionAdd>
   <DesignatorHomeRegionAddDesc>Kolonisti budú čistiť podlahy, hasiť oheň a opravovať budovy iba v tejto oblasti.</DesignatorHomeRegionAddDesc>
   
-  <DesignatorHomeRegionRemove>Odstrániť Domácu oblasť</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Odstráni sa domáca oblasť. Kolonisti tu už nebudú upratovať, opravovať alebo hasiť ohne.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemove>Odstrániť Domácu zónu</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Odstráni sa domáca zóna. Kolonisti tu už nebudú upratovať, opravovať alebo hasiť ohne.</DesignatorHomeRegionRemoveDesc>
 
   <DesignatorRegionNoRoofAdd>Vytvoriť oblasť bez strechy</DesignatorRegionNoRoofAdd>
   <DesignatorRegionNoRoofAddDesc>Vytvorí sa oblasť, kde nebude postavená strecha. Kolonisti tu tiež strhnú existujúcu strechu.</DesignatorRegionNoRoofAddDesc>

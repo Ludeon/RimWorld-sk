@@ -18,8 +18,5 @@
 	
 	<WallStone.label>Kamenná stena</WallStone.label>
 	<WallStone.description>Kamenná stena. Pretrvá veky. Je nehorľavá a nevedie elektrinu.</WallStone.description>
-	
-	<PowerConduit.label>Elektrický kábel</PowerConduit.label>
-	<PowerConduit.description>Vedie elektrinu.</PowerConduit.description>
 
 </LanguageData>

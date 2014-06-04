@@ -15,13 +15,14 @@
   <DyingLower>umiera</DyingLower>  
   <PawnEffectiveness>Efektivita</PawnEffectiveness>
   <FilthOnFeet>Špina na topánkach:</FilthOnFeet>
-
+  <NotEnoughStoredLower>nie je dostatok zásob</NotEnoughStoredLower>
 
   <!-- Job reports -->
   <ReportHaulingTo>Nosí {0} do {1}.</ReportHaulingTo>
   <ReportHauling>Nosí {0}.</ReportHauling>
 
   <!-- Shooting report -->
+  <WeaponMissRadius>Vzdialenosť mimo dostrel zbrane</WeaponMissRadius>
   <RangeSlashSkill>VZdialenosť/schopnosť</RangeSlashSkill>
   <RangeSlashEquipment>Vzdialenosť/výbava</RangeSlashEquipment>
   <Darkness>Temnota</Darkness>
@@ -87,7 +88,7 @@
 
 
   <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Označiť ďalší objekt na políčku.\n\nTiež je možné opakovane klikať na to isté políčko.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>Označiť ďalší objekt na políčku.\n\nSkratka: {0}\n\nTiež je možné opakovane klikať na to isté políčko.</SelectNextInSquareTip>
 
   <!-- ITab titles -->
   <TabBills>Recepty</TabBills>
@@ -149,7 +150,7 @@
 
   <!-- Plants -->
   <PercentGrowth>{0}% rast</PercentGrowth>
-  <Growing></Growing>
+  <Growing>Rastie</Growing>
   <NotGrowingNow>Nerastie (musí byť {0}).</NotGrowingNow>
   <HarvestableIn>Zberateľný po {0} rastu.</HarvestableIn>
   <FullyGrownIn>Zrelý po {0} rastu.</FullyGrownIn>

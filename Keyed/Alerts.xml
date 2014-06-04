@@ -3,6 +3,9 @@
 
   <ClickToJumpToProblem>Kliknutím preskočíte na problém</ClickToJumpToProblem>
 
+  <NeedSawmill>Potrebujete cirkulár</NeedSawmill>
+  <NeedSawmillDesc>Potrebujete nejaký typ cirkulára na rezanie guľatiny na použiteľnejšie dosky.\n\nPostavte RUČNÝ CIRKULÁR alebo ELEKTRICKÝ CIRKULÁR.</NeedSawmillDesc>  
+  
   <EquipStartingEquipment>Vezmite si svoju výbavu</EquipStartingEquipment>
   <EquipStartingEquipmentDesc>Pristáli ste s niekoľkými zbraňami. Nájdete ich blízko miesta pristátia.\n\nAby ste sa vystrojili, označte kolonistu a kliknite na predmet pravým tlačítkom.</EquipStartingEquipmentDesc>
   
@@ -53,7 +56,10 @@
   <BuildingsNeedPower>Budovy potrebujú energiu</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>Tieto energeticky závislé budovy sú odpojené od akéhoľkovek energetického zdroja:\n\n{0}\nPripojte ich ku generátoru energie alebo k nabitej batérii.</BuildingsNeedPowerDesc>
   <AndMore>a viac</AndMore>
-  
+ 
+  <NeedHomeRegion>Potrebujete domácu zónu</NeedHomeRegion>
+  <NeedHomeRegionDesc>Musíte definovať DOMÁCU ZÓNU, ktorú budú kolonisti čistiť, hasiť v nej oheň a opravovať predmety.\n\nDefinujte domácu zónu v sekcii ZÓNY v menu ARCHITEKT.</NeedHomeRegionDesc>
+ 
   <NeedMealSource>Potrebujete zdroj jedla</NeedMealSource>
   <NeedMealSourceDesc>Nemáte spôsob výroby stráviteľného jedla.\n\nPostavte výdajník nutričnej pasty alebo pec na pečenie.\n\n(Nie vo väzenskej cele, keďže ich potom nebudú môcť používať kolonisti.)</NeedMealSourceDesc>
 

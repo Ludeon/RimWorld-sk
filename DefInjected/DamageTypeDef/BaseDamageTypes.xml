@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<Crush.deathMessage>Rozdrvenie na smrť: {0}</Crush.deathMessage>
 	
 	<Bludgeon.deathMessage>Dobitie na smrť: {0}</Bludgeon.deathMessage>
 	

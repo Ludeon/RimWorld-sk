@@ -31,8 +31,8 @@
 	<StandingLamp_Green.label>Stojanová lampa (zelená)</StandingLamp_Green.label>
 	<StandingLamp_Green.description>Stojanová lampa, ktorá osvetľuje priestor navôkol zeleným svetlom.</StandingLamp_Green.description>	
 	
-	<BlueStandingLamp.label>Stojanová lampa (modrá)</BlueStandingLamp.label>
-	<BlueStandingLamp.description>Stojanová lampa, ktorá osvetľuje priestor navôkol modrým svetlom.</BlueStandingLamp.description>	
+	<StandingLamp_Blue.label>Stojanová lampa (modrá)</StandingLamp_Blue.label>
+	<StandingLamp_Blue.description>Stojanová lampa, ktorá osvetľuje priestor navôkol modrým svetlom.</StandingLamp_Blue.description>	
 
 	<EquipmentRack.label>Regál</EquipmentRack.label>
 	<EquipmentRack.description>Tu sa uskladňuje výstroj kolonistov.</EquipmentRack.description>´
