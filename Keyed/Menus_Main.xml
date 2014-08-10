@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
@@ -7,7 +7,7 @@
   <Save>Uložiť</Save>
   <Load>Nahrať</Load>
   <Options>Nastavenia</Options>
-  <Mods>Mody</Mods>
+  <Mods>Módy</Mods>
   <Credits>Poďakovanie</Credits>
   <QuitToMainMenu>Späť na hlavné menu</QuitToMainMenu>
   <QuitToOS>Ukončiť hru</QuitToOS>
@@ -17,10 +17,11 @@
   <OfficialWiki>Oficiálna wiki</OfficialWiki>
   <TynansTwitter>Tynanov twitter</TynansTwitter>
   <TynansDesignBook>Tynanov dizajnblok</TynansDesignBook>
+  <HelpTranslate>Pomôž preložiť Rimworld</HelpTranslate>
 
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť.</BuildNowAvailable>
-  <BuildUpToDate>Vaša verzia hry je aktuálna.</BuildUpToDate>
+  <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com</BuildNowAvailable>
+  <BuildUpToDate>Vaša verzia hry je aktuálna. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com </BuildUpToDate>
   <ErrorGettingVersionInfo>Chyba pri kontrole informácií o verzii hry: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Načítavam informácie o verzii hry...</LoadingVersionInfo>
 
@@ -28,7 +29,7 @@
   <GetMods>Získať mody</GetMods>
   <ConfirmDisableCoreMod>Naozaj chcete zakázať základný mod? Hra nebude fungovať, pokiaľ nemáte iný mod, ktorý nahrádza základnú funkcionalitu.\n\nZapamätajte si, že iné mody môžu nahradiť definície v základnom mode použitím rovnakých "defName".</ConfirmDisableCoreMod>
   <Author>Autor</Author>
-  
+  <OpenModsDataFolder>Otvoriť priečinok s módami</OpenModsDataFolder>
 
   <!--=========== Storyteller chooser ==========-->
   <ChooseAIStoryteller>Voľba UI Rozprávača</ChooseAIStoryteller>
@@ -46,7 +47,7 @@
   <Traits>Črty</Traits>
   <TraitsDoNothing>Črty sú zatiaľ iba zábavným doplnkom, keďže väčšina nemá žiadny vplyv na hru. To sa v budúcnosti ale zmení.</TraitsDoNothing>
   <Skills>Schopnosti</Skills>
-  <None>žiadne</None>
+  <NoneLower>žiadne</NoneLower>
   <Adulthood>Dospelosť</Adulthood>
   <Childhood>Detstvo</Childhood>
   <Male>Muž</Male>
