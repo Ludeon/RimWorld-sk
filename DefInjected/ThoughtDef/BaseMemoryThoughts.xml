@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<AteRawFood.label>Zjedená surová strava</AteRawFood.label>
@@ -17,7 +17,7 @@
 	<AteHumanoidMeatDirect.description>Zjedol som surové mäso iného človeka. To bola teda nočná mora!o bola teda nočná mora!</AteHumanoidMeatDirect.description>
 	
 	<AteWithoutTable.label>Jedlo zo zeme</AteWithoutTable.label>
-    <AteWithoutTable.description>Ich musste vom Boden essen. Können wir keine Tische aufstellen?</AteWithoutTable.description>
+    <AteWithoutTable.description>Musím jesť zo zeme. To nemáme žiadne stoličky?</AteWithoutTable.description>
 	
 	<AteHumanoidMeatAsIngredient.label>Zjedené ľudské mäso (uvarené)</AteHumanoidMeatAsIngredient.label>
 	<AteHumanoidMeatAsIngredient.description>Zjedol som v jedle mäso iného človeka. Hrozné!</AteHumanoidMeatAsIngredient.description>
