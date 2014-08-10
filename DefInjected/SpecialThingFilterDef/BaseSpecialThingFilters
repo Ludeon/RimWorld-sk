@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AllowCorpsesColonist.label>Povoliť mŕtvoly kolonistov</AllowCorpsesColonist.label>
+	<AllowCorpsesColonist.description>Povoliť spálenie mŕtvych kolonistov</AllowCorpsesColonist.description>
+	
+	<AllowCorpsesStranger.label>Povoliť mŕtvoly cudzincov</AllowCorpsesStranger.label>
+	<AllowCorpsesStranger.description>Povoliť spálenie mŕtvych cudzincov</AllowCorpsesStranger.description>
+	
+	<AllowBuried.label>Povoliť pochované mŕtvoly</AllowBuried.label>
+	<AllowBuried.description>Povoliť spálenie pochovaných mŕtvol</AllowBuried.description>
+	
+</LanguageData>
