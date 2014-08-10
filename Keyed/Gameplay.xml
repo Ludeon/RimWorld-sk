@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Various -->
   <WorkLeft>Zostávajúca práca</WorkLeft>
   <Contents>Obsah</Contents>
+  <ContainedResources>Obsahuje suroviny</ContainedResources>
   <ForPrisonerUse>Pre väzňov</ForPrisonerUse>
   <ForColonistUse>Pre kolonistov</ForColonistUse>
   <Owner>Vlastník</Owner>
@@ -15,7 +16,14 @@
   <DyingLower>umiera</DyingLower>  
   <PawnEffectiveness>Efektivita</PawnEffectiveness>
   <FilthOnFeet>Špina na topánkach:</FilthOnFeet>
-  <NotEnoughStoredLower>nie je dostatok zásob</NotEnoughStoredLower>
+  <NotEnoughStoredLower>Nie je dostatok zásob</NotEnoughStoredLower>
+    <NothingLower>Nič</NothingLower>
+	
+	<!-- Turrets -->
+  
+  <MinimumRange>Minimálny dostrel</MinimumRange>
+  <CanFireIn>Môže vystreliť za</CanFireIn>
+
 
   <!-- Job reports -->
   <ReportHaulingTo>Nosí {0} do {1}.</ReportHaulingTo>
@@ -89,6 +97,7 @@
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Označiť ďalší objekt na políčku.\n\nSkratka: {0}\n\nTiež je možné opakovane klikať na to isté políčko.</SelectNextInSquareTip>
+  <DefInfoTip>Zobraziť informácie o tomto objekte.</DefInfoTip>
 
   <!-- ITab titles -->
   <TabBills>Recepty</TabBills>
@@ -98,6 +107,7 @@
   <TabPrisoner>Väzeň</TabPrisoner>
   <TabThoughts>Myšlienky</TabThoughts>
   <TabStorage>Úložisko</TabStorage>
+  <TabGear>Vybavenie</TabGear>
 
   <!-- ITabs -->
   <AddBill>Pridať úlohu</AddBill>
@@ -113,6 +123,15 @@
   <PrisonerMildBeating>Malá bitka</PrisonerMildBeating>
   <PrisonerViciousBeating>Drsná bitka</PrisonerViciousBeating>
   <PrisonerExecution>Poprava</PrisonerExecution>
+  	<Equipment>Vybavenie</Equipment>
+	<Apparel>Apparel</Apparel>
+	<Inventory>Inventár</Inventory>
+	<ThingInfo>Informácie</ThingInfo>
+	<DropThing>Položiť</DropThing>
+	<TotalModifiers>Total modifiers</TotalModifiers>
+	<DamageAbsorption>Absorbácia poškodenia</DamageAbsorption>
+	<MoveSpeed>Rýchlosť pohybu</MoveSpeed>
+
 
   <!-- like 'Blood of John' -->
   <OfLower>z</OfLower>
@@ -183,6 +202,30 @@
    
   <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Špeciálne podmienky momentálne ovplyvňujúce územie.</MapConditionsTip>
+   
+   <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Nemôže byť umiestnené pod strechou.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Musí byť pripevnené k nosiču lode.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Musí byť umiestnené vedľa niečoho, čo potrebuje násypník.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Musí byť umiestnené priamo na gejzíre.</MustPlaceOnSteamGeyser>
+  
+  <!-- Cryptosleep pod -->
+  <PodContains>Obsahuje</PodContains>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Nemožno vystreliť.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Pripravená na štart.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Chýba dôležitý komponent.</ShipReportMissingPart>
+  <ShipReportNoFullPods>Nie všetky kryptokapsule sú plné.</ShipReportNoFullPods>
+
+  
+  
+  <!-- Game over -->
+  <GameOverEveryoneDead>Všetci sú mŕtvy alebo preč. Tento príbeh je u konca.\n\nMožno raz niekto nájde a využije tieto ruiny.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Vystrelil si svoju loď! Títo kolonisti utiekli:\n\n{0}\nTíto kolonisti ostali na planéte:\n\n{1}\nTvoje AI sa teraz pokúsi doviesť ťa na nejaké bezpečné miesto. Môže ťa vyložiť na lepšej planéte v tomto systéme. Alebo to zabere cestu dlhú storočia k ďalšej hviezde. Môže sa dokonca ukryť pod ľadom na nejakom asteroide, čakajúc na lepšiu epochu.\n\nTo zistíš, až keď sa zobudíš.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Hrať ďalej</GameOverKeepPlaying>
+  <GameOverMainMenu>Hlavné menu</GameOverMainMenu>
+  
 
 
    
