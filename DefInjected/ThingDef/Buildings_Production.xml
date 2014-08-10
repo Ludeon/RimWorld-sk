@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
 	<NutrientPasteDispenser.label>Výdajník nutričnej pasty</NutrientPasteDispenser.label>
@@ -33,5 +33,8 @@
 
 	<SunLamp.label>Slnečná lampa</SunLamp.label>
 	<SunLamp.description>Osvetľuje priestor navôkol natoľko, že sú rastliny schopné rásť.</SunLamp.description>
+	
+	<Crematorium.label>Krematórium</Crematorium.label>
+	<Crematorium.description>Spaľuje mŕtvoly.</Crematorium.description>
 	
 </LanguageData>
