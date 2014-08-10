@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
 	<Clear.label>Jasno</Clear.label>
@@ -13,5 +13,9 @@
 	<RainyThunderstorm.description>Blesky síce zapaľujú ohne, ale dážď ich potom rýchlo hasí. Dážď okrem toho spomaľuje rýchlosť pohybu a znižuje účinnosť streľby.</RainyThunderstorm.description>
 	<FoggyRain.label>Dážď s hmlou</FoggyRain.label>
 	<FoggyRain.description>Znižuje účinnosť streľby a rýchlosť pohybu.</FoggyRain.description>
+	<SnowHard.label>Ťažké sneženie</SnowHard.label>
+	<SnowHard.description>Sneh znižuje presnosť zbraní, hasí požiare a spomaľuje ľudí</SnowHard.description>
+	<SnowGentle.label>Sneženie</SnowGentle.label>
+	<SnowGentle.description>Sneh znižuje presnosť zbraní, hasí požiare a spomaľuje ľudí</SnowGentle.description>
 	
 </LanguageData>
