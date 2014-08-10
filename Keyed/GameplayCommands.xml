@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <CommandForbiddenDesc>Zakázaný - kolonisti objekt ignorujú.</CommandForbiddenDesc>
@@ -10,8 +10,6 @@
   <CommandGatherSpotToggleLabel>Zhromaždisko</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktívne - kolonisti sa budú okolo tohto objektu zhromažďovať.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Neaktívne - kolonisti sa okolo tohto objektu nebudú zhromažďovať.</CommandGatherSpotToggleDescInactive>
-
-  
 
   <CommandDraftLabel>Zapnúť bojový režim</CommandDraftLabel>
   <CommandUndraftLabel>Ukončiť bojový režim</CommandUndraftLabel>
@@ -29,8 +27,6 @@
   <TurningOffPrisonerBedWarning>Vypnutie väzenského módu ovplyvní celú izbu (keďže väzni a kolonisti nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOffPrisonerBedWarning>
   <AreYouSure>Naozaj to chcete spraviť?</AreYouSure>
 
-  
-  
   <CommandDetonateDesc>Začať odpočítavanie k výbuchu.</CommandDetonateDesc>
   <CommandDetonateLabel>Odpáliť</CommandDetonateLabel>
 
@@ -43,6 +39,27 @@
 
   <CommandDeleteZoneDesc>Zmazať túto zónu.</CommandDeleteZoneDesc>
   <CommandDeleteZoneLabel>Zmazať</CommandDeleteZoneLabel>
+  
+   <!-- Artillery -->
+  <CommandSetForceAttackTarget>Určiť cieľ</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Určí cieľ, na ktorý bude obranná jednotka strieľať, pokiaľ bude môcť.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Zastaviť streľbu.</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Zastavý streľbu, a nechá jednotke voľnosť pri streľbe.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Žiadna streľba nie je aktívna.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Cieľ je za hranicou dostrelu.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Cieľ je pod minimálnou hranicou dostrelu.</MessageTargetBelowMinimumRange>
+  
+    <!-- Ship computer core -->
+  <CommandShipLaunch>Vystreliť loď</CommandShipLaunch>
+  <CommandShipLaunchDesc>Odštartuje loď s aktuálnou konfiguráciou.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Zobraziť správu o lodi</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Zobrazí informácie o lodi.</CommandShipLaunchReportDesc>
+
+<!-- Pod -->
+  <CommandPodEject>Otvoriť kryptokapsulu</CommandPodEject>
+  <CommandPodEjectDesc>Zobudí kolonistu v kryptospánku a vypustí ho.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Nikoho neobsahuje</CommandPodEjectFailEmpty>
+
   
   
 </LanguageData>
