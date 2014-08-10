@@ -31,4 +31,7 @@
 	<Decoration.label>Dekorácie</Decoration.label>
     <Decoration.description>Pekné veci pre spríjemnenie prostredia a zlepšenie nálady.</Decoration.description>
 	
+	<Ship.label>Vesmírna loď</Ship.label>
+	<Ship.description>Komponenty na tvoju únikovú loď.</Ship.description>
+	
 </LanguageData>
