@@ -5,6 +5,9 @@
   <ClockDate>Dátum</ClockDate>
   <ClockYear>Rok</ClockYear>
 <DateReadoutTip>Od tvojho príchodu prešlo {0} dní.\nJeden Mesiac má {1} dní.</DateReadoutTip>
+<FullDate>{0} {1}, Rok {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+
 
 <MonthFullJanuary>January</MonthFullJanuary>
   <MonthFullFebruary>February</MonthFullFebruary>
