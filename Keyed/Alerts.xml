@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClickToJumpToProblem>Kliknutím preskočíte na problém</ClickToJumpToProblem>
@@ -84,6 +84,15 @@
   <TableNeedsChairs>Stôl potrebuje stoličky</TableNeedsChairs>
   <TableNeedsChairsDesc>Máte stôl bez stoličiek. Stoly sú zbytočné, pokiaľ pri nich ľudia nemôžu sedieť.</TableNeedsChairsDesc>
   
+  <AlertNeedStockpile>Potrebujete sklad</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Tvoji kolonisti potrebujú miesto na ukladanie vecí.\n\nNájdi sklad v sekcii ZÓNA v architekt menu v ľavom dolnom rohu.</AlertNeedStockpileDesc>
   
+  <AlertEquipStartingWeapons>Ozbrojte sa</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Pristáli ste s niekoľkými zbraňami. Nájdete ich blízko miesta pristátia.\n\nAby ste sa vystrojili, označte kolonistu a kliknite na predmet pravým tlačítkom.</AlertEquipStartingWeaponsDesc>
+ 
+  <AlertUnforbidStartingResources>Povoľte materiály</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Začínajúce materiály na mape sú zakázané. \n\nAby si ich tvoji kolonisti mohli zobrať, musíš ich označiť, a potom povoliť v rohu obrazovky.</AlertUnforbidStartingResourcesDesc>
   
+  <HaltedConstructions>{0} konštrukciam chýbajú materiály</HaltedConstructions>
+  <HaltedConstructionsDesc> Týmto konštrukciam chýbaju materiály: \n\n{0}</HaltedConstructionsDesc>
 </LanguageData>
