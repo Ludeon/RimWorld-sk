@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Ship_Beam.label>Nosič</Ship_Beam.label>
+	<Ship_Beam.description>Nosič, okolo ktorého môže byť postavená loď.</Ship_Beam.description>
+	
+	<Ship_CryptosleepPod.label>Kapsula na kryptospánok</Ship_CryptosleepPod.label>
+	<Ship_CryptosleepPod.description>Kapsula chránená proti nebezpečenstvám vesmíru. Dokáže udržať osobu v kryptospánku po storočia.</Ship_CryptosleepPod.description>
+	
+	<Ship_ComputerCore.label>Jadro počítača</Ship_ComputerCore.label>
+	<Ship_ComputerCore.description>Jadro počítača hostí superhumanoidné AI, ktoré dokáže navádzať loď cez hocijaké nebezpečenstvá.</Ship_ComputerCore.description>
+	
+	<Ship_Reactor.label>Reaktor</Ship_Reactor.label>
+	<Ship_Reactor.description>Napája loď počas jej cesty vesmírom.</Ship_Reactor.description>
+	
+	<Ship_Engine.label>Motor</Ship_Engine.label>
+	<Ship_Engine.description>Motor poháňaný antihmotou, ktorý dokáže vystreliť loď na orbit.</Ship_Engine.description>
+	
+</LanguageData>
