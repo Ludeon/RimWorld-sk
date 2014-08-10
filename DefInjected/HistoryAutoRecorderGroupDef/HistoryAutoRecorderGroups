@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Wealth.label>Bohatstvo</Wealth.label>
+	<Wealth.graphLabelY>Množstvo</Wealth.graphLabelY>
+	
+	<Population.label>Populácia</Population.label>
+	<Population.graphLabelY>Kolonisti</Population.graphLabelY>
+	
+	<ColonistMood.label>Nálada kolonistov</ColonistMood.label>
+	<ColonistMood.graphLabelY> Percentá</ColonistMood.graphLabelY>
+	
+	
+
+	
+</LanguageData>
+	
