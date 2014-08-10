@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
 	<Hungry.label>Hladný</Hungry.label>
@@ -58,19 +58,12 @@
 	<ColonistLeftUnburied.label>Nepochovaný kolonista</ColonistLeftUnburied.label>
     <ColonistLeftUnburied.description>Jeden z nás zomrel a nechali sme ho len tak ležať. Nikto by nemal zostať nepochovaný. Ľudia si zaslúžia zodpovedajúci pohreb.</ColonistLeftUnburied.description>
 	
+	<Naked.label>Nahý</Naked.label>
+    <Naked.description>Som nahý/á. To je tak ponižujúce.</Naked.description>	
 	
+	<CabinFeverMild.label>Zatvorený (krátko)</CabinFeverMild.label>
+    <CabinFeverMild.description>Už som tu pár dní zatvorený/á. Potrebujem ísť von!.</CabinFeverMild.description>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<CabinFeverSerious.label>Zatvorený (dlho)</CabinFeverSerious.label>
+    <CabinFeverSerious.description>Som tu zavretý/á ako potkan!. Musím ísť ihneď von, inak z toho zošaliem!</CabinFeverSerious.description>
 </LanguageData>
