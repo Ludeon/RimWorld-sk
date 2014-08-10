@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+  <!-- Psychic drone -->
+	<PsychicDroneLow.label>Psychická  vlna (ľahká)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Je to ako škrabanie v mojej mysli. Hlas, šepkajúci. Nepáči sa mi.</PsychicDroneLow.description>
+
+	<PsychicDroneMedium.label>Psychická  vlna (stredná) </PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Cítim sa ako keby tu bol niekto mimo dohľadu, hovoriac na mňa. Jeho hlas sa mení, ale jeho slová nie. Mám ublížiť ľudom. Nech ide preč!</PsychicDroneMedium.description>
+	
+	<PsychicDroneHigh.label>Psychická  vlna (ťažká)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>Hlas je príšerne hlasný. Je ťažké sa koncentrovať. Niekedy sa pristihnem, ako hlasu odpovedám, kričím naň. Ale on len kričí.</PsychicDroneHigh.description>
+	
+	<PsychicDroneExtreme.label>Psychická  vlna (extrémna)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>V hlave mi zvoní a potím sa. Jediné na čo myslím, je ubližovanie nepriateľom. Sú všade. Moja nočná mora...nočná mora...nočná mora...</PsychicDroneExtreme.description>
+	
+	
+	
+	
+	
+</LanguageData>
