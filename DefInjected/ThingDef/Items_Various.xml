@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 	<DoorKey.label>Kľúč od dverí</DoorKey.label>
@@ -8,8 +8,10 @@
 	<Puddle_Fuel.description>Horí na zemi.</Puddle_Fuel.description>
 	
 	<OilCan.label>Olejový kanister</OilCan.label>
+	<OilCan.description>Pri poškodení vybuchuje</OilCan.description>
 	
 	<PressurizedCanister.label>Tlakový kanister</PressurizedCanister.label>
+	<PressurizedCanister.description>Pri poškodení vyletí a exploduje.</PressurizedCanister.description>
 	
 	<ElectricalBox.label>Elektrická skriňa</ElectricalBox.label>
 	<ElectricalBox.description>Pri poškodení exploduje a zapáli okolie.</ElectricalBox.description>
