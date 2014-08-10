@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ShipBasics.label>Základy stavania lode</ShipBasics.label>
+	<ShipBasics.description>Dovoľuje ti začať skúmať nové technológie lode.</ShipBasics.description>
+
+	<ShipCryptosleep.label>Kapsula na kryptospánok</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Kapsula chránená proti nebezpečenstvám vesmíru. Dokáže udržať osobu v kryptospánku po storočia.</ShipCryptosleep.description>
+	
+	<ShipReactor.label>Reaktor</ShipReactor.label>
+	<ShipReactor.description>Napája loď počas jej cesty vesmírom.</ShipReactor.description>
+	
+	<ShipEngine.label>Motor</ShipEngine.label>
+	<ShipEngine.description>Motor poháňaný antihmotou, ktorý dokáže vystreliť loď na orbit.</ShipEngine.description>
+	
+	<ShipComputerCore.label>Jadro počítača</ShipComputerCore.label>
+	<ShipComputerCore.description>>Jadro počítača, ktoré hostí superhumanoidné AI, ktoré dokáže navádzať loď cez hocijaké nebezpečenstvá.</ShipComputerCore.description>
+	
+
+</LanguageData>
