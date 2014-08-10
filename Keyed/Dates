@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <ClockDate>Dátum</ClockDate>
+  <ClockYear>Rok</ClockYear>
+<DateReadoutTip>Od tvojho príchodu prešlo {0} dní.\nJeden Mesiac má {1} dní.</DateReadoutTip>
+
+<MonthFullJanuary>January</MonthFullJanuary>
+  <MonthFullFebruary>February</MonthFullFebruary>
+  <MonthFullMarch>March</MonthFullMarch>
+  <MonthFullApril>April</MonthFullApril>
+  <MonthFullMay>May</MonthFullMay>
+  <MonthFullJune>June</MonthFullJune>
+  <MonthFullJuly>July</MonthFullJuly>
+  <MonthFullAugust>August</MonthFullAugust>
+  <MonthFullSeptember>September</MonthFullSeptember>
+  <MonthFullOctober>October</MonthFullOctober>
+  <MonthFullNovember>November</MonthFullNovember>
+  <MonthFullDecember>December</MonthFullDecember>
+
+  <MonthShortJanuary>Jan</MonthShortJanuary>
+  <MonthShortFebruary>Feb</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Máj</MonthShortMay>
+  <MonthShortJune>Jún</MonthShortJune>
+  <MonthShortJuly>Júl</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Okt</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Dec</MonthShortDecember>
+
+
+    
+    
+</LanguageData>
