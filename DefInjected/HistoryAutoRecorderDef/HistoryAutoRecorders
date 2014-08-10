@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WealthTotal.label>Celková hodnota</WealthTotal.label>
+	
+	<WealthItems.label>Hodnota predmetov</WealthItems.label>
+	
+	<WealthBuildings.label>Hodnota stavieb</WealthBuildings.label>
+	
+	<FreeColonists.label>Kolonisti</FreeColonists.label>
+	
+	<Prisoners.label>Väzni</Prisoners.label>
+	
+	<ColonistMood.label>Nálada kolonistov</ColonistMood.label>
+	
+	
+	
+</LanguageData>
