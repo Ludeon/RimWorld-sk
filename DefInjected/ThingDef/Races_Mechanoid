@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- ============================ Mechanoids ========================== -->
+	
+	<Mechanoid_Centipede.label>Stonožka</Mechanoid_Centipede.label>
+	<Mechanoid_Centipede.description>Ťažký bojový mechanoidi. Ich tažké brnenie a veľká palebná sila ich robi veľmi efektívnimy proti nehybným cieľom. Ich slabina je taktika udri a uteč.</Mechanoid_Centipede.description>
+	<Mechanoid_Scyther.label>Scyther</Mechanoid_Scyther.label>
+	<Mechanoid_Scyther.description>Rýchly mechanoidi o veľkosti človeka. Obvykle nosia jednú hlavnú zbraň na diaľku. Ich telá su pokryté ostňami, ktoré ich robia smrtiacimi v blízkych súbojoch.</Mechanoid_Scyther.description>
+	
+
+	
+</LanguageData>
