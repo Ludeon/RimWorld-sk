@@ -1,10 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <CallOnRadio>Zavolať {0}</CallOnRadio>
   <CannotUseSolarFlare>Nie je možné použiť (slnečné žiarenie)</CannotUseSolarFlare>
   <CannotUseNoPower>Nie je možné použiť (chýba energia)</CannotUseNoPower>
   <CannotUseNoPath>Nie je možné použiť (chýba cesta)</CannotUseNoPath>
+    <CannotUseReserved>Nie je možné použiť (rezervované)</CannotUseReserved>
+  <CannotUseFull>Nie je možné použiť (plné)</CannotUseFull>
 
   <FireAt>Strieľať na {0}</FireAt>
 
@@ -40,7 +42,12 @@
   <ReservedBy>Rezervoval: {0}</ReservedBy>
   <IsReservedBy>{0} je rezervovaný/á pre {1}.</IsReservedBy>
 
-
+  <Wear>Nosiť {0}</Wear>
+  <CannotWear>Nemožno nosiť {0}</CannotWear>
+  
+  <Strip>Vyzliecť {0}</Strip>
+  <CannotStrip>Nemožno vyzliecť {0}</CannotStrip>
+  
   <Equip>Vziať {0}</Equip>
   <CannotEquip>Nie je možné vziať {0}</CannotEquip>
 
@@ -63,5 +70,7 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritizovať: {0} {1}</PrioritizeGeneric>
+  
+  <EnterCryptosleepPod>Vstúpiť do kryptokapsule</EnterCryptosleepPod>
   
 </LanguageData>
