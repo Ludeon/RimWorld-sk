@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Dark>Tma</Dark>
@@ -34,6 +34,16 @@
   <FiresOnMap>Ohne na mape</FiresOnMap>
   <NumEnemyRaids>Nepriateľské nájazdy</NumEnemyRaids>
 
+    <!-- History tab -->
+  <HistoryTab>História</HistoryTab>
+  <SelectGraph>Zvoľ graf</SelectGraph>
+  <Last30Days>30 dní</Last30Days>
+  <Last100Days>100 dní</Last100Days>
+  <Last300Days>300 dní</Last300Days>
+  <AllDays>Všetko</AllDays>
+  <Day>Deň</Day>
+  <Value>Cena</Value>
+  <External>External</External>
   
   
 </LanguageData>
