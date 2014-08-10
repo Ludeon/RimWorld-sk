@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
  
   <AnimalInsanitySingle>Miestny/a {0} zošalel/a. Zaútočí na každého, koho zbadá.</AnimalInsanitySingle>
@@ -50,5 +50,23 @@
   <VisitorsLeaving>Návštevníci z {0} odchádzajú.</VisitorsLeaving>
  
   <WandererJoin>Prišiel/a {0} menom NAME a pridal/a sa ku kolónii. HECAP je {1}.</WandererJoin>
+ 
+ <!-- Crashed ship part-->
+  <SpaceshipPartCrash>Veľký kus havarovanej lode dopadol niekde v okolí.\n\nTvoji kolonisti cítia niekde v zadu ich mysle zvláštne, šepkajúce zvuky. Vnútri to musí schovávať AI Personas. A toto AI nie je priateľské.\n\nZnič ho čo najskôr.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Spadnutý kus dole vysiela psychické vlny, ktore privádzajú niektoré zvieratá do šialenstva.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Spadnutý kus love vysiela psychické vlny, ktoré priviedli {0} do šialenstva.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Spadlo pred {0} dňami.</AwokeDaysAgo>
+  <PsychicDroneLevel>Úroveň psychickej vlny: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Nízka</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Stredná</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Vysoká</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extrémna</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Padnutý kus lode teraz vysiela silnejšie psychické vlny. Každý kolonista sa cíti rozrušený, zhrozený a paranoidný.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} bol agent tvojho nepriateľa {1}.\n\nTeraz sa pokúša utiecť.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Bolesť hlavy ti ju preráža ako klinec!\n\nNiektorý vzdialený stroj vysiela silnú psychickú vlnu celým regiónom. </LetterIncidentPsychicDrone>
  
 </LanguageData>
