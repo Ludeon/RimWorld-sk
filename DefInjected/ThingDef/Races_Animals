@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+
+	<!-- ============================ Animals ========================== -->
+  
+	<Muffalo.label>Muffalo</Muffalo.label>
+	<Muffalo.description>Veľké bylinožravece pochádzajúce z byvola a prispôsobené exotickému prostrediu. Mierumilovné pokiaľ nerušené</Muffalo.description>
+	
+	<Squirrel.label>Veverica</Squirrel.label>
+	<Squirrel.description>Jeden z mnohých vytrvalých, univerzálnych druhov hlodavcov, ktoré nasledujú človeka po celom vesmíre.</Squirrel.description>
+	
+	<Boomrat.label>Bumkrysa</Boomrat.label>
+	<Boomrat.description>Vytvorené genetickým ozbrojovaním, alebo ako zvláštný obranný mechanizmus, nieto potkany vybuchnú, keď sú zabité.</Boomrat.description>
+	
+
+	
+</LanguageData>
