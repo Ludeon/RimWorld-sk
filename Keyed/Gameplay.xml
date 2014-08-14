@@ -18,7 +18,10 @@
   <FilthOnFeet>Špina na topánkach:</FilthOnFeet>
   <NotEnoughStoredLower>Nie je dostatok zásob</NotEnoughStoredLower>
     <NothingLower>Nič</NothingLower>
-	
+	 <MedicalBed>Na liečenie</MedicalBed>
+	   <FreshMissingBodyPart>Čerstvé</FreshMissingBodyPart>
+	   <Headshot>Strela do hlavy</Headshot>
+	<Efficiency>Efektívnosť</Efficiency>
 	<!-- Turrets -->
   
   <MinimumRange>Minimálny dostrel</MinimumRange>
@@ -108,6 +111,7 @@
   <TabThoughts>Myšlienky</TabThoughts>
   <TabStorage>Úložisko</TabStorage>
   <TabGear>Vybavenie</TabGear>
+   <TabHealth>Zdravie</TabHealth>
 
   <!-- ITabs -->
   <AddBill>Pridať úlohu</AddBill>
@@ -131,7 +135,19 @@
 	<TotalModifiers>Total modifiers</TotalModifiers>
 	<DamageAbsorption>Absorbácia poškodenia</DamageAbsorption>
 	<MoveSpeed>Rýchlosť pohybu</MoveSpeed>
-
+	<MissingBodyPart>Chýba</MissingBodyPart>
+	<DestroyedBodyPart>Zničené</DestroyedBodyPart>
+	<ShatteredBodyPart>Roztrieštené</ShatteredBodyPart>
+	<Healthy>Zdravý</Healthy>
+	<InPain>V bolelstiach</InPain>
+	<PainLevel>Bolesť</PainLevel>
+	<Unconscious>V bezvedomí</Unconscious>
+	<PainShock>V šoku</PainShock>
+	<NoInjuries>(žiadne zranenia)</NoInjuries>
+	<WholeBody>Celé telo</WholeBody>
+	<RenameColonist>Premenuj kolonistu</RenameColonist>
+	<DataProcessing>Spracúvajú sa dáta</DataProcessing>
+	<None>Žiadne</None>
 
   <!-- like 'Blood of John' -->
   <OfLower>z</OfLower>
@@ -146,10 +162,7 @@
   <PowerBatteryEfficiency>Účinnosť</PowerBatteryEfficiency>
 
   
-  <!--Rotting-->
-  <RotStateFresh>Fresh</RotStateFresh>
-  <RotStateRotting>Rotting</RotStateRotting>
-  <RotStateDessicated>Dessicated</RotStateDessicated>
+
 
   <!-- Shooting Tooltip -->
   <ShotBy>Postrelený od: {0}</ShotBy>
@@ -226,7 +239,25 @@
   <GameOverKeepPlaying>Hrať ďalej</GameOverKeepPlaying>
   <GameOverMainMenu>Hlavné menu</GameOverMainMenu>
   
+    <Mood>Nálada</Mood>
+  <MoodTip>Nálama sa mení podľa plnenia či neplnenia fyzických a psychických potrieb.\n\nAk niekoho nálada klesne veľmi nízko, môžu sa s toho zblázniť.</MoodTip>
 
-
+  <!-- Body and activities condition -->
+  <VeryPoor>Veľmi slabý</VeryPoor>
+  <Poor>Slabý</Poor>
+  <Weakened>Oslabený</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <SeriouslyImpaired>Vážne poškodený</SeriouslyImpaired>
+  <Impaired>Poškodený</Impaired>
+  <SlightlyImpaired>Ľahko poškodený</SlightlyImpaired>
+  <NoPain>Žiadna</NoPain>
+  <LittlePain>Malá</LittlePain>
+  <MediumPain>Stredná</MediumPain>
+  <SeverePain>Veľká</SeverePain>
+  <ExtremePain>Extrémna</ExtremePain>
+  
+  	<RotStateFresh>Čerstvé</RotStateFresh>
+	<RotStateRotting>Zhnité</RotStateRotting>
+	<RotStateDessicated>Kostra</RotStateDessicated>
    
 </LanguageData>
