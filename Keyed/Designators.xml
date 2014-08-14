@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
   <DesignatorCancel>Zrušiť</DesignatorCancel>
@@ -77,6 +77,8 @@
   
   <!-- desc helpers -->
   <TransmitsPower>Prenáša energiu</TransmitsPower>
+   <DesignatorClaim>Zabrať</DesignatorClaim>
+  <DesignatorClaimDesc>Zabere neutrálne štruktúry pre kolóniu, vrátane rozpadnutých budou a opustených obliehacích základní. Zabrané štruktúry môžu byť opravovane a spravované tvojími kolonistami.</DesignatorClaimDesc>
 
 
 </LanguageData>
