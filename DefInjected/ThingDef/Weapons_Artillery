@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
+	
 	<!-- ================== Incendiary mortar ================== -->
 	
 	<Bullet_MortarIncendiary.label>Zápalná mína</Bullet_MortarIncendiary.label>
@@ -14,6 +15,15 @@
 	<Artillery_MortarBomb.label>Mínomet (Explodujúci)</Artillery_MortarBomb.label>
 	<Artillery_MortarBomb.description>Mínomet, ktorého míny explodujú. Nepresný, ale má veľký dostrel.</Artillery_MortarBomb.description>
 	
+
+
+	
+	
+	<!-- ================= EMP mortar ================= -->
+	
+	<Bullet_MortarEMP.label>EMP mína</Bullet_MortarEMP.label>
+	<Artillery_MortarEMP.label>Mínomet (EMP)</Artillery_MortarEMP.label>
+	<Artillery_MortarEMP.description>Mínomet, ktorý strieľa míny cez steny. Nepresný, ale má veľký dostrel</Artillery_MortarEMP.description>
 	
 	
 
