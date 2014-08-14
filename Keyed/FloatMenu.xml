@@ -73,4 +73,9 @@
   
   <EnterCryptosleepPod>Vstúpiť do kryptokapsule</EnterCryptosleepPod>
   
+   <OrderManThing>Obslúžiť {0}</OrderManThing>
+   <UseMedicalBed>Spať pokiaľ nie je plne uzdravený</UseMedicalBed>
+  <NotInjured>Nezranený</NotInjured>
+  <SomeoneElseSleeping>Obsadené</SomeoneElseSleeping>
+  
 </LanguageData>
