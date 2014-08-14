@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Sand.label>Piesok</Sand.label>
@@ -6,6 +6,7 @@
 	<SoilRich.label>Úrodná zem</SoilRich.label>
 	<Gravel.label>Štrk</Gravel.label>
 	<RoughStone.label>Hrubý kameň</RoughStone.label>
+	<Mud.label>Blato</Mud.label>
 	
 	
 	
