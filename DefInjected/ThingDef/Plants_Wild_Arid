@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
+
+	<PlantAgave.label>Agáve</PlantAgave.label>
+	<PlantAgave.description>Púštna rastlina s veľkými listami, ktorých stonka a kvetina sú jedlé.</PlantAgave.description>
+
+	
+	<!--============================ Wild - Cacti ============================-->
+	
+	<PlantSaguaroCactus.label>Kaktus</PlantSaguaroCactus.label>
+	<PlantSaguaroCactus.description>Veľký kaktus, ktorý prežíva aj v tých najsuchších oblastiach planéty.</PlantSaguaroCactus.description>
+
+	<PlantPincushionCactus.label>Malý kaktus</PlantPincushionCactus.label>
+	<PlantPincushionCactus.description>Malý kaktus.</PlantPincushionCactus.description>
+	
+</LanguageData>
