@@ -2,6 +2,7 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
+  <CreateWorld>Vytvoriť svet</CreateWorld>
   <NewColony>Nová kolónia</NewColony>
   <BackToGame>Späť do hry</BackToGame>
   <Save>Uložiť</Save>
@@ -34,7 +35,15 @@
   <!--=========== Storyteller chooser ==========-->
   <ChooseAIStoryteller>Voľba UI Rozprávača</ChooseAIStoryteller>
   <HowStorytellersWork>UI Rozprávač vytvára udalosti ako pirátske nájazdy, straty zdrojov alebo útoky zvierat. Tieto rozhodnutia ovplyvňujú napredovanie a príbeh vašej kolónie.</HowStorytellersWork>
-
+  <MustChooseChallengeScale>Musíš si zvoliť obtiažnosť výziev.</MustChooseChallengeScale>
+  <ChallengeScale>Obtiažnosť výziev</ChallengeScale>
+  <ChallengeScaleTip>Keď po tebe rozprávač pošle hrozbu, bude mať  {0} z obtiažnosti Výzva.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Budovateľský mód</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Na voľný čas</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Normálny mód</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Výzva</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Veľká výzva</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Extrémná výzva</ChallengeScale_ExtremeChallenge>
   <!--=========== Character chooser ==========-->  
   <CreateCharacters>Tvorba postáv</CreateCharacters>
   <FirstNameDesc>Krstné meno postavy.\n\nToto je zobrazené len v niektorých ponukách.</FirstNameDesc>
@@ -67,5 +76,45 @@
   <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Vytváram svet...</GeneratingWorld>
+
+    <!--=========== Create/review world ================-->
+  <ReviewWorld>Ukážka sveta</ReviewWorld>
+  <WorldGenerate>Generovať</WorldGenerate>
+  <WorldSaveAndFinish>Uložiť a dokončiť</WorldSaveAndFinish>
+  <Reset>Resetovať</Reset>
+  <WorldSize>Veľkosť</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Náhodný seed</RandomizeSeed>
+  
+    <!--=========== Select world ===================-->
+  <SelectWorld>Zvoľ svet</SelectWorld>
+  <WorldChooseButton>Zvoliť</WorldChooseButton>
+  <NoWorldsFilesFound>Žiadne súbory nenájdené. Najskôr si vytvor svet.</NoWorldsFilesFound>
+    <!--=========== World generator =========-->
+  <GenerateWorld>Generovať svet</GenerateWorld>
+  
+    <!--=========== Landing site select =========-->
+  <SelectLandingSite>Zvoliť pristávacie miesto</SelectLandingSite>
+  <SelectSite>Zvoliť miesto</SelectSite>
+  <MustSelectLandingSite>Musíš zvoliť pristávacie miesto.</MustSelectLandingSite>
+  <CannotLandBiome>Nemôžes pristáť v tomto bióme: {0}</CannotLandBiome>
+  <WorldRenderMode>Mód</WorldRenderMode>
+  <WorldRenderModeFull>Všetko</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Teplota</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Nadmorská výška</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Úrodnosť zeme</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Množstvo zrážok</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biómy</WorldRenderModeBiomes>
+  <BiomeNotImplemented>ešte nie je v hre implentovaný. </BiomeNotImplemented>
+  <Biome>Bióm</Biome>
+  <Terrain>Povrch</Terrain>
+  <Elevation>Nadmorská výška</Elevation>
+  <Fertility>Úrodnosť zeme</Fertility>
+  <AvgTemp>Priemerná teplota</AvgTemp>
+  <Rainfall>Množstvo zrážok</Rainfall>
+  <HasCoast0>Severné pobrežie</HasCoast0>
+  <HasCoast1>Východné pobrežie</HasCoast1>
+  <HasCoast2>Južné pobrežie</HasCoast2>
+  <HasCoast3>Západné pobrežie</HasCoast3>
 
 </LanguageData>
