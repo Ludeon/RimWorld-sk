@@ -11,8 +11,15 @@
 	<Squirrel.description>Jeden z mnohých vytrvalých, univerzálnych druhov hlodavcov, ktoré nasledujú človeka po celom vesmíre.</Squirrel.description>
 	
 	<Boomrat.label>Bumkrysa</Boomrat.label>
-	<Boomrat.description>Vytvorené genetickým ozbrojovaním, alebo ako zvláštný obranný mechanizmus, nieto potkany vybuchnú, keď sú zabité.</Boomrat.description>
+	<Boomrat.description>Vytvorené genetickým ozbrojovaním, alebo ako zvláštný obranný mechanizmus, tieto potkany vybuchnú, keď sú zabité.</Boomrat.description>
 	
-
+	<Iguana.label>Leguán</Iguana.label>
+	<Iguana.description>Tieto plazy sa živia rastlinamy. Ak ich však naštveš, ukrývajú veľké pazúry, ktoré ich robia vcelku nebezpečnými.</Iguana.description>
+	
+	<Megascarab.label>Skarab</Megascarab.label>
+	<Megascarab.description>Veľký, geneticky upravený chrobák. Jeho veľkosť a silná ulita ho robia v boji nebezpečnými.</Megascarab.description>
+	
+	<Deer.label>Srnec</Deer.label>
+	<Deer.description>Stredne veľký, prítulný bylinožravec. Priateľský pokiaľ nerušený.</Deer.description>
 	
 </LanguageData>
