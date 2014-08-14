@@ -75,6 +75,10 @@
   <DoForever>Vykonať donekonečna</DoForever>
   <BillRepeatTargetCountShort>Až do {0}</BillRepeatTargetCountShort>
   <BasePrice>Cena</BasePrice>
+  <Diet>Druh potravy</Diet>
+    <MinFoodQuality>Minimálna kvalita jedla</MinFoodQuality>
+	  <MeatAmount>Množstvo mäsa</MeatAmount>
+  <WalkSpeedProperty>Rýchlosť pohybu</WalkSpeedProperty>
  
  
   <!-- Trade -->
@@ -110,7 +114,7 @@
   <LimitedLifespan>Obmedzená životnosť</LimitedLifespan>
   <GrowingTime>Čas rastu</GrowingTime>
   <Days>Dní</Days>
-  <FertilityRequirement>Požadovaná kvalita zeme.</FertilityRequirement>
+  <FertilityRequirement>Požadované pohnojenie zeme.</FertilityRequirement>
   <LightRequirement>Požadované svetlo</LightRequirement>
   <Attributes>Atribúty</Attributes>
   <LifeSpan>Životnosť</LifeSpan>
