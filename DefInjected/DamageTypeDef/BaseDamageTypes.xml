@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Crush.deathMessage>Rozdrvenie na smrť: {0}</Crush.deathMessage>
@@ -19,6 +19,18 @@
 	
 	<Starvation.deathMessage>Vyhladovanie: {0}</Starvation.deathMessage>
 
+	<Arrow.deathMessage>Zastrelenie: {0}.</Arrow.deathMessage>
+	
+	<Stab.deathMessage> Dobodaný: {0}</Stab.deathMessage>
+	
+	<Scratch.deathMessage>{0} bol roztrhnutý</Scratch.deathMessage>
+	
+	<EMP.deathMessage>{0} bol zastrelený mínometom</EMP.deathMessage>
+	
+	<Bite.deathMessage>{0} bol dohryzený na smrť.</Bite.deathMessage>
+	
+	
+	
 	
 	
 	
