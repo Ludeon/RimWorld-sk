@@ -16,7 +16,7 @@
   <RelevantSkills>Vhodné schopnosti: {0}\nPriemer vhodných schopností: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>Kliknutím prejdete na:</ClickToJumpTo>
   <CannotDoThisWork>{0} nemôže vykonávať túto prácu.</CannotDoThisWork>
-  <NoneBrackets>(none)</NoneBrackets>
+ 
   
   <!-- Factions tab -->  
   <FactionsTab>Frakcie</FactionsTab>
@@ -45,5 +45,14 @@
   <Value>Cena</Value>
   <External>External</External>
   
+  <WorldTab>Svet</WorldTab>
+   <DamageTaken>Obdržané poškodenie</DamageTaken>
+  <ColonistsKilled>Zabitých kolonistov</ColonistsKilled>
+  <ColonistsLaunched>Kolonisti vystrelený do Vesmíru</ColonistsLaunched>
+   <Storyteller>Rozprávač príbehu</Storyteller>
+    <NumBigThreats>Hrozby</NumBigThreats>
+	  <NoneBrackets>(žiadne)</NoneBrackets>
+
   
 </LanguageData>
+
