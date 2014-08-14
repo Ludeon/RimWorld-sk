@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Apparel_CowboyHat.label>Kovbojský klobúk</Apparel_CowboyHat.label>
+	<Apparel_CowboyHat.description>Štýlový, elegantný, a príjemný na dotyk. Známy ako najdôležitejšia čast westernových outfitov.</Apparel_CowboyHat.description>
+   
+	<Apparel_PowerArmorHelmet.label>Energetická prilba</Apparel_PowerArmorHelmet.label>
+	<Apparel_PowerArmorHelmet.description>Časť energetického brnenia využívaného bojovými jednotkami.</Apparel_PowerArmorHelmet.description>
+	
+	<Apparel_KevlarHelmet.label>Kevlarová prilba</Apparel_KevlarHelmet.label>
+	<Apparel_KevlarHelmet.description>Táto prilba pomáha absorbovať explóziu z granáta..</Apparel_KevlarHelmet.description>
+	
+	<Apparel_M1Helmet.label>M1 Prilba</Apparel_M1Helmet.label>
+	<Apparel_M1Helmet.description>Možno vyzerá staro a opotrebovane, ale je veľmi užitočná počas nepriateľských útokov. Používané proti guľkám s malou rýchlosťou.</Apparel_M1Helmet.description>
+
+</LanguageData>
