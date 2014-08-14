@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 	
-	<XericShrubland.label>Savana</XericShrubland.label>
-	<XericShrubland.description>Suchý bióm, ale nie púšť bez života.</XericShrubland.description>
+
+  <!-- ======== Unlandable biomes ==========-->
+	
+	<Ocean.label>Oceán</Ocean.label>
+    <Ocean.description>Otvorený oceán.Skvelý pre ryby, nie tak skvelý pre teba.</Ocean.description>
+	
+	<IceSheet.label>Ľadovec</IceSheet.label>
+    <IceSheet.description>Povrch je pokrytý ľadom, ktorý môže byť kilometre hrubý. Nerastú tu žiadne rastliny. Raz za čas tu môžes zahliadnúť migtujúce zviera - alebo pekne stratené.</IceSheet.description>
+	
+	 <!-- ======== Landable biomes ==========-->
+<AridShrubland.label>Vyprahnuté pláne</AridShrubland.label>
+<AridShrubland.description>Suchý región, ale nie až tak suchý aby z neho bola púšť. Otvorené planiny s trávou a kríkmi dávajú šancu na život určitým druhom zvierat.</AridShrubland.description>
+	
+	<TemperateForest.label>Mierny les</TemperateForest.label>
+	<TemperateForest.description>Priateľský bióm s množstvom stromov ktoré podporujú dýchanie. Mnoho zvierat sa pohybuje po planinách a po stromoch</TemperateForest.description>
+	
+	<Desert.label>Púšť</Desert.label>
+	<Desert.description>Veľmi suchý biom ktorý podporuje veľmi málo života</Desert.description>
 	
 	
-	
-	
-	
-	
-	
-	
-	
+	  <!-- ======== Landable biomes (not implemented) ==========-->
+<TropicalRainforest.label>Tropický dažďový prales</TropicalRainforest.label>
+<TropicalRainforest.description>Prevažne džungľa. Silná príroda tu robí stavanie a prežívanie ťažkým</TropicalRainforest.description>
+
+<Tundra.label>Tundra</Tundra.label>
+
+
+<BorealForest.label>Severné lesy</BorealForest.label>
 </LanguageData>
