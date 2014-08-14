@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <!-- history upload pref -->
+  <Unspecified>Nešpecifikované</Unspecified>
+  <Always>VŽdy</Always>
+  <Never>Nikdy</Never>
+  
+  <!-- food quality -->
+  <NoneQuality>Žiadna</NoneQuality>
+  <PlantQuality>Rastlina</PlantQuality>
+  <RawQuality>Surové</RawQuality>
+  <MealAwfulQuality>Nechutné</MealAwfulQuality>
+  <MealSimpleQuality>Jednoduché</MealSimpleQuality>
+  <MealFineQuality>Chutné</MealFineQuality>
+  <MealLavishLavish>Delikatesa</MealLavishLavish>
+  
+    <!-- pawn activity -->
+  <Consciousness>Vedomie</Consciousness>
+  <Sight>Zrak</Sight>
+  <Hearing>Sluch</Hearing>
+  <Moving>Pohyb</Moving>
+  <Working>Pracovanie</Working>
+  <Talking>Rozprávanie</Talking>
+  <Eating>Jedenie</Eating>
+  <Breathing>Dýchanie</Breathing>
+  <BloodFiltration>Filtrovanie krvi</BloodFiltration>
+  <BloodPumping>Pumpovanie krvi</BloodPumping>
+  <Metabolism>Metabolizmus</Metabolism>
+  
+    <!-- diet type -->
+  <NeverEats>Nikdy neje</NeverEats>
+  <Omnivorous>Všežravec</Omnivorous>
+  <Herbivorous>Bylinožravec</Herbivorous>
+  <Carnivorous>Mäsožravec</Carnivorous>
+  
+
+</LanguageData>
