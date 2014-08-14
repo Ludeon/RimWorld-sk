@@ -12,5 +12,7 @@
 
 	<Turret_MortarBomb.label>Mínomet (explodujúci)</Turret_MortarBomb.label>
 	<Turret_MortarBomb.description>>Mínomet, ktorého míny explodujú. Na strieľanie musí byť obslúžený. Pri poškodení exploduje.</Turret_MortarBomb.description>
-
-	</LanguageData>
+	
+	<Turret_MortarEMP.label>Mínomet (EMP)</Turret_MortarEMP.label>
+	<Turret_MortarEMP.description>EMP míny dokážu prestreliť za stenu. Na strieľanie musí byť obslúžený. Pri poškodení exploduje.</Turret_MortarEMP.description>
+</LanguageData>
