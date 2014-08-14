@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MoveSpeed.label>Rýchlosť pohybu</MoveSpeed.label>
+	<PsychicSensitivity.label>Psychická senzitivita</PsychicSensitivity.label>
+	<WorkSpeed.label>Rýchlosť práce</WorkSpeed.label>
+	<MentalBreakThreshold.label>Hranica nervového zrútenia</MentalBreakThreshold.label>
+	
+</LanguageData>
