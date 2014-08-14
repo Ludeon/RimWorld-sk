@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Callie.label>Kália Klasická</Callie.label> 
-	<Callie.description>Kália je menej agresívnou verziou svojej sestry Kasandry. \nJe vhodná pre prvú hru.</Callie.description>
-	<Callie.quotation>Začína to celkom nudne, ale ku koncu príde tá pravá zábava!</Callie.quotation>
+
 
 	<Cassandra.label>Kasandra Klasická</Cassandra.label>
     <Cassandra.description>Kasandra tvorí udalosti v príbehu so stále sa zvyšujúcou zložitosťou a napätím.</Cassandra.description>
@@ -16,8 +14,6 @@
 	<Randy.description>Norbert nepozná pravidlá. Vytvára náhodné udalosti a nestará sa, či bude výsledkom triumfálny príbeh, alebo úplná bezmocnosť. Pre neho je to všetko dráma.</Randy.description>
 	<Randy.quotation>Svet je chaos, chlapče. Príbehy by mali také byť tiež! Nemáš zápaľovač?</Randy.quotation>
 	
-	<Cleopatra.label>Kleopatra Klasická</Cleopatra.label>
-    <Cleopatra.description>Menej zhovievavá sesternica Kasandry Klasickej.</Cleopatra.description>
-    <Cleopatra.quotation>Hĺbka ľudskej prirodzenosti sa dá merať iba cez zrkadlo utrpenia.</Cleopatra.quotation>
+
 
 </LanguageData>
