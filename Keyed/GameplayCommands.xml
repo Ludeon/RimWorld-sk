@@ -18,7 +18,10 @@
 
   <CommandCancelConstructionLabel>Zrušiť</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Zrušiť túto stavbu.</CommandCancelConstructionDesc>
-
+	
+	<CommandBedSetOwnerLabel>Nastaviť majiteľa</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Nastaví majiteľa pre danú posteľ.</CommandBedSetOwnerDesc>
+  
   <CommandBedSetForPrisonersLabel>Nastaviť pre väzňov</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc> Nastaviť postele v tejto izbe pre väzňov.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForColonistsLabel>Nastaviť pre kolonistov</CommandBedSetForColonistsLabel>
@@ -26,6 +29,11 @@
   <TurningOnPrisonerBedWarning>Zapnutie väzenského módu ovplyvňuje celú izbu (keďže kolonisti a väzni nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Vypnutie väzenského módu ovplyvní celú izbu (keďže väzni a kolonisti nemôžu spať v rovnakej izbe).\n\nTíto ľudia stratia vlastníctvo postele:</TurningOffPrisonerBedWarning>
   <AreYouSure>Naozaj to chcete spraviť?</AreYouSure>
+    <CommandBedSetForPrisonersFailOutdoors>Nemožno nastaviť vonkajšie postele pre väzňov.</CommandBedSetForPrisonersFailOutdoors>
+	  <CommandBedSetAsMedicalLabel>Nastaviť pre ošetrovanie</CommandBedSetAsMedicalLabel>
+	    <CommandBedSetAsMedicalDesc>Nastaviť túto posteľ pre ošetrovacie účely.</CommandBedSetAsMedicalDesc>
+<CommandBedSetAsNonMedicalLabel>Nastaviť pre kolonistov</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Nastaviť postel pre kolonistov.</CommandBedSetAsNonMedicalDesc>
 
   <CommandDetonateDesc>Začať odpočítavanie k výbuchu.</CommandDetonateDesc>
   <CommandDetonateLabel>Odpáliť</CommandDetonateLabel>
@@ -59,7 +67,11 @@
   <CommandPodEject>Otvoriť kryptokapsulu</CommandPodEject>
   <CommandPodEjectDesc>Zobudí kolonistu v kryptospánku a vypustí ho.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Nikoho neobsahuje</CommandPodEjectFailEmpty>
+  
+  <CommandGetOutOfBedLabel>Zobudiť sa</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Zobudiť sa a opustiť posteľ.</CommandGetOutOfBedDesc>
 
   
   
 </LanguageData>
+
