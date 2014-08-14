@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Head.label>Hlava</Head.label>
+	<Skull.label>Lebka</Skull.label>
+	<Brain.label>Mozok</Brain.label>
+	<LeftEye.label>Ľavé oko</LeftEye.label>
+	<RightEye.label>Pravé oko</RightEye.label>
+	<LeftEar.label>Ľavé ucho</LeftEar.label>
+	<RightEar.label>Pravé ucho</RightEar.label>
+	<Nose.label>Nos</Nose.label>
+	<Jaw.label>Čeľusť</Jaw.label>
+	<Neck.label>Krk</Neck.label>
+	<Torso.label>Trup</Torso.label>
+	<LeftClavicle.label>Ľavá kľúčna kosť</LeftClavicle.label>
+	<RightClavicle.label>Pravá kľúčna kosť</RightClavicle.label>
+	<Sternum.label>Hrudná kosť</Sternum.label>
+	<Rib.label>Rebro</Rib.label>
+	<LeftHumerus.label>Ľavá ramenná kosť </LeftHumerus.label>
+	<RightHumerus.label>Pravá ramenná kosť</RightHumerus.label>
+	<LeftRadius.label>Ľavé rameno</LeftRadius.label>
+	<RightRadius.label>Pravé rameno</RightRadius.label>
+	<Pelvis.label>Panva</Pelvis.label>
+	<LeftFemur.label> Ľavá stehenná kosť</LeftFemur.label>
+	<RightFemur.label>Pravá stehenná kosť.</RightFemur.label>
+	<LeftTibia.label>Ľavá píšťala</LeftTibia.label>
+	<RightTibia.label>Pravá píšťala</RightTibia.label>
+	<Heart.label>Srdce</Heart.label>
+	<LeftLung.label>Ľavé pľúca</LeftLung.label>
+	<RightLung.label>Pravé pľúca</RightLung.label>
+	<LeftKidney.label>Ľavá oblička</LeftKidney.label>
+	<RightKidney.label>Pravá oblička</RightKidney.label>
+	<Liver.label>Pečeň</Liver.label>
+	<Stomach.label>Žalúdok</Stomach.label>
+	<Spine.label>Chrbtica</Spine.label>
+	<LeftArm.label>Ľavá ruka</LeftArm.label>
+	<LeftHand.label>Ľavá dlaň</LeftHand.label>
+	<LeftHandPinky.label>Malíček (Na ľavej ruke)</LeftHandPinky.label>
+	<LeftHandRingFinger.label>Prsteník (Na ľavej ruke)</LeftHandRingFinger.label>
+	<LeftHandMiddleFinger.label>Prostredník (Na ľavej ruke)</LeftHandMiddleFinger.label>
+	<LeftHandIndexFinger.label>Ukazovák (Na ľavej ruke)</LeftHandIndexFinger.label>
+	<LeftHandThumb.label>Palec (Na ľavej ruke)</LeftHandThumb.label>
+	<RightArm.label>Pravá ruka</RightArm.label>
+	<RightHand.label>Pravá dlaň</RightHand.label>
+	<RightHandPinky.label>Malíček (Na pravej ruke)</RightHandPinky.label>
+	<RightHandRingFinger.label>Prsteník (Na pravej ruke)</RightHandRingFinger.label>
+	<RightHandMiddleFinger.label>Prostredník (Na pravej ruke)</RightHandMiddleFinger.label>
+	<RightHandIndexFinger.label>Ukazovák (Na pravej ruke)</RightHandIndexFinger.label>
+	<RightHandThumb.label>Palec (Na pravej ruke)</RightHandThumb.label>
+	<LeftLeg.label>Ľavá noha</LeftLeg.label>
+	<LeftFoot.label>Ľavé chodidlo</LeftFoot.label>
+	<LeftFootLittleToe.label>Malíček(Na ľavej nohe)</LeftFootLittleToe.label>
+	<LeftFootFourthToe.label>Štvrtý prst (Na ľavej nohe)</LeftFootFourthToe.label>
+	<LeftFootMiddleToe.label>Tretí prst (Na ľavej nohe)</LeftFootMiddleToe.label>
+	<LeftFootSecondToe.label>Druhý prst (Na ľavej nohe)</LeftFootSecondToe.label>
+	<LeftFootBigToe.label>Palec (Na ľavej nohe)</LeftFootBigToe.label>
+	<RightLeg.label>Pravá noha</RightLeg.label>
+	<RightFoot.label>Pravé chodidlo</RightFoot.label>
+	<RightFootLittleToe.label>Malíček(Na pravej nohe)</RightFootLittleToe.label>
+	<RightFootFourthToe.label>Štvrtý prst (Na pravej nohe)</RightFootFourthToe.label>
+	<RightFootMiddleToe.label>Tretí prst (Na pravej nohe)</RightFootMiddleToe.label>
+	<RightFootSecondToe.label>Druhý prst (Na pravej nohe)</RightFootSecondToe.label>
+	<RightFootBigToe.label>Palec (Na pravej nohe)</RightFootBigToe.label>
+  
+  <!-- animal -->
+	
+	<InsectHead.label>Hlava</InsectHead.label>
+	<InsectHeart.label>Srdce</InsectHeart.label>
+	<InsectNostril.label>Nosná dierka</InsectNostril.label>
+	<Body.label>Telo</Body.label>
+	<Jowl.label>Líce</Jowl.label>
+	<Tail.label>Chvost</Tail.label>
+	<LeftAntenna.label>Ľavé tykadlo</LeftAntenna.label>
+	<RightAntenna.label>Pravé tykadlo</RightAntenna.label>
+	<Pronotum.label>Hlavohruď</Pronotum.label>
+	<Shell.label>Pancier</Shell.label>
+	<LeftElytra.label>Ľavé krídlo</LeftElytra.label>
+	<RightElytra.label>Pravé krídlo</RightElytra.label>
+	
+  <!-- animals legs -->
+  
+	<FrontLeftLeg.label>Predná ľavá noha</FrontLeftLeg.label>
+	<FrontRightLeg.label>Predná pravá noha</FrontRightLeg.label>
+	<MiddleLeftLeg.label>Stredná ľavá noha</MiddleLeftLeg.label>
+	<MiddleRightLeg.label>Stredná pravá noha</MiddleRightLeg.label>
+	<RearLeftLeg.label>Zadná ľavá noha</RearLeftLeg.label>
+	<RearRightLeg.label>Zadná pravá noha</RearRightLeg.label>
+	
+	<FrontLeftInsectLeg.label>Predná ľavá noha</FrontLeftInsectLeg.label>
+	<FrontRightInsectLeg.label>Predná pravá noha</FrontRightInsectLeg.label>
+	<MiddleLeftInsectLeg.label>Stredná ľavá noha</MiddleLeftInsectLeg.label>
+	<MiddleRightInsectLeg.label>Stredná pravá noha</MiddleRightInsectLeg.label>
+	<RearLeftInsectLeg.label>Zadná ľavá noha</RearLeftInsectLeg.label>
+	<RearRightInsectLeg.label>Zadná pravá noha</RearRightInsectLeg.label>
+	
+	<FrontLeftPaw.label>Predná ľavá labka</FrontLeftPaw.label>
+	<FrontRightPaw.label>Predná pravá labka</FrontRightPaw.label>
+	<RearLeftPaw.label>Zadná ľavá labka</RearLeftPaw.label>
+	<RearRightPaw.label>Zadná pravá labka</RearRightPaw.label>
+	<FrontLeftHoof.label>Predné ľavé kopyto</FrontLeftHoof.label>
+	<FrontRightHoof.label>Predné pravé kopyto</FrontRightHoof.label>
+	<RearLeftHoof.label>Zadné ľavé kopyto</RearLeftHoof.label>
+	<RearRightHoof.label>Zadné pravé kopyto</RearRightHoof.label>
+	
+	<FrontLeftLegFirstClaw.label>Predná ľavá noha, prvý pazúr</FrontLeftLegFirstClaw.label>
+	<FrontLeftLegSecondClaw.label>Predná ľavá noha, druhý pazúr</FrontLeftLegSecondClaw.label>
+	<FrontLeftLegThirdClaw.label>Predná ľavá noha, tretí pazúr</FrontLeftLegThirdClaw.label>
+	<FrontLeftLegFourthClaw.label>Predná ľavá noha, štvrtý pazúr</FrontLeftLegFourthClaw.label>
+	<FrontLeftLegFifthClaw.label>Predná ľavá noha, piaty pazúr</FrontLeftLegFifthClaw.label>
+	<FrontRightLegFirstClaw.label>Predná pravá noha, prvý pazúr</FrontRightLegFirstClaw.label>
+	<FrontRightLegSecondClaw.label>Predná pravá noha, druhý pazúr</FrontRightLegSecondClaw.label>
+	<FrontRightLegThirdClaw.label>Predná pravá noha, tretí pazúr</FrontRightLegThirdClaw.label>
+	<FrontRightLegFourthClaw.label>Predná pravá noha, štvrtý pazúr</FrontRightLegFourthClaw.label>
+	<FrontRightLegFifthClaw.label>Predná pravá noha, piaty pazúr</FrontRightLegFifthClaw.label>
+	
+	<RearLeftLegFirstClaw.label>Zadná ľavá noha, prvý pazúr</RearLeftLegFirstClaw.label>
+	<RearLeftLegSecondClaw.label>Zadná ľavá noha, druhý pazúr</RearLeftLegSecondClaw.label>
+	<RearLeftLegThirdClaw.label>Zadná ľavá noha, tretí pazúr</RearLeftLegThirdClaw.label>
+	<RearLeftLegFourthClaw.label>Zadná ľavá noha, štvrtý pazúr</RearLeftLegFourthClaw.label>
+	<RearLeftLegFifthClaw.label>Zadná ľavá noha, piaty pazúr</RearLeftLegFifthClaw.label>
+	<RearRightLegFirstClaw.label>Zadná pravá noha, prvý pazúr</RearRightLegFirstClaw.label>
+	<RearRightLegSecondClaw.label>Zadná pravá noha, druhý pazúr</RearRightLegSecondClaw.label>
+	<RearRightLegThirdClaw.label>Zadná pravá noha, tretí pazúr</RearRightLegThirdClaw.label>
+	<RearRightLegFourthClaw.label>Zadná pravá noha, štvrtý pazúr</RearRightLegFourthClaw.label>
+	<RearRightLegFifthClaw.label>Zadná pravá noha, piaty pazúr</RearRightLegFifthClaw.label>
+
+  <!-- mechanical -->
+	
+	<MechanicalThorax.label>Hrudník</MechanicalThorax.label>
+	<MechanicalNeck.label>Krk</MechanicalNeck.label>
+	<MechanicalHead.label>Hlava</MechanicalHead.label>
+	<LeftSightSensor.label>Lavý optický senzor</LeftSightSensor.label>
+	<RightSightSensor.label>Pravý optický senzor</RightSightSensor.label>
+	<LeftHearingSensor.label>Lavý sluchový senzor</LeftHearingSensor.label>
+	<RightHearingSensor.label>Pravý sluchový senzor</RightHearingSensor.label>
+	<SmellSensor.label>Čuchový senzor</SmellSensor.label>
+	<LeftMechanicalArm.label>Ľavá mechanická ruka</LeftMechanicalArm.label>
+	<LeftMechanicalHand.label>Ľavá dlaň</LeftMechanicalHand.label>
+	<LeftHandMechanicalPinky.label>Malíček (Na ľavej ruke)</LeftHandMechanicalPinky.label>
+	<LeftHandMechanicalRingFinger.label>Prsteník (Na ľavej ruke)</LeftHandMechanicalRingFinger.label>
+	<LeftHandMechanicalMiddleFinger.label>Prostredník (links)</LeftHandMechanicalMiddleFinger.label>
+	<LeftHandMechanicalIndexFinger.label>Ukazovák (Na ľavej ruke)</LeftHandMechanicalIndexFinger.label>
+	<LeftHandMechanicalThumb.label>Palec (Na ľavej ruke)</LeftHandMechanicalThumb.label>
+	<RightMechanicalArm.label>Pravá ruka</RightMechanicalArm.label>
+	<RightMechanicalHand.label>Pravá dlaň</RightMechanicalHand.label>
+	<RightHandMechanicalPinky.label>Malíček (Na pravej ruke)</RightHandMechanicalPinky.label>
+	<RightHandMechanicalRingFinger.label>Prsteník (Na pravej ruke)</RightHandMechanicalRingFinger.label>
+	<RightHandMechanicalMiddleFinger.label>Prostredník (Na pravej ruke)</RightHandMechanicalMiddleFinger.label>
+	<RightHandMechanicalIndexFinger.label>Ukazovák (Na pravej ruke)</RightHandMechanicalIndexFinger.label>
+	<RightHandMechanicalThumb.label>Palec (Na pravej ruke)</RightHandMechanicalThumb.label>
+	
+	<LeftMechanicalLeg.label>Ľavá noha</LeftMechanicalLeg.label>
+	<LeftMechanicalFoot.label>Ľavé chodidlo</LeftMechanicalFoot.label>
+	<LeftFootMechanicalLittleToe.label>Malíček Zeh (Na pravej nohe)</LeftFootMechanicalLittleToe.label>
+	<LeftFootMechanicalFourthToe.label>Prsteník (Na pravej nohe)</LeftFootMechanicalFourthToe.label>
+	<LeftFootMechanicalMiddleToe.label>Prostredník (Na pravej nohe)</LeftFootMechanicalMiddleToe.label>
+	<LeftFootMechanicalSecondToe.label>Ukazovák (Na pravej nohe)</LeftFootMechanicalSecondToe.label>
+	<LeftFootMechanicalBigToe.label>Palec Zeh (Na pravej nohe)</LeftFootMechanicalBigToe.label>
+	<RightMechanicalLeg.label>Pravá noha</RightMechanicalLeg.label>
+	<RightMechanicalFoot.label>Pravé chodidlo</RightMechanicalFoot.label>
+	<RightFootMechanicalLittleToe.label>Malíček  (Na pravej nohe)</RightFootMechanicalLittleToe.label>
+	<RightFootMechanicalFourthToe.label>Štvrtý prst (Na pravej nohe)</RightFootMechanicalFourthToe.label>
+	<RightFootMechanicalMiddleToe.label>Tretí prst (Na pravej nohe)</RightFootMechanicalMiddleToe.label>
+	<RightFootMechanicalSecondToe.label>Druhý prst (Na pravej nohe)</RightFootMechanicalSecondToe.label>
+	<RightFootMechanicalBigToe.label>Palec  (Na pravej nohe)</RightFootMechanicalBigToe.label>
+	
+	<MechanicalCentipedeBodyFirstRing.label>Prvý telový prstenec</MechanicalCentipedeBodyFirstRing.label>
+	<MechanicalCentipedeBodySecondRing.label>Druhý telový prstenec</MechanicalCentipedeBodySecondRing.label>
+	<MechanicalCentipedeBodyThirdRing.label>Tretí telový prstenec</MechanicalCentipedeBodyThirdRing.label>
+	<MechanicalCentipedeBodyFourthRing.label>Štvrtý telový prstenec</MechanicalCentipedeBodyFourthRing.label>
+	<MechanicalCentipedeBodyFifthRing.label>Piaty telový prstenec</MechanicalCentipedeBodyFifthRing.label>
+	<MechanicalCentipedeBodySixthRing.label>Šiesty telový prstenec</MechanicalCentipedeBodySixthRing.label>
+	
+	<ArtificialBrain.label>Umelý mozog</ArtificialBrain.label>
+	
+</LanguageData>
