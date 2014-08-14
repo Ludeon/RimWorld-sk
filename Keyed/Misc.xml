@@ -29,6 +29,8 @@
     
 	<!-- History events -->
   <ColonistDied>Zomrel kolonista</ColonistDied>
+  
+    <Autosaving>Autosaving</Autosaving>
 
 
 </LanguageData>
