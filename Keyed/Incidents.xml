@@ -67,6 +67,6 @@
   <LetterAgentRevealed>{0} bol agent tvojho nepriateľa {1}.\n\nTeraz sa pokúša utiecť.</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>Bolesť hlavy ti ju preráža ako klinec!\n\nNiektorý vzdialený stroj vysiela silnú psychickú vlnu celým regiónom. </LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Bolesť hlavy trýzni každého v kolónii!\n\nNiektorý vzdialený stroj vysiela silnú psychickú vlnu celým regiónom. Na pár dní bude každého nálada podstatne horšia </LetterIncidentPsychicDrone>
  
 </LanguageData>
