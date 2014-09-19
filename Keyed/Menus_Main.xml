@@ -76,6 +76,7 @@
   <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Vytváram svet...</GeneratingWorld>
+    <GeneratingMap>Generujem mapu...</GeneratingMap>
 
     <!--=========== Create/review world ================-->
   <ReviewWorld>Ukážka sveta</ReviewWorld>
@@ -116,5 +117,11 @@
   <HasCoast1>Východné pobrežie</HasCoast1>
   <HasCoast2>Južné pobrežie</HasCoast2>
   <HasCoast3>Západné pobrežie</HasCoast3>
+  
+    <PermanentMoodEffect>Pernamentný efekt nálady</PermanentMoodEffect>
+<BaseAlreadyThere>{0} tu už má základňu.</BaseAlreadyThere>
+
+  <FactionBase>Základna frakcie</FactionBase>
+    <Pain>Bolesť</Pain>
 
 </LanguageData>
