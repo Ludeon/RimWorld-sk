@@ -8,7 +8,7 @@
   <PassionMinor>Mierna (učí sa {0}x rýchlejšie)</PassionMinor>
   <PassionMajor>Výrazná (učí sa {0}x rýchlejšie)</PassionMajor>
   <EffectsAtLevel>Účinok na úrovni {0}</EffectsAtLevel>
-  
+    <SkillMax>MAX</SkillMax>
   
 
   <Skill0>Neschopný</Skill0>
