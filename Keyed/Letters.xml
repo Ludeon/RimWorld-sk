@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
  
   <JumpToLocation>Preskočiť na miesto</JumpToLocation>
@@ -25,5 +25,10 @@
   <RecruitSuccess>{0} úspešne získal/a {1} ({2} šanca).</RecruitSuccess>
   <RecruitFail>{0} nezískal/a {1} ({2} šanca).</RecruitFail>
  
+ <Birthday> {0} má dnes narodeniny! {1} už má {2} rokov.</Birthday>
+  <BirthdayWithInjuries>{0} má dnes narodeniny! {1} už má {2} rokov..\n\nNaneštastie, {0} ochorel na následujúce choroby z dôvodu starnutia\n{3}</BirthdayWithInjuries>
+  
+  <NewDisease>{0} ochorel ({1}). Uisti sa, že {0} dostane vhodnú liečbu a strávy dostatok času v posteli.</NewDisease>
+  <NewPartDisease>{0} dostal {1} infekciu. Uisti sa, že {0} dostane vhodnú liečbu a strávy dostatok času v posteli, aby sa rýchlo uzdravil.</NewPartDisease>
  
 </LanguageData>
