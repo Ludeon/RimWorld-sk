@@ -5,7 +5,7 @@
   <Lit>Svetlo</Lit>
   <LitBrightly>Jasné svetlo</LitBrightly>
 
-  <SkillMax>MAX</SkillMax>
+
 
 
   <!-- Work tab -->  
@@ -53,6 +53,8 @@
     <NumBigThreats>Hrozby</NumBigThreats>
 	  <NoneBrackets>(žiadne)</NoneBrackets>
 
+	   <NumThreatBigs>Hrozby</NumThreatBigs>
   
 </LanguageData>
+
 
