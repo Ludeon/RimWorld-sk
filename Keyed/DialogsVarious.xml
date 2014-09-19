@@ -79,11 +79,15 @@
     <MinFoodQuality>Minimálna kvalita jedla</MinFoodQuality>
 	  <MeatAmount>Množstvo mäsa</MeatAmount>
   <WalkSpeedProperty>Rýchlosť pohybu</WalkSpeedProperty>
- 
- 
+   <BillRequires>Požaduje {0} {1}</BillRequires>
+  <UsableIngredients>Použiteľné ingrediencie </UsableIngredients>
+  <BillStoreMode_DropOnFloor>Položiť na zem</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Odniesť do najlepšieho skladu</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Odniesť do najbližšieho skladu</BillStoreMode_NearestStockpileAnyPriority>
+   <MeleeDamage>Ručný útok</MeleeDamage>
   <!-- Trade -->
-  <YourTradeableSilver>Vaše obchodovateľné striebro: {0}</YourTradeableSilver>
-   	<YourTradeableSilverTip>Môžete obchodovať iba so striebrom, ktoré sa nachádza neďaleko orbitálneho obchodného majáka a nie je pod strechou.</YourTradeableSilverTip>
+  <YourTradeableSilver>Tvoje striebro: {0}</YourTradeableSilver>
+   	<YourTradeableSilverTip>Môžeš obchodovať iba so striebrom, ktoré sa nachádza neďaleko orbitálneho obchodného majáka a nie je pod strechou.</YourTradeableSilverTip>
 
   
   <!-- Comms -->  
@@ -120,6 +124,51 @@
   <LifeSpan>Životnosť</LifeSpan>
   <Nutrition>Nutricií</Nutrition>
   <FoodQuality>Kvalita</FoodQuality>
-
+    <RecruitDifficulty>Obtiažnosť naverbovania</RecruitDifficulty>
+  <baseMarketValue>Základná cena</baseMarketValue>
+  <Covers>Pokrýva</Covers>
+  <NaturalArmorCovers>Prirodzené brnenie pokrýva</NaturalArmorCovers>
+  <BodyPartEfficiency>Efektívnosť časti tela</BodyPartEfficiency>
+  
+   <!-- Trade -->
+  <DragToTrade>Potiahni pre obchod</DragToTrade>
+  <BuyPriceDesc>Cenu ktorú zaplatiš za kúpu.</BuyPriceDesc>
+  <SellPriceDesc>Cenu ktorú dostaneš za predaj.</SellPriceDesc>
+  <PriceTypeDesc>Pre tento objekt je cena {0}.</PriceTypeDesc>
+  <ColonyCount>Koľko kusov tohto predmetu má kolónia na predaj.\n\nPredmety môžeš predávať len ak nie su pod strechou, a v dosahu orbitálneho majáka.</ColonyCount>
+  <TraderCount>Koľko kusov tohto predmetu má obchodník na predaj.</TraderCount>
+  <AcceptButton>Potvrdiť</AcceptButton>
+  <ResetButton>Resetovať</ResetButton>
+  <CancelButton>Zrušiť</CancelButton>
+  <TraderHasNoMore>Obchodník už viac nemá.</TraderHasNoMore>
+  <ColonyHasNoMore>Nič viac na predaj.</ColonyHasNoMore>
+  <TraderWillNotTrade>Obchodník nechce vymeniť tento predmet.</TraderWillNotTrade>
+  
+    <!-- Stats report -->
+  <StatsReport_BaseValue>Základná cena</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Dôležité vlastnosti</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Dôležita výstroj</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiál</StatsReport_Material>
+  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Skill factors</StatsReport_Skills>
+  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Finálna cena</StatsReport_FinalValue>
+  
+   <!-- Pawn naming -->
+  <PawnGainsName>Prezývka kolonistu je teraz {0}.</PawnGainsName>
+  
+   <!--HistoryUpload-->
+  <HistoryUploadMessage>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované.Ďalšie nastavenia súkromia sú možné v menu nastavení.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Údaje sú úplne anonýmne, ale môžete pripojiť vaše meno.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Povoliť nahrávanie herných dát</HistoryUploadYes>
+  <HistoryUploadNo>Nepovoliť nahrávanie herných dát</HistoryUploadNo>
+  <HistoryUploadYesOnce>Nahrať len raz</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Nenahrávať teraz, opýtajte sa ma neskôr</HistoryUploadNoOnce>
+	
+  
+ 
 	  
 </LanguageData>
