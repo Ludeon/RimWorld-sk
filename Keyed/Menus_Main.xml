@@ -22,7 +22,7 @@
 
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com</BuildNowAvailable>
-  <BuildUpToDate>Vaša verzia hry je aktuálna. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com </BuildUpToDate>
+  <BuildUpToDate>Vaša verzia hry je aktuálna. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsvk@gmail.com </BuildUpToDate>
   <ErrorGettingVersionInfo>Chyba pri kontrole informácií o verzii hry: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Načítavam informácie o verzii hry...</LoadingVersionInfo>
 
