@@ -6,12 +6,14 @@
 
   <DesignatorCutPlants>Zber rastlín</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Označenie rastlín pre zber a zničenie. Rastlina bude úplne odstránená a akékoľvek jedlo z nej bude zozbierané.</DesignatorCutPlantsDesc>
+  
+   <DesignatorHarvest>Zber jedla</DesignatorHarvest>
+  <DesignatorHarvestDesc>Označenie rastlín na zber jedla. Bude zozbierané použiteľné jedlo z rastlín, ale samotné rastliny zostanú neporušené.</DesignatorHarvestDesc>
 
   <DesignatorDeconstruct>Zbúrať</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Zbúranie stavieb a získanie časti z použitých surovín späť.</DesignatorDeconstructDesc>
-
-  <DesignatorHarvestFood>Zber jedla</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Označenie rastlín na zber jedla. Bude zozbierané použiteľné jedlo z rastlín, ale samotné rastliny zostanú neporušené.</DesignatorHarvestFoodDesc>
+ 
+   <InteractionSpotOutOfBounds>Miesto je za hranicami.</InteractionSpotOutOfBounds>
   
   <DesignatorHarvestWood>Výrub dreva</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Označenie stromov určených na výrub pre získanie dreva.</DesignatorHarvestWoodDesc>
@@ -80,5 +82,8 @@
    <DesignatorClaim>Zabrať</DesignatorClaim>
   <DesignatorClaimDesc>Zabere neutrálne štruktúry pre kolóniu, vrátane rozpadnutých budou a opustených obliehacích základní. Zabrané štruktúry môžu byť opravovane a spravované tvojími kolonistami.</DesignatorClaimDesc>
 
+
+  
+   <UnchosenStuff>Nie je zvolený materiál</UnchosenStuff>
 
 </LanguageData>
