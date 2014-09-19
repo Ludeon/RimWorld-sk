@@ -2,7 +2,7 @@ sk-SK
 =====
 
 Slovak Localization for RimWorld
-version as per Alpha 6 release
+version as per Alpha 7 release
 
 See this page for license info:
 
