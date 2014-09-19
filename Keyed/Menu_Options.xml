@@ -25,17 +25,11 @@
 	<ChooseResolution>Zmena rozlíšenia</ChooseResolution>
 	<Privacy>Súkromie</Privacy>
 	<ChooseHistoryUploadPref>Nastavenia nahrávania dát</ChooseHistoryUploadPref>
-	 <!--HistoryUpload-->
-  <HistoryUploadMessage>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované.Ďalšie nastavenia súkromia sú možné v menu nastavení.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Údaje sú úplne anonýmne, ale môžete pripojiť vaše meno.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Povoliť nahrávanie herných dát</HistoryUploadYes>
-  <HistoryUploadNo>Nepovoliť nahrávanie herných dát</HistoryUploadNo>
-  <HistoryUploadYesOnce>Nahrať len raz</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Nenahrávať teraz, opýtajte sa ma neskôr</HistoryUploadNoOnce>
-	<AboutHistoryUpload>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované. Nahrané dáta pozostávajú len zo štatistík a histórie hry. Žiadne osobné údaje, okrem vášho hráčskeho mena, nebudú poslané, čo znamená, že je to kompletne anonymné.</AboutHistoryUpload>
+	
 
 	      <ChangeStoryteller>Zmena rozprávača</ChangeStoryteller>
 		  
 		  <CurrentHistoryUploadPref>Aktuálne {0}</CurrentHistoryUploadPref>
+		  <AboutHistoryUpload>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované. Nahrané dáta pozostávajú len zo štatistík a histórie hry. Žiadne osobné údaje, okrem vášho hráčskeho mena, nebudú poslané, čo znamená, že je to kompletne anonymné.</AboutHistoryUpload>
 
 </LanguageData>
