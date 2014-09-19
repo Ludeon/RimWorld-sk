@@ -16,18 +16,7 @@
   <MealFineQuality>Chutné</MealFineQuality>
   <MealLavishLavish>Delikatesa</MealLavishLavish>
   
-    <!-- pawn activity -->
-  <Consciousness>Vedomie</Consciousness>
-  <Sight>Zrak</Sight>
-  <Hearing>Sluch</Hearing>
-  <Moving>Pohyb</Moving>
-  <Working>Pracovanie</Working>
-  <Talking>Rozprávanie</Talking>
-  <Eating>Jedenie</Eating>
-  <Breathing>Dýchanie</Breathing>
-  <BloodFiltration>Filtrovanie krvi</BloodFiltration>
-  <BloodPumping>Pumpovanie krvi</BloodPumping>
-  <Metabolism>Metabolizmus</Metabolism>
+
   
     <!-- diet type -->
   <NeverEats>Nikdy neje</NeverEats>
@@ -35,5 +24,25 @@
   <Herbivorous>Bylinožravec</Herbivorous>
   <Carnivorous>Mäsožravec</Carnivorous>
   
+   <!-- Price types -->
+  <PriceTypeVeryCheap>Veľmi lacné</PriceTypeVeryCheap>
+  <PriceTypeCheap>Lacné</PriceTypeCheap>
+  <PriceTypeNormal>Normálne</PriceTypeNormal>
+  <PriceTypeExpensive>Drahé</PriceTypeExpensive>
+  <PriceTypeExorbitant>Exorbitálne</PriceTypeExorbitant>
+  
+    <!-- stat category -->
+  <StatCategory_General>Všeobecné</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Všeobecnéˇ</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Brnenie</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primárne</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Práca</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Súboj</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sociálne</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Rôzne</StatCategory_PawnMisc>
+  <StatCategory_Building>Stavanie</StatCategory_Building>
+  
+  <EquippedStatOffsets>Obmedzenia pri používaní</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Zmeny keď je vybavenie z tohoto materiálu</StuffOfEquipmentStatModifiers>
 
 </LanguageData>
