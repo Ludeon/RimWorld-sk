@@ -23,6 +23,9 @@
   <BurningLower>horí</BurningLower>
   <NoEmptyPlaceLower>nie je nastavené prázdne miesto pre uskladnenie</NoEmptyPlaceLower>
   <AlreadyFilledLower>už je dostatočne naplnený/á</AlreadyFilledLower>
+  <MissingMaterials>potrebuje materiály</MissingMaterials>
+   <NoManipulationSkill>Neschopný</NoManipulationSkill>
+     <PrisonerRoomLower>väzeňská miestnosť</PrisonerRoomLower>
 	
   <CannotGoNoPath>Nie je možné ísť sem (žiadna cesta)</CannotGoNoPath>
   <GoHere>Ísť sem</GoHere>
