@@ -70,8 +70,17 @@
   
   <CommandGetOutOfBedLabel>Zobudiť sa</CommandGetOutOfBedLabel>
   <CommandGetOutOfBedDesc>Zobudiť sa a opustiť posteľ.</CommandGetOutOfBedDesc>
+  
+    <CommandToggleDoorLock>Zamknúť</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Zamknúť alebo odomknúť dvere. Zamknuté dvere sa neotvoria pre nikoho.</CommandToggleDoorLockDesc>
+  
+    <BedAssign>Priradiť</BedAssign>
+
+	<CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Pokúsiť sa pripojiť na inú elektrickú sieť v dosahu. Používa sa, ak je prístroj napojený na nenapojenú elektrickú sieť, ale v dosahu je napojená sieť. </CommandTryReconnectDesc>
 
   
   
 </LanguageData>
+
 
