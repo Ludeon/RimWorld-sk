@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <MessageRaidersLeaving>{0} z {1} odchádzajú.</MessageRaidersLeaving>
@@ -37,6 +37,22 @@
   
   <MessageMustDesignatePlants>Musíte označiť rastliny.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Musíte označiť prenositeľné predmety.</MessageMustDesignateHaulable>
+  
+  <MessageMustDesignateHarvestable>Musíš označiť zberatelné a dostatočne vyvinuté rastliny.</MessageMustDesignateHarvestable>
 
+	  
+	      <MessagePoorlyTreated>{1} ošetril {0} (slabá kvalita, {2} šanca na dobrú kvalitu).</MessagePoorlyTreated>
+		  <MessageWellTreated>{1} ošetril {0} (dobrá kvalita, {2} šanca na dobrú kvalitu).</MessageWellTreated>
+   <MessageRaidersSatisfiedLeaving>{0} z {1} su spokojní s napáchanou škodou a odchádzajú.</MessageRaidersSatisfiedLeaving>
+   
+   <PawnDiedBecauseOf>{0} umrel kvôli {1}.</PawnDiedBecauseOf>
+   
+     <MessageNoMedicalBeds>Nie su tu žiadne voľné ošetrovacie postele.</MessageNoMedicalBeds>
+	 
+	 <MessageRaidersKidnapping>{0} z {1} sa rozhodli uniesť koho mohli a odchádzajú.</MessageRaidersKidnapping>
+  
+  <MessageSiegersAssaulting> {0} z {1} útočia na kolóniu.</MessageSiegersAssaulting>
+  
+    <MessageNoLongerDowned>{0} je znova schopný chodiť.</MessageNoLongerDowned>
   
 </LanguageData>
