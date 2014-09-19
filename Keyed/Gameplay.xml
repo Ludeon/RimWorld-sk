@@ -7,7 +7,8 @@
   <ContainedResources>Obsahuje suroviny</ContainedResources>
   <ForPrisonerUse>Pre väzňov</ForPrisonerUse>
   <ForColonistUse>Pre kolonistov</ForColonistUse>
-  <Owner>Vlastník</Owner>
+ 
+   <Owner>Vlastník</Owner>
   <Nobody>Nikto</Nobody>
   <Unowned>Bez vlastníka</Unowned>
   <GunInstalled>Inštalovaný</GunInstalled>
@@ -22,6 +23,12 @@
 	   <FreshMissingBodyPart>Čerstvé</FreshMissingBodyPart>
 	   <Headshot>Strela do hlavy</Headshot>
 	<Efficiency>Efektívnosť</Efficiency>
+	  <UntreatedLower>Neošetrené</UntreatedLower>
+  <DevelopedImmunityLower>vyvinutá imunita</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>potrebuje ošetrenie na uzdravenie</InjuryRequiresTreatment>
+  <NextTreatmentAfter>ďalšia liečna o {0} dní</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>žiadne {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>status vývoja imunity</ImmunityDevelopmentProgress>
 	<!-- Turrets -->
   
   <MinimumRange>Minimálny dostrel</MinimumRange>
@@ -31,7 +38,9 @@
   <!-- Job reports -->
   <ReportHaulingTo>Nosí {0} do {1}.</ReportHaulingTo>
   <ReportHauling>Nosí {0}.</ReportHauling>
-
+  <ReportSleeping>Spí.</ReportSleeping>
+  <ReportResting>Oddychuje.</ReportResting>
+  
   <!-- Shooting report -->
   <WeaponMissRadius>Vzdialenosť mimo dostrel zbrane</WeaponMissRadius>
   <RangeSlashSkill>VZdialenosť/schopnosť</RangeSlashSkill>
@@ -112,7 +121,10 @@
   <TabStorage>Úložisko</TabStorage>
   <TabGear>Vybavenie</TabGear>
    <TabHealth>Zdravie</TabHealth>
-
+<TabRace>Rasa</TabRace>
+  <TabBasics>Základy</TabBasics>
+  <TabStats>Štatistiky</TabStats>
+  
   <!-- ITabs -->
   <AddBill>Pridať úlohu</AddBill>
   <RecipeRequiresSkills>Recept {0} vyžaduje schopnosti uvedené nižšie. Žiadni z vašich kolonistov tieto schopnosti nemajú, takže nikto túto úlohu nemôže splniť.</RecipeRequiresSkills>
@@ -148,6 +160,17 @@
 	<RenameColonist>Premenuj kolonistu</RenameColonist>
 	<DataProcessing>Spracúvajú sa dáta</DataProcessing>
 	<None>Žiadne</None>
+	<Dead>Mŕtvy</Dead>
+	<HealthOverview>Prehľad</HealthOverview>
+	<DamageDeflection>Odrážanie poškodenia</DamageDeflection>
+		<ShootReportWeapon>Zbraň</ShootReportWeapon>
+		<Harvest>Odobrať</Harvest>
+		<MedicalOperationsShort>Operácii ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>Modifikácií ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>Lekárske opéracie</MedicalOperations>
+	<Amputate>Amputovať</Amputate>
+
+		
 
   <!-- like 'Blood of John' -->
   <OfLower>z</OfLower>
@@ -255,9 +278,37 @@
   <MediumPain>Stredná</MediumPain>
   <SeverePain>Veľká</SeverePain>
   <ExtremePain>Extrémna</ExtremePain>
+   <Enhanced>Rozšírené</Enhanced>
+   <Adapted>Upravené</Adapted>
+   	<DoctorsCare>Lekárska starostlivosť</DoctorsCare>
+	  <SeedLabel>{0} seed</SeedLabel>
+	<BleedingRate>Rýchlosť krvácania</BleedingRate>
+
+
   
   	<RotStateFresh>Čerstvé</RotStateFresh>
 	<RotStateRotting>Zhnité</RotStateRotting>
 	<RotStateDessicated>Kostra</RotStateDessicated>
-   
+	
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Použi neurotrainer aby si sa naučil {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} použil {1} neurotrainer aby sa dostal z levelu {2} na level {3}.</NeurotrainerUsed>
+  
+    <RemovedBodyPart>Odstránené</RemovedBodyPart>
+		<Injured>Zranený</Injured>
+		
+		  <!-- Building placement -->
+  <NoStuffsToBuildWith>Nemáš použiteľné materiály, z ktorých by si mohol toto postaviť.</NoStuffsToBuildWith>
+  <PowerConnectedRateStored>Prívod energie/uložená: {0} W / {1} Wd</PowerConnectedRateStored>
+  	<Communication>Komunikácia</Communication>
+		<ShootReportShooterAbility>Strelec</ShootReportShooterAbility>
+		  <AutoHomeRegionToggleButton>Povoliť automatické pridávanie domácej zóny okolo nových stavieb.</AutoHomeRegionToggleButton>
+		  	<AffectsLower>ovplyvňuje</AffectsLower>
+	<PrisonerGetsMedicine>Dostáva lieky</PrisonerGetsMedicine>
+	<NotGrowingNowNight>Nerastie (noc).</NotGrowingNowNight>
+	  <CategorizedResourceReadoutToggleButton>Zapne kategorizovanie v zozname surovín</CategorizedResourceReadoutToggleButton>
+
+
+
 </LanguageData>
+
