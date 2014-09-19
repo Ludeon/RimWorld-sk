@@ -31,6 +31,13 @@
   <ColonistDied>Zomrel kolonista</ColonistDied>
   
     <Autosaving>Autosaving</Autosaving>
+	
+	  <VariousLabel>(rôzne)</VariousLabel>
+	    <DeadLabel>{0} (mŕtvy)</DeadLabel>
 
+ <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+ 
+   <LeatherLabel>{0} koža</LeatherLabel>
+  <LeatherDesc>Koža vyrobená z  {0}.</LeatherDesc>
 
 </LanguageData>
