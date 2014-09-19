@@ -1,75 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FullCredits>
-	  <![CDATA[--Ludomancer--
-    Tynan Sylvester
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_MusicAndSound>Hudba a zvuky</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Dodatočné programovanie</Credit_AdditionalProgramming>
+  <Credit_GameArt>Game art</Credit_GameArt>
+  <Credit_MenuArt>Menu art</Credit_MenuArt>
 
-    --Grafika hry--
-    Rhopunzel
+  <Credits_TitleTesting>Tým testerov</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
 
-    --Grafika menu--
-    Ricardo Tomé
+  <Credits_TitleLanguage>{0} jazyk</Credits_TitleLanguage>
+  <Credit_Writer>Autor</Credit_Writer>
+  <Credit_Translator>Prekladateľ</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Generácia zvukov</Credit_NoiseGeneration>
 
-    --Hudba a zvukové efekty--
-    Alistair Lindsay
-
-    --Správa tvorivého obsahu--
-    Joshua Grant
-    Conor Robinson
-
-    --Systém tvorivého obsahu--
-    Benjamin 'Hypolite' Lorteau
-
-    --Prekladatelia--
-    TheEisbaer (nemčina)
-    Haplo (nemčina)
-    Hiztaar (francúzština)
-    Neone (polština)
-    AlyxMS (čínština)
-    AcDie (ruština)
-    joeyeti (slovenčina)
-    Dragonus28 (slovenčina)
-    Vhiden (španielčina)
-    Ribas (portugalčina)
-    Ser-Geeves (holandština)
-    ConfusedWings (holandština)
     
-    --Prispievajúci prekladatelia--
-    GlobusGames (polština)
-    John Fucking Rambo (polština)
-
-
-    --Testeri--
-    Semmy
-    Erik Nystrom
-    ItchyFlea
-    Pheanox
-    Haplo
-    Many others!
-
-    --Voľne dostupné zvuky od--
-    Research bubbling: Glaneur de sons
-    Click: TicTacShutUp
-    Shovel hits: shall555
-    Pick hits: cameronmusic
-    Building placement: joedeshon and HazMatt
-    Flesh impacts: harri
-    Food drop: JustinBW
-    Nutrient paste dispenser: raywilson
-    Weapon handling: S_Dij, KNO_SFX
-    Corpse drop: CosmicEmbers and Sauron974
-    Growing done pop: yottasounds
-    Flame burst: JoelAudio (Joel Azzopardi)
-    Interface pops: Volterock, patchen, broumbroum
-    Melee miss: yuval
-    Construction drill A: cmusounddesign
-    Construction drill B: AGFX
-    Construction ratchet: gelo_papas
-    Construction rummaging: D W
-    Eating: zebraphone
-    Grenade pin: ryanconway]]>
-  </FullCredits>
-  
-  
 </LanguageData>
