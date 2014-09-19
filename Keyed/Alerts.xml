@@ -95,4 +95,14 @@
   
   <HaltedConstructions>{0} konštrukciam chýbajú materiály</HaltedConstructions>
   <HaltedConstructionsDesc> Týmto konštrukciam chýbaju materiály: \n\n{0}</HaltedConstructionsDesc>
-</LanguageData>
+  
+  <ColonistsAwaitingMedicalOperation>{0} kolonistov čaká na operáciu</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>Títo kolonisti potrebujú ošetrenie:\n\n{0}\nUisti sa, že máš všetky potrebné operačné nástroje a dostatok doktorov.</ColonistsAwaitingMedicalOperationDesc>
+
+  <PawnsWithLifeThreateningDisease>Ťažká choroba</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Títo kolonisti sú v ohrození žovita kvôli nebezpečnej chorobe:\n\n{0}\nUisti sa, že dostanu čo najviac lekárskej opatery.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Títo kolonisti sú v ohrození žovita kvôli nebezpečnej chorobe:\n\n{0}\nAk je to možné, pouvažuj nad amputáciou a náhradou poškodenej končatiny, aby kolonista prežil.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <ColonistNeedsTreatment>Kolonista potrebuje ošetrenie</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Títo kolonisti potrebujú ošetrenie. Bez neho by mohli zomrieť z ich zranení, alebo ich zranenia sa stanú trvalé.\n\n{0}\nOšetri ich poslaním do lekárskej postele.</ColonistNeedsTreatmentDesc>
+  </LanguageData>
