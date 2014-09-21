@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Misc.label>Rôzne</Misc.label>
+	<Misc.injury.oldLabel>Jazva</Misc.injury.oldLabel>
+	<Misc.injury.destroyedLabel>Zničené</Misc.injury.destroyedLabel>
+	<Misc.injury.treatedWellLabel>Obandážované</Misc.injury.treatedWellLabel>
+	<Misc.injury.treatedLabel>Zle obandážované</Misc.injury.treatedLabel>
+	<Misc.injury.innerTreatedWellLabel>Zošité</Misc.injury.innerTreatedWellLabel>
+	<Misc.injury.innerTreatedLabel>Zle zošité</Misc.injury.innerTreatedLabel>
+	<Misc.injury.solidTreatedWellLabel>V obväze</Misc.injury.solidTreatedWellLabel>
+	<Misc.injury.solidTreatedLabel>Zle obviazané</Misc.injury.solidTreatedLabel>
+	
+	<Burn.label>Popálenina</Burn.label>
+	<Burn.injury.oldLabel>Jazva z popáleniny</Burn.injury.oldLabel>
+	<Burn.injury.destroyedLabel>Vypálené</Burn.injury.destroyedLabel>
+	<Burn.injury.destroyedOutLabel>Vyhorené</Burn.injury.destroyedOutLabel>
+	<Burn.injury.treatedWellLabel>Obandážované</Burn.injury.treatedWellLabel>
+	<Burn.injury.treatedLabel>Zle obandážované</Burn.injury.treatedLabel>
+	<Burn.injury.innerTreatedWellLabel>genäht</Burn.injury.innerTreatedWellLabel>
+	<Burn.injury.innerTreatedLabel>Zle genäht</Burn.injury.innerTreatedLabel>
+	<Burn.injury.solidTreatedWellLabel>V obväze</Burn.injury.solidTreatedWellLabel>
+	<Burn.injury.solidTreatedLabel>Zle obviazané</Burn.injury.solidTreatedLabel>
+	
+	<Crush.label>Rozdrvený</Crush.label>
+	<Crush.injury.oldLabel>Jazva</Crush.injury.oldLabel>
+	<Crush.injury.destroyedLabel>Rozdrvený</Crush.injury.destroyedLabel>
+	<Crush.injury.treatedWellLabel>Obandážované</Crush.injury.treatedWellLabel>
+	<Crush.injury.treatedLabel>Zle obandážované</Crush.injury.treatedLabel>
+	<Crush.injury.innerTreatedWellLabel>Zošité</Crush.injury.innerTreatedWellLabel>
+	<Crush.injury.innerTreatedLabel>Zle zošité</Crush.injury.innerTreatedLabel>
+	<Crush.injury.solidTreatedWellLabel>V obväze</Crush.injury.solidTreatedWellLabel>
+	<Crush.injury.solidTreatedLabel>Zle obviazané</Crush.injury.solidTreatedLabel>
+	
+	<Crack.label>Prasklina</Crack.label>
+	<Crack.injury.oldLabel>Jazva</Crack.injury.oldLabel>
+	<Crack.injury.destroyedLabel>Rozbité</Crack.injury.destroyedLabel>
+	<Crack.injury.treatedWellLabel>Obandážované</Crack.injury.treatedWellLabel>
+	<Crack.injury.treatedLabel>Zle obandážované</Crack.injury.treatedLabel>
+	<Crack.injury.innerTreatedWellLabel>Zošité</Crack.injury.innerTreatedWellLabel>
+	<Crack.injury.innerTreatedLabel>Zle zošité</Crack.injury.innerTreatedLabel>
+	<Crack.injury.solidTreatedWellLabel>V obväze</Crack.injury.solidTreatedWellLabel>
+	<Crack.injury.solidTreatedLabel>Zle obviazané</Crack.injury.solidTreatedLabel>
+	
+	<Cut.label>Rezná rana</Cut.label>
+	<Cut.injury.oldLabel>Rezná jazva</Cut.injury.oldLabel>
+	<Cut.injury.destroyedLabel>Odrezané</Cut.injury.destroyedLabel>
+	<Cut.injury.destroyedOutLabel>Porezané</Cut.injury.destroyedOutLabel>
+	<Cut.injury.treatedWellLabel>Obandážované</Cut.injury.treatedWellLabel>
+	<Cut.injury.treatedLabel>Zle obandážované</Cut.injury.treatedLabel>
+	<Cut.injury.innerTreatedWellLabel>Zošité</Cut.injury.innerTreatedWellLabel>
+	<Cut.injury.innerTreatedLabel>Zle zošité</Cut.injury.innerTreatedLabel>
+	<Cut.injury.solidTreatedWellLabel>V obväze</Cut.injury.solidTreatedWellLabel>
+	<Cut.injury.solidTreatedLabel>Zle obviazané</Cut.injury.solidTreatedLabel>
+	
+	<Scratch.label>Škrabanec</Scratch.label>
+	<Scratch.injury.oldLabel>Škrabanec</Scratch.injury.oldLabel>
+	<Scratch.injury.destroyedLabel>Odtrhnuté</Scratch.injury.destroyedLabel>
+	<Scratch.injury.destroyedOutLabel>Vytrhnuté</Scratch.injury.destroyedOutLabel>
+	<Scratch.injury.treatedWellLabel>Obandážované</Scratch.injury.treatedWellLabel>
+	<Scratch.injury.treatedLabel>Zle obandážované</Scratch.injury.treatedLabel>
+	<Scratch.injury.innerTreatedWellLabel>Zošité</Scratch.injury.innerTreatedWellLabel>
+	<Scratch.injury.innerTreatedLabel>Zle zošité</Scratch.injury.innerTreatedLabel>
+	<Scratch.injury.solidTreatedWellLabel>V obväze</Scratch.injury.solidTreatedWellLabel>
+	<Scratch.injury.solidTreatedLabel>Zle obviazané</Scratch.injury.solidTreatedLabel>
+	
+	<Bite.label>Hryzanec</Bite.label>
+	<Bite.injury.oldLabel>Hryzná rana</Bite.injury.oldLabel>
+	<Bite.injury.destroyedLabel>Odhryznuté</Bite.injury.destroyedLabel>
+	<Bite.injury.destroyedOutLabel>Prehryznuté</Bite.injury.destroyedOutLabel>
+	<Bite.injury.treatedWellLabel>Obandážované</Bite.injury.treatedWellLabel>
+	<Bite.injury.treatedLabel>Zle obandážované</Bite.injury.treatedLabel>
+	<Bite.injury.innerTreatedWellLabel>Zošité</Bite.injury.innerTreatedWellLabel>
+	<Bite.injury.innerTreatedLabel>Zle zošité</Bite.injury.innerTreatedLabel>
+	<Bite.injury.solidTreatedWellLabel>V obväze</Bite.injury.solidTreatedWellLabel>
+	<Bite.injury.solidTreatedLabel>Zle obviazané</Bite.injury.solidTreatedLabel>
+	
+	<Stab.label>Bodná rana</Stab.label>
+	<Stab.injury.oldLabel>Bodná rana</Stab.injury.oldLabel>
+	<Stab.injury.destroyedLabel>Odseknuté</Stab.injury.destroyedLabel>
+	<Stab.injury.destroyedOutLabel>Porezané</Stab.injury.destroyedOutLabel>
+	<Stab.injury.treatedWellLabel>Obandážované</Stab.injury.treatedWellLabel>
+	<Stab.injury.treatedLabel>Zle obandážované</Stab.injury.treatedLabel>
+	<Stab.injury.innerTreatedWellLabel>Zošité</Stab.injury.innerTreatedWellLabel>
+	<Stab.injury.innerTreatedLabel>Zle zošité</Stab.injury.innerTreatedLabel>
+	<Stab.injury.solidTreatedWellLabel>V obväze</Stab.injury.solidTreatedWellLabel>
+	<Stab.injury.solidTreatedLabel>Zle obviazané</Stab.injury.solidTreatedLabel>
+	
+	<Gunshot.label>Strelná rana</Gunshot.label>
+	<Gunshot.injury.oldLabel>Alte Schusswunde</Gunshot.injury.oldLabel>
+	<Gunshot.injury.destroyedLabel>Odstrelené</Gunshot.injury.destroyedLabel>
+	<Gunshot.injury.destroyedOutLabel>Prestrelené</Gunshot.injury.destroyedOutLabel>
+	<Gunshot.injury.treatedWellLabel>Obandážované</Gunshot.injury.treatedWellLabel>
+	<Gunshot.injury.treatedLabel>Zle obandážované</Gunshot.injury.treatedLabel>
+	<Gunshot.injury.innerTreatedWellLabel>Zošité</Gunshot.injury.innerTreatedWellLabel>
+	<Gunshot.injury.innerTreatedLabel>Zle zošité</Gunshot.injury.innerTreatedLabel>
+	<Gunshot.injury.solidTreatedWellLabel>V obväze</Gunshot.injury.solidTreatedWellLabel>
+	<Gunshot.injury.solidTreatedLabel>Zle obviazané</Gunshot.injury.solidTreatedLabel>
+	
+	<Shredded.label>Roztrhaný</Shredded.label>
+	<Shredded.injury.oldLabel>Alter Splitter</Shredded.injury.oldLabel>
+	<Shredded.injury.destroyedLabel>Odtrhnuté</Shredded.injury.destroyedLabel>
+	<Shredded.injury.destroyedOutLabel>Vytrhnuté</Shredded.injury.destroyedOutLabel>
+	<Shredded.injury.treatedWellLabel>Obandážované</Shredded.injury.treatedWellLabel>
+	<Shredded.injury.treatedLabel>Zle obandážované</Shredded.injury.treatedLabel>
+	<Shredded.injury.innerTreatedWellLabel>Zošité</Shredded.injury.innerTreatedWellLabel>
+	<Shredded.injury.innerTreatedLabel>Zle zošité</Shredded.injury.innerTreatedLabel>
+	<Shredded.injury.solidTreatedWellLabel>V obväze</Shredded.injury.solidTreatedWellLabel>
+	<Shredded.injury.solidTreatedLabel>Zle obviazané</Shredded.injury.solidTreatedLabel>
+	
+	<Bruise.label>Podliatina</Bruise.label>
+	<Bruise.injury.oldLabel>Modrina</Bruise.injury.oldLabel>
+	<Bruise.injury.destroyedLabel>Odretá</Bruise.injury.destroyedLabel>
+	<Bruise.injury.destroyedOutLabel>Odretá</Bruise.injury.destroyedOutLabel>
+	<Bruise.injury.treatedWellLabel>Obandážované</Bruise.injury.treatedWellLabel>
+	<Bruise.injury.treatedLabel>Zle obandážované</Bruise.injury.treatedLabel>
+	<Bruise.injury.innerTreatedWellLabel>Zošité</Bruise.injury.innerTreatedWellLabel>
+	<Bruise.injury.innerTreatedLabel>Zle zošité</Bruise.injury.innerTreatedLabel>
+	<Bruise.injury.solidTreatedWellLabel>V obväze</Bruise.injury.solidTreatedWellLabel>
+	<Bruise.injury.solidTreatedLabel>Zle obviazané</Bruise.injury.solidTreatedLabel>
+	
+	<SurgicalCut.label>Chirurgická jazva</SurgicalCut.label>
+	<SurgicalCut.injury.oldLabel>Rezná rana</SurgicalCut.injury.oldLabel>
+	<SurgicalCut.injury.destroyedLabel>Odrezané</SurgicalCut.injury.destroyedLabel>
+	<SurgicalCut.injury.destroyedOutLabel>Odrezané</SurgicalCut.injury.destroyedOutLabel>
+	<SurgicalCut.injury.treatedWellLabel>Obandážované</SurgicalCut.injury.treatedWellLabel>
+	<SurgicalCut.injury.treatedLabel>Zle obandážované</SurgicalCut.injury.treatedLabel>
+	<SurgicalCut.injury.innerTreatedWellLabel>Zošité</SurgicalCut.injury.innerTreatedWellLabel>
+	<SurgicalCut.injury.innerTreatedLabel>Zle zošité</SurgicalCut.injury.innerTreatedLabel>
+	<SurgicalCut.injury.solidTreatedWellLabel>V obväze</SurgicalCut.injury.solidTreatedWellLabel>
+	<SurgicalCut.injury.solidTreatedLabel>Zle obviazané</SurgicalCut.injury.solidTreatedLabel>
+	
+		
+	<!-- Missing body part -->
+	<MissingBodyPart.label>chýbajúce časti tela</MissingBodyPart.label>
+	
+
+</LanguageData>
