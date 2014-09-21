@@ -3,6 +3,9 @@
   
    <!--=============== AI persona core ====================-->
 	<AIPersonaCore.label>AI Persona core</AIPersonaCore.label>
-	<AIPersonaCore.description>Jadro počítača, ktoré hostí superhumanoidné AI, ktoré dokáže navádzať loď cez hocijaké nebezpečenstvá.</AIPersonaCore.description>
+	<AIPersonaCore.description>Jadro počítača, hostiace superhumanoidné AI, ktoré dokáže navádzať loď cez hocijaké nebezpečenstvá.</AIPersonaCore.description>
 	
+	<!--=============== Neurotrainer ====================-->
+	<Neurotrainer.label>Neurotrainer</Neurotrainer.label>
+	<Neurotrainer.description>Raz použiteľná nanotechnológia. Neurotrainer sa vsúva cez orbit oka a vypúšta nanoprístroje do mozgu pacienta, čim rapídne navýši skúsenosti v určitej dovednosti</Neurotrainer.description>
 </LanguageData>
