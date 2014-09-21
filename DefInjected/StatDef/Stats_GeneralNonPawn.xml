@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MaxHealth.label>Maximálny život</MaxHealth.label>
+	<MaxHealth.description>Maximálny život objektu.</MaxHealth.description>
+	
+	<Flammability.label>Horľavosť</Flammability.label>
+	<Flammability.description>Ako rýchlo sa objekt zapáli, a ako rýchlo horí.</Flammability.description>
+	
+	<MarketValue.label>Hodnota</MarketValue.label>
+	<MarketValue.description>Predajná cena objektu. Skutočná cena môže byť iná, v závislosti od vzťahov a obchodovacími schopnosťami.</MarketValue.description>
+	
+	<Beauty.label>Vzhľad</Beauty.label>
+	<Beauty.description>Ako príjemné je mať objekt vo svojej blízkosti a dívať sa naň.</Beauty.description>
+
+
+</LanguageData>
