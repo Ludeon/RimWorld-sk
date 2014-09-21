@@ -3,10 +3,12 @@
 
 	<Sand.label>Piesok</Sand.label>
 	<Soil.label>Zem</Soil.label>
+	<MarshyTerrain.label>Blatistá pôda</MarshyTerrain.label>
 	<SoilRich.label>Úrodná zem</SoilRich.label>
+	<Mud.label>Blato</Mud.label>
 	<Gravel.label>Štrk</Gravel.label>
 	<RoughStone.label>Hrubý kameň</RoughStone.label>
-	<Mud.label>Blato</Mud.label>
+    <Marsh.label>Bažina</Marsh.label>
 	
 	
 	
