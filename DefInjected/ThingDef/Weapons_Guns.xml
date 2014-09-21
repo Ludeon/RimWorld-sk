@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Bullet_Pistol.label>Náboj do pištole</Bullet_Pistol.label>
@@ -52,5 +52,7 @@
 	<Bullet_InfernoCannon.label>Strela do Inferno kanónu</Bullet_InfernoCannon.label>
 	<Gun_InfernoCannon.label>Inferno kanón</Gun_InfernoCannon.label>
 	<Gun_InfernoCannon.description>Zápalné delostrelecké zariadenie. Vyrábené mechanoidmi.</Gun_InfernoCannon.description>
+	
+	
 	
 </LanguageData>
