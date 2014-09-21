@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Imprisoned.label>V zajatí</Imprisoned.label>
+    <Imprisoned.description>Neznášam byť zamknutý!</Imprisoned.description>
+	
+	<SharedBedroom.label>Zdieľaná spálňa</SharedBedroom.label>
+    <SharedBedroom.description>Zdieľať izbu s niekým je o nervy. Potrebujem trochu súkromia!</SharedBedroom.description>
+	
+	<ColonistLeftUnburied.label>Nepochovaný kolonista</ColonistLeftUnburied.label>
+    <ColonistLeftUnburied.description>Jeden z nás zomrel a nechali sme ho len tak ležať. Nikto by nemal zostať nepochovaný. Ľudia si zaslúžia zodpovedajúci pohreb.</ColonistLeftUnburied.description>
+
+	<HappyNude.label>Nahý a štatný</HappyNude.label>
+	<HappyNude.description>Som nahý a páči sa mi to, cítim sa tak slobodne!</HappyNude.description>
+	
+	<Naked.label>Nahý</Naked.label>
+    <Naked.description>Som nahý/á. To je tak ponižujúce.</Naked.description>	
+	
+	<MasochistLittlePain.label>V malých bolestiach</MasochistLittlePain.label>
+    <MasochistLittlePain.description>Au... He he he... Na to by som si zvykol!</MasochistLittlePain.description>
+	
+	<MasochistMediumPain.label>V bolestiach</MasochistMediumPain.label>
+    <MasochistMediumPain.description>Ughhh... Bolí to, ale páči sa mi to! Viac, daj mi viac!</MasochistMediumPain.description>
+	
+	<MasochistSeverePain.label>V silných bolestiach</MasochistSeverePain.label>
+    <MasochistSeverePain.description>Au... Asi som si niečo zlomil... Ale aký to je vzrušujúci pocit!</MasochistSeverePain.description>
+	
+	<MasochistInShock.label>V šoku z tažkých bolestí</MasochistInShock.label>
+    <MasochistInShock.description>Aaaaaaaah... Som v nebi?</MasochistInShock.description>
+	
+	<ProsthophileHappy.label>Má bionickú časť tela</ProsthophileHappy.label>
+    <ProsthophileHappy.description>Som produkt moderných technológii! Odteraz môžem robiť všetko lepšie!</ProsthophileHappy.description>
+	
+	<ProsthophobeUnhappy.label>Má bionickú časť tela</ProsthophobeUnhappy.label>
+    <ProsthophobeUnhappy.description>Premenili ma v bionickú príšeru!... Keby som len mal na výber...</ProsthophobeUnhappy.description>
+	
+	<MartialArtistUnhappy.label>Nosí zbraň</MartialArtistUnhappy.label>
+	<MartialArtistUnhappy.description>Agh! Nenávidím zbrane!</MartialArtistUnhappy.description>
+    </LanguageData>
