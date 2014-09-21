@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <LanguageData>
-  
+    
+	<Apparel_Pants.label>Nohavice</Apparel_Pants.label>
+	<Apparel_Pants.description>Jednoduché nohavice.</Apparel_Pants.description>
 	<Apparel_BasicShirt.label>Tričko</Apparel_BasicShirt.label>
 	<Apparel_BasicShirt.description>Normálne tričko.</Apparel_BasicShirt.description>
 	<Apparel_CollarShirt.label>Pólo tričko</Apparel_CollarShirt.label>
