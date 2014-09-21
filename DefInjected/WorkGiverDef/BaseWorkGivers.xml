@@ -53,5 +53,16 @@
 	<DoBillsSlagRefining.gerund>čistí strusku</DoBillsSlagRefining.gerund>
 	<DoBillsButcherMechanoid.verb>rozoberať</DoBillsButcherMechanoid.verb>
 	<DoBillsButcherMechanoid.gerund>rozoberá</DoBillsButcherMechanoid.gerund>
+		
+	<TakeToBedToOperate.verb>Zobrať na operáciu</TakeToBedToOperate.verb>
+	<TakeToBedToOperate.gerund>Berie na operáciu</TakeToBedToOperate.gerund>
+	
+	<DoBillsMedicalHumanOperation.verb>operovať</DoBillsMedicalHumanOperation.verb>
+	<DoBillsMedicalHumanOperation.gerund>operuje</DoBillsMedicalHumanOperation.gerund>
+	
+	<DoBillsMedicalMechanoidOperation.verb>modifikovať</DoBillsMedicalMechanoidOperation.verb>
+	<DoBillsMedicalMechanoidOperation.gerund>modifikuje</DoBillsMedicalMechanoidOperation.gerund>
+  
 	
 </LanguageData>
+
