@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<!-- ========================== Melee Weapons ============================== -->
+  
+	<MeleeWeapon_ShortSword.label>Krátky meč</MeleeWeapon_ShortSword.label>
+	<MeleeWeapon_ShortSword.description>Spoľahlivý a smrtiaci.</MeleeWeapon_ShortSword.description>
+  
+	<MeleeWeapon_Knife.label>Nôž</MeleeWeapon_Knife.label>
+	<MeleeWeapon_Knife.description>Jednoduchý ostrý nôž.</MeleeWeapon_Knife.description>
+  
+	<MeleeWeapon_Shiv.label>Mačeta</MeleeWeapon_Shiv.label>
+	<MeleeWeapon_Shiv.description>Väčší nôž.</MeleeWeapon_Shiv.description>
+  
+	<MeleeWeapon_Spear.label>Oštep</MeleeWeapon_Spear.label>
+	<MeleeWeapon_Spear.description>Palica so špicatým koncom na bodanie.</MeleeWeapon_Spear.description>
+  
+	<MeleeWeapon_Club.label>Kyjak</MeleeWeapon_Club.label>
+	<MeleeWeapon_Club.description>Najstaršia zbraň ľudstvu známa. Veľký kus dreva, ktorým sa nepriateľ umlátil na smrť. Primitívne, ale fungujúce.</MeleeWeapon_Club.description>
+	
+</LanguageData>
