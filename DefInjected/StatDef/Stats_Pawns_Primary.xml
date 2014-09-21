@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MentalBreakThreshold.label>Hranica nervového zrútenia</MentalBreakThreshold.label>
+	<MentalBreakThreshold.description>Akonáhle ide niekoho nálada pod tento level, je tu vysoká šanca na nervové zrútenie.</MentalBreakThreshold.description>
+	
+	<PsychicSensitivity.label>Psychická senzitivita</PsychicSensitivity.label>
+	<PsychicSensitivity.description>Koľkokrát viacej je táto osoba ovplyvnená psychickými javmi.</PsychicSensitivity.description>
+	
+	<MoveSpeed.label>Rýchlosť pohybu</MoveSpeed.label>
+	<MoveSpeed.description>Rýchlosť pohybu po Svete v políčkach za sekudnu.</MoveSpeed.description>
+	
+	<GlobalLearningFactor.label>Efektívnosť učenia</GlobalLearningFactor.label>
+	<GlobalLearningFactor.description>Efektívnosť učenia sa pre všetky skilly.</GlobalLearningFactor.description>
+	
+</LanguageData>
