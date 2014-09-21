@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!-- Diseases -->
+	<Euthanasia.label>Eutanázia</Euthanasia.label>
+	
+	<ShutDown.label>Vypnúť</ShutDown.label>
+	
+	<WoundInfection.label>Infekcia rany</WoundInfection.label>
+	<rep>
+		<path>WoundInfection.disease.severityStages[0].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[1].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[2].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[3].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[4].label</path>
+		<trans>brutálna</trans>
+	</rep>
+	
+	<BadBack.label>Problémy s chrbtom</BadBack.label>
+	
+	<Cataract.label>Šedý zákal</Cataract.label>
+	
+	<Anesthetic.label>Anestézia</Anesthetic.label>
+	
+	<Concussion.label>Otras mozgu</Concussion.label>
+	
+	<Flu.label>Chrípka</Flu.label>
+	<rep>
+		<path>Flu.disease.severityStages[0].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[1].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[2].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[3].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[4].label</path>
+		<trans>brutálna</trans>
+	</rep>
+	
+	<Plague.label>Mor</Plague.label>
+	<rep>
+		<path>Plague.disease.severityStages[0].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[1].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[2].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[3].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[4].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[5].label</path>
+		<trans>brutálna</trans>
+	</rep>
+	
+	<Malaria.label>Malária</Malaria.label>
+	<rep>
+		<path>Malaria.disease.severityStages[0].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[1].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[2].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[3].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[4].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	
+	<SleepingSickness.label>Spavá choroba</SleepingSickness.label>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[0].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[1].label</path>
+		<trans>nízka</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[2].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[3].label</path>
+		<trans>väčšia</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[4].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[5].label</path>
+		<trans>extrémna</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[6].label</path>
+		<trans>brutálna</trans>
+	</rep>
+	
+	
+</LanguageData>
