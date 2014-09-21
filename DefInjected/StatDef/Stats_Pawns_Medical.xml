@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MedicalOperationSpeed.label>Rýchlosť operovania</MedicalOperationSpeed.label>
+	<MedicalOperationSpeed.description>Rýchlosť akou osoba dokáže vykonávať chirurgické zákroky.</MedicalOperationSpeed.description>
+	
+	<BaseHealingQuality.label>Kvalita liečenia</BaseHealingQuality.label>
+	<BaseHealingQuality.description>Kvalita poskytnutého liečenia pri ošetrovaní.</BaseHealingQuality.description>
+	
+	<HealingSpeed.label>Rýchlosť ošetrovania</HealingSpeed.label>
+	<HealingSpeed.description>Rýchlosť akou ošetruje zranenia ako doktor.</HealingSpeed.description>
+	
+</LanguageData>
