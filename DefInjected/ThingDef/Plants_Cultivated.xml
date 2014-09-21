@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
 	<PlantPotato.label>Zemiaky</PlantPotato.label>
@@ -12,5 +12,11 @@
 
 	<PlantDaylily.label>Ľalia</PlantDaylily.label>
 	<PlantDaylily.description>Nádherná kvetina.</PlantDaylily.description>
+	
+	<PlantCotton.label>Bavlník</PlantCotton.label>
+	<PlantCotton.description>Produkuje bavlnu, jemné rastlinné vlákno používané k výrobe látky.</PlantCotton.description>
+
+	<PlantDevilstrand.label>Diabolská huba</PlantDevilstrand.label>
+	<PlantDevilstrand.description>Táto krehká huba bola genetický vyvinutá tak, aby produkovala hodváb najvyššej kvality. Huba dostala názov podľa povery, že v ľudoch vzbudzuje chamtivosť.</PlantDevilstrand.description>
 
 </LanguageData>
