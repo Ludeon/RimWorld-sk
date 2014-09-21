@@ -5,6 +5,8 @@
 
 	<Human.label>Človek</Human.label>
 	<Human.description>Človek, obvykle nemodifikovaný génovým inžinierstvom a prevažne nezmenený obrovským tlakom na iných planétach.</Human.description>
+  	<Human_Leather.label>Ľudská koža</Human_Leather.label>
+	<Human_Meat.label>Ľudské mäso</Human_Meat.label>
   
 	
 
