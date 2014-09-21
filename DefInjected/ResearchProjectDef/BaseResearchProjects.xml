@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
 	<Hydroponics.label>Hydroponické pestovanie</Hydroponics.label>
@@ -10,8 +10,8 @@
 	<Stonecutting.label>Kamenárstvo</Stonecutting.label>
     <Stonecutting.description>Umožňuje stavbu kamenárskych stolov. Na tých dokážete spracovávať kamennú suť na použiteľné kamenné bloky pre ďalšiu stavbu.</Stonecutting.description>
 
-		<SlagRefining.label>Čistenie strusky</SlagRefining.label>
-		<SlagRefining.description>Môžete postaviť čističky strusky, ktoré využívajú teplo a silné elektromagnety na oddelenie použiteľného železa zo strusky.</SlagRefining.description>
+	<SlagRefining.label>Čistenie strusky</SlagRefining.label>
+	<SlagRefining.description>Môžete postaviť čističky strusky, ktoré využívajú teplo a silné elektromagnety na oddelenie použiteľného železa zo strusky.</SlagRefining.description>
 
     <Machining.label>Obrábanie</Machining.label>
     <Machining.description>Môžete postaviť obrábacie stroje, na ktorých je možné rozložiť mechanoidov na použiteľné železo.</Machining.description>	
@@ -38,4 +38,15 @@
 	<FearTech1.description>Vývoj technológií na zvýšenie strachu..</FearTech1.description>
 	<FearTech1.descriptionDiscovered>Teraz môžete vyrábať obesenecké klietky a vystaviť v nich telá mŕtvych nepriateľov a neposlušných kolonistov. Tí, čo na ne pohliadnu, zažijú intenzívny strach a znechutenie. Je to staroveký, primitívny, ale účinný nástroj.</FearTech1.descriptionDiscovered>
 	
+	<ElectricSmelting.label>Čistenie strusky</ElectricSmelting.label>
+    <ElectricSmelting.description>Môžete postaviť čističky strusky, ktoré využívajú teplo a silné elektromagnety na oddelenie použiteľného železa zo strusky.</ElectricSmelting.description>
+	
+	<Mortars.label>Mínomet</Mortars.label> 
+	<Mortars.description>Odteraz môžete používať mínomety, ktoré dokážu strielať za stenu.</Mortars.description>
+	
+	<HospitalBed.label>Nemocničná posteľ</HospitalBed.label>
+	<HospitalBed.description>Umožní vám postaviť nemocničnu posteľ, na ktorej je možné robiť rôzne chirurgické zákroky. Taktiež zvyšuje šance na rýchlejšie uzdravenie kolonistu.</HospitalBed.description>
+	
+	<Tailoring.label>Krajčírstvo</Tailoring.label>
+	<Tailoring.description>Dovoľuje kolonistom postaviť krajčírsky stôl, na ktorom môžu byť ušité tričká alebo nohavice z rôznych materiálov.</Tailoring.description>
 </LanguageData>
