@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  
+  <rep>
+    <path>SpeedOffset.degreeDatas[0].label</path>
+    <trans>Pomalý chodec</trans>
+  </rep>
+  <rep>
+    <path>SpeedOffset.degreeDatas[0].description</path>
+    <trans>NAME je vždy na konci skupiny.</trans>
+  </rep>
+    <rep>
+    <path>SpeedOffset.degreeDatas[1].label</path>
+    <trans>Rýchly chodec</trans>
+  </rep>
+  <rep>
+    <path>SpeedOffset.degreeDatas[1].description</path>
+    <trans>NAME chce byť všade čo najrýchlejšie. Preto je vždy prvý v skupine</trans>
+  </rep>
+    <rep>
+    <path>SpeedOffset.degreeDatas[2].label</path>
+    <trans>Jogger</trans>
+  </rep>
+  <rep>
+    <path>SpeedOffset.degreeDatas[2].description</path>
+    <trans>NAME sa pohybuje s pocitom súrnosti. Preto HIM nikdy nestíhajú.</trans>
+  </rep>
+  
+
+  <rep>
+    <path>NaturalMood.degreeDatas[0].label</path>
+    <trans>Sangvinik</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[0].description</path>
+    <trans>NAME ije prírodne pozitívny o každej situácii.</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[1].label</path>
+    <trans>Optimista</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[1].description</path>
+    <trans>NAME je od prírody optimista. Je ťažké ho/ju nervovo zrútiť.</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[2].label</path>
+    <trans>Pesimistia</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[2].description</path>
+    <trans>NAME je od prírody pesimista. HECAP sa pozerá na tú zlú stránku života.</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[3].label</path>
+    <trans>Depresívny</trans>
+  </rep>
+  <rep>
+    <path>NaturalMood.degreeDatas[3].description</path>
+    <trans>NAME je neustále neštastný. HECAP má problémy mať dobrú náladu, aj keď je všetko v poriadku. Aj preto sa dokáže ľahko nervovo zrútiť.</trans>
+  </rep>
+	
+	
+  <rep>
+    <path>Nerves.degreeDatas[0].label</path>
+    <trans>Nervy zo železa</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[0].description</path>
+    <trans>HIS myseľ je železný štít. Bude pokračovať ďalej, aj keď ostatní sa už dávno zrútili.</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[1].label</path>
+    <trans>Vytrvalý</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[1].description</path>
+    <trans>NAME je mentálne silný, a je ťažké ho nervovo zrútiť.</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[2].label</path>
+    <trans>Nervózny</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[2].description</path>
+    <trans>HIS nervy zvinkú prasknúť pod tlakom.</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[3].label</path>
+    <trans>Plachý</trans>
+  </rep>
+  <rep>
+    <path>Nerves.degreeDatas[3].description</path>
+    <trans>NAME nezvláda situácie pod väčším tlakom. Veľké riziko nervového zrútenia.</trans>
+  </rep>
+  
+  
+   <rep>
+    <path>Neurotic.degreeDatas[0].label</path>
+    <trans>Neurotický</trans>
+  </rep>
+  <rep>
+    <path>Neurotic.degreeDatas[0].description</path>
+    <trans>NAME má rád veci usporiadané. HECAP preto pracuje rýchlejšie aby všetko zvládol. To sa ale odráža na jeho nervoch...</trans>
+  </rep>
+  <rep>
+    <path>Neurotic.degreeDatas[1].label</path>
+    <trans>Silne neurotický</trans>
+  </rep>
+  <rep>
+    <path>Neurotic.degreeDatas[1].description</path>
+    <trans>NAME je neustále nervózny o tom čo všetko musí urobiť. HECAP pracuje oveľa rýchlejšie ako otatní. Avšak to necháva na HIS mysli nejaké známky..</trans>
+  </rep>
+  
+  
+   <rep>
+    <path>Industriousness.degreeDatas[0].label</path>
+    <trans>Pracovitý</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[0].description</path>
+    <trans>NAME nemá problém ani s najťažšímy prácami, ktoré zvláda rýchlejšie ako ostatní.</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[1].label</path>
+    <trans>Usilovný</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[1].description</path>
+    <trans>NAME sa snaží vždy urobiť svôj kus práce..</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[2].label</path>
+    <trans>Lenivý</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[2].description</path>
+    <trans>NAME je tak trochu lenivý.</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[3].label</path>
+    <trans>Leňochod</trans>
+  </rep>
+  <rep>
+    <path>Industriousness.degreeDatas[3].description</path>
+    <trans>NAME miluje oddych a nenávidí hocijakú prácu. Pracuje veľmi pomaly a málokedy sa dokáže sústrediť.</trans>
+  </rep>
+  
+  
+   <rep>
+    <path>PsychicSensitivity.degreeDatas[0].label</path>
+    <trans>Psychicky supersenzitívny</trans>
+  </rep>
+  <rep>
+    <path>PsychicSensitivity.degreeDatas[0].description</path>
+    <trans>HISCAP je ako rádio. NAME je extrémne senzitívny na psychické javy.</trans>
+  </rep>
+   <rep>
+    <path>PsychicSensitivity.degreeDatas[1].label</path>
+    <trans>Psychicky senzitívny </trans>
+  </rep>
+  <rep>
+    <path>PsychicSensitivity.degreeDatas[1].description</path>
+    <trans>NAME je neobyčajne senzitívny na psychické javy.</trans>
+  </rep>
+   <rep>
+    <path>PsychicSensitivity.degreeDatas[2].label</path>
+    <trans>Psychicky odolný</trans>
+  </rep>
+  <rep>
+    <path>PsychicSensitivity.degreeDatas[2].description</path>
+    <trans>NAME je menej ovplyvnení psychickými javmi ako ostatní.</trans>
+  </rep>
+   <rep>
+    <path>PsychicSensitivity.degreeDatas[3].label</path>
+    <trans>Psychicky nedotknuteľný</trans>
+  </rep>
+  <rep>
+    <path>PsychicSensitivity.degreeDatas[3].description</path>
+    <trans>NAME je úplne iný ako ostatni. HIS myseľ nie je vôbec ovplyvnená psychickými javmi.</trans>
+  </rep>
+	
+</LanguageData>
