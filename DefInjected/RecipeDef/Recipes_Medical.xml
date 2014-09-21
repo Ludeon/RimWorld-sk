@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<InstallNaturalHeart.label>Transplantovať srdce</InstallNaturalHeart.label>
+	<InstallNaturalHeart.description>Transplantovať srdce.</InstallNaturalHeart.description>
+	<InstallNaturalHeart.jobString>Transplantuje srdce.</InstallNaturalHeart.jobString>
+	
+	<InstallNaturalLiver.label>Transplantovať  pečeň</InstallNaturalLiver.label>
+	<InstallNaturalLiver.description>Transplantovať pečeň.</InstallNaturalLiver.description>
+	<InstallNaturalLiver.jobString>Transplantuje pečeň.</InstallNaturalLiver.jobString>
+	
+	<InstallNaturalKidney.label>Transplantovať  obličku</InstallNaturalKidney.label>
+	<InstallNaturalKidney.description>Transplantovať obličku.</InstallNaturalKidney.description>
+	<InstallNaturalKidney.jobString>Transplantuje obličku.</InstallNaturalKidney.jobString>
+	
+	<InstallNaturalLung.label>Transplantovať  pľúca</InstallNaturalLung.label>
+	<InstallNaturalLung.description>Transplantovať  pľúca.</InstallNaturalLung.description>
+	<InstallNaturalLung.jobString>Transplantuje pľúca.</InstallNaturalLung.jobString>
+	
+	<!--
+	<InstallNaturalBrain.label>Transplantovať  mozog</InstallNaturalBrain.label>
+	<InstallNaturalBrain.description>Transplantovať  mozog.</InstallNaturalBrain.description>
+	<InstallNaturalBrain.jobString>Transplantuje mozog.</InstallNaturalBrain.jobString>
+	-->
+	
+	<InstallPegLeg.label>Transplantovať  drevenú nohu</InstallPegLeg.label>
+	<InstallPegLeg.description>Transplantovať  drevenú nohu.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>Transplantuje drevenú nohu.</InstallPegLeg.jobString>
+	
+	<InstallBionicEye.label>Transplantovať  bionické oko</InstallBionicEye.label>
+	<InstallBionicEye.description>Transplantovať  bionické oko.</InstallBionicEye.description>
+	<InstallBionicEye.jobString>Transplantuje bionické oko.</InstallBionicEye.jobString>
+	
+	<InstallBionicArm.label>Transplantovať  bionickú ruku</InstallBionicArm.label>
+	<InstallBionicArm.description>Transplantovať  bionickú ruku.</InstallBionicArm.description>
+	<InstallBionicArm.jobString>Transplantuje bionickú ruku.</InstallBionicArm.jobString>
+	
+	<InstallBionicLeg.label>Transplantovať  bionickú nohu</InstallBionicLeg.label>
+	<InstallBionicLeg.description>Transplantovať bionickú nohu.</InstallBionicLeg.description>
+	<InstallBionicLeg.jobString>Transplantuje bionickú nohu.</InstallBionicLeg.jobString>
+	
+	<InstallSimpleProstheticLeg.label>Transplantovať jednoduchú protézu nohy</InstallSimpleProstheticLeg.label>
+	<InstallSimpleProstheticLeg.description>Transplantovať jednoduchú protézu nohy.</InstallSimpleProstheticLeg.description>
+	<InstallSimpleProstheticLeg.jobString>Transplantuje jednoduchú protézu nohy.</InstallSimpleProstheticLeg.jobString>
+	
+	<InstallSimpleProstheticArm.label>Transplantovať  jednoduchú protézu ruky</InstallSimpleProstheticArm.label>
+	<InstallSimpleProstheticArm.description>Transplantovať jednoduchú protézu ruky.</InstallSimpleProstheticArm.description>
+	<InstallSimpleProstheticArm.jobString>Transplantuje jednoduchú protézu ruky.</InstallSimpleProstheticArm.jobString>
+	
+	<InstallDenture.label>Transplantovať  zuby</InstallDenture.label>
+	<InstallDenture.description>Transplantovať  zuby.</InstallDenture.description>
+	<InstallDenture.jobString>Transplantuje zuby.</InstallDenture.jobString>
+	
+	<InstallPowerClaw.label>Transplantovať  pazúry</InstallPowerClaw.label>
+	<InstallPowerClaw.description>Transplantovať  pazúry.</InstallPowerClaw.description>
+	<InstallPowerClaw.jobString>Transplantuje pazúry.</InstallPowerClaw.jobString>
+	
+	<InstallScytherKnifeProtrusion.label>Transplantovať  scytherove nože</InstallScytherKnifeProtrusion.label>
+	<InstallScytherKnifeProtrusion.description>Transplantovať  scytherove nože.</InstallScytherKnifeProtrusion.description>
+	<InstallScytherKnifeProtrusion.jobString>Transplantuje scytherove nože.</InstallScytherKnifeProtrusion.jobString>
+	
+	
+	<!-- removing body parts -->
+	
+	<RemoveBodyPart.label>Odstrániť časť tela</RemoveBodyPart.label>
+	<RemoveBodyPart.description>Odstrániť časť tela.</RemoveBodyPart.description>
+	<RemoveBodyPart.jobString>Odstránuje časť tela.</RemoveBodyPart.jobString>
+	
+	<RemoveMechanoidBodyPart.label>Odinštalovať časť</RemoveMechanoidBodyPart.label>
+	<RemoveMechanoidBodyPart.description>Odinštalovať časť mechanoida.</RemoveMechanoidBodyPart.description>
+	<RemoveMechanoidBodyPart.jobString>Odstraňuje časti mechanoida.</RemoveMechanoidBodyPart.jobString>
+	
+	
+	<!-- killing -->
+	
+	<Euthanize.label>Eutanázia</Euthanize.label>
+	<Euthanize.description>Podá eutanáziu.</Euthanize.description>
+	<Euthanize.jobString>Dostáva eutanáziu.</Euthanize.jobString>
+	
+	<ShutDownMechanoid.label>Vypnúť</ShutDownMechanoid.label>
+	<ShutDownMechanoid.description>Vypnúť mechanoida .</ShutDownMechanoid.description>
+	<ShutDownMechanoid.jobString>Vypína.</ShutDownMechanoid.jobString>
+	
+	
+</LanguageData>
