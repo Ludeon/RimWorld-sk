@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<RecruitPrisonerChance.label>Šanca na naverbovanie</RecruitPrisonerChance.label>
+	<RecruitPrisonerChance.description>Šanca {0}% na navernovanie väzňa v ideálnej situácii.</RecruitPrisonerChance.description>
+	
+	<SocialImpact.label>Sociálny dopad</SocialImpact.label>
+	<SocialImpact.description>Sociálna interakcia má {0}%-ný vplyv na náladu kolonistov.</SocialImpact.description>
+	
+	<GiftImpact.label>Diplomatický dopad</GiftImpact.label>
+	<GiftImpact.description>Dary majú {0}%-ný vplyv na vzťah s frakciou.</GiftImpact.description>
+	
+	<TradePriceImprovement.label>Vyjednávanie</TradePriceImprovement.label>
+	<TradePriceImprovement.description>Obchodné ceny sú o {0}% lepšie pri nákupe aj predaji.</TradePriceImprovement.description>
+	
+	
+
+	
+	
+</LanguageData>
