@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!--======================= Wild plants - carpets ========================-->
+	
+	<PlantTallGrass.label>Vysoká tráva</PlantTallGrass.label>
+	<PlantTallGrass.description>Divoká vysoká tráva.</PlantTallGrass.description>
+
+	
+	<!--============================ Wild - Trees ============================-->
+	
+	<PlantTreeCecropia.label>Cekrópia</PlantTreeCecropia.label>
+	<PlantTreeCecropia.description>Jeden z najobyčajnejších stromov dažďového pralesa. Rastie veľmi rýchlo.</PlantTreeCecropia.description>
+	
+	
+</LanguageData>
