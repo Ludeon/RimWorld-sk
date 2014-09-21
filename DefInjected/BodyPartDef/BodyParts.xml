@@ -33,6 +33,7 @@
 	<Liver.label>Pečeň</Liver.label>
 	<Stomach.label>Žalúdok</Stomach.label>
 	<Spine.label>Chrbtica</Spine.label>
+	<LeftShoulder.label>Ľavé rameno</LeftShoulder.label>
 	<LeftArm.label>Ľavá ruka</LeftArm.label>
 	<LeftHand.label>Ľavá dlaň</LeftHand.label>
 	<LeftHandPinky.label>Malíček (Na ľavej ruke)</LeftHandPinky.label>
@@ -40,6 +41,7 @@
 	<LeftHandMiddleFinger.label>Prostredník (Na ľavej ruke)</LeftHandMiddleFinger.label>
 	<LeftHandIndexFinger.label>Ukazovák (Na ľavej ruke)</LeftHandIndexFinger.label>
 	<LeftHandThumb.label>Palec (Na ľavej ruke)</LeftHandThumb.label>
+	<RightShoulder.label>Pravé rameno</RightShoulder.label>
 	<RightArm.label>Pravá ruka</RightArm.label>
 	<RightHand.label>Pravá dlaň</RightHand.label>
 	<RightHandPinky.label>Malíček (Na pravej ruke)</RightHandPinky.label>
@@ -65,8 +67,12 @@
   <!-- animal -->
 	
 	<InsectHead.label>Hlava</InsectHead.label>
+	<SnakeHead.label>Hlava</SnakeHead.label>
+	<SnakeMouth.label>Ústa</SnakeMouth.label>
+	<SnakeBody.label>Telo</SnakeBody.label>
 	<InsectHeart.label>Srdce</InsectHeart.label>
 	<InsectNostril.label>Nosná dierka</InsectNostril.label>
+	<InsectMouth.label>Ústa</InsectMouth.label>
 	<Body.label>Telo</Body.label>
 	<Jowl.label>Líce</Jowl.label>
 	<Tail.label>Chvost</Tail.label>
@@ -76,6 +82,13 @@
 	<Shell.label>Pancier</Shell.label>
 	<LeftElytra.label>Ľavé krídlo</LeftElytra.label>
 	<RightElytra.label>Pravé krídlo</RightElytra.label>
+	<LeftTusk.label>Linker Stoßzahn</LeftTusk.label>
+	<RightTusk.label>Rechter Stoßzahn</RightTusk.label>
+	<Horn.label>Roh</Horn.label>
+	<Hump.label>Hrb</Hump.label>
+	<TurtleShell.label>Pancier</TurtleShell.label>
+	<Plastron.label>Brucho</Plastron.label>
+	<TurtleBeak.label>Zobák</TurtleBeak.label>
 	
   <!-- animals legs -->
   
@@ -127,6 +140,8 @@
   <!-- mechanical -->
 	
 	<MechanicalThorax.label>Hrudník</MechanicalThorax.label>
+	<LeftKnifeProtrusion.label>Ľavá protéza z noža</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Pravá protéza z noža</RightKnifeProtrusion.label>
 	<MechanicalNeck.label>Krk</MechanicalNeck.label>
 	<MechanicalHead.label>Hlava</MechanicalHead.label>
 	<LeftSightSensor.label>Lavý optický senzor</LeftSightSensor.label>
@@ -134,6 +149,7 @@
 	<LeftHearingSensor.label>Lavý sluchový senzor</LeftHearingSensor.label>
 	<RightHearingSensor.label>Pravý sluchový senzor</RightHearingSensor.label>
 	<SmellSensor.label>Čuchový senzor</SmellSensor.label>
+	<LeftMechanicalShoulder.label>Ľavé rameno</LeftMechanicalShoulder.label>
 	<LeftMechanicalArm.label>Ľavá mechanická ruka</LeftMechanicalArm.label>
 	<LeftMechanicalHand.label>Ľavá dlaň</LeftMechanicalHand.label>
 	<LeftHandMechanicalPinky.label>Malíček (Na ľavej ruke)</LeftHandMechanicalPinky.label>
@@ -141,6 +157,7 @@
 	<LeftHandMechanicalMiddleFinger.label>Prostredník (links)</LeftHandMechanicalMiddleFinger.label>
 	<LeftHandMechanicalIndexFinger.label>Ukazovák (Na ľavej ruke)</LeftHandMechanicalIndexFinger.label>
 	<LeftHandMechanicalThumb.label>Palec (Na ľavej ruke)</LeftHandMechanicalThumb.label>
+	<RightMechanicalShoulder.label>Pravé rameno</RightMechanicalShoulder.label>
 	<RightMechanicalArm.label>Pravá ruka</RightMechanicalArm.label>
 	<RightMechanicalHand.label>Pravá dlaň</RightMechanicalHand.label>
 	<RightHandMechanicalPinky.label>Malíček (Na pravej ruke)</RightHandMechanicalPinky.label>
