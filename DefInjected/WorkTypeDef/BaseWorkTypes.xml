@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Research.pawnLabel>Vedec</Research.pawnLabel>
@@ -75,5 +75,10 @@
 	<Firefighter.gerundLabel>Hasiť</Firefighter.gerundLabel>
 	<Firefighter.verb>Hasí</Firefighter.verb>
 	<Firefighter.tooltipDesc>Hasič hasí ohne v kolónii.</Firefighter.tooltipDesc>
+	
+	<Patient.pawnLabel>Pacient</Patient.pawnLabel>
+	<Patient.gerundLabel>Stať sa pacientom</Patient.gerundLabel>
+	<Patient.verb>Je pacientom</Patient.verb>
+	<Patient.tooltipDesc>Pacienti idú do postele ak potrebujú lekárske ošetrenie.</Patient.tooltipDesc>
 
 </LanguageData>
