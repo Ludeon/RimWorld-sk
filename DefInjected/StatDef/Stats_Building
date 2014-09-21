@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<WorkToBuild.label>Potrebná práca</WorkToBuild.label>
+	<WorkToBuild.description>Práca potrebná k postaveniu stavby.</WorkToBuild.description>
+	
+	<DoorOpenSpeed.label>Rýchlosť otvárania</DoorOpenSpeed.label>
+	<DoorOpenSpeed.description>Rýchlosť akou sa dvere otvárajú.</DoorOpenSpeed.description>
+	
+	<BedRestEffectiveness.label>Efektívnosť spánku</BedRestEffectiveness.label>
+	<BedRestEffectiveness.description>Aké účinné postele sú.</BedRestEffectiveness.description>
+	
+	
+	
+	
+
+</LanguageData>
