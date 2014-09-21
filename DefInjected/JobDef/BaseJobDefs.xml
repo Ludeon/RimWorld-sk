@@ -2,14 +2,26 @@
 <LanguageData>
 	
 	<Goto.reportString>Pohybuje sa.</Goto.reportString>
+	
 	<Wait.reportString>Stojí.</Wait.reportString>
 	
 	<AttackStatic.reportString>Útočí na TargetA.</AttackStatic.reportString>
+	
     <AttackMelee.reportString>Útočí na TargetA zblízka.</AttackMelee.reportString>
 	
 	<Hunt.reportString>Naháňa TargetA.</Hunt.reportString>
 	
 	<UseVerbOnThing.reportString>Používa verb.</UseVerbOnThing.reportString>
+	
+	<UseNeurotrainer.reportString>Použiť neurotrainer.</UseNeurotrainer.reportString>
+	
+	<Strip.reportString>Zieht TargetA aus.</Strip.reportString>
+	
+	<Wear.reportString>Ťahá TargetA an.</Wear.reportString>
+	
+	<ManThing.reportString>Obsluhuje zbraň.</ManThing.reportString>
+	
+	<LayDown.reportString>Ľahá si dolu.</LayDown.reportString>
 	
 	<Equip.reportString>Vyzbrojuje sa s: TargetA</Equip.reportString>
 	
@@ -25,7 +37,7 @@
 	
 	<FeedPatient.reportString>Kŕmi TargetA s: TargetB.</FeedPatient.reportString>
 	
-	<HaulToSquare.reportString>Nesie TargetA na políčko.</HaulToSquare.reportString>
+	<HaulToCell.reportString>Nesie TargetA na políčko.</HaulToCell.reportString>
 	
 	<HaulToContainer.reportString>Nesie TargetA.</HaulToContainer.reportString>
 	
@@ -73,7 +85,6 @@
 	
 	<PrisonerExecution.reportString>Popravuje väzňa: TargetA</PrisonerExecution.reportString>
 	
+	<HealPatient.reportString>Ošetruje TargetA.</HealPatient.reportString>
 	
-	
-	
-</LanguageData>
+	</LanguageData>
