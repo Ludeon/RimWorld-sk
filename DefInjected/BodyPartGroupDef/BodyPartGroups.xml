@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Torso.label>Trup</Torso.label>
+	<UpperHead.label>Vrch hlavy</UpperHead.label>
+	<FullHead.label>Celá hlava</FullHead.label>
+	<Eyes.label>Oči</Eyes.label>
+	<Arms.label>Ruky</Arms.label>
+	<Hands.label>Dlane</Hands.label>
+	<LeftFist.label>Ľavá päsť</LeftFist.label>
+	<RightFist.label>Pravá päsť</RightFist.label>
+	<Legs.label>Nohy</Legs.label>
+	<Feet.label>Chodidlá</Feet.label>
+	<Teeth.label>Zuby</Teeth.label>
+	<FrontLeftPaw.label>Ľavá predná packa</FrontLeftPaw.label>
+	<FrontRightPaw.label>Pravá predná packa</FrontRightPaw.label>
+	<HeadAttackTool.label>Hlava</HeadAttackTool.label>
+	<FrontLeftLeg.label>Predné ľavé koleno</FrontLeftLeg.label>
+	<FrontRightLeg.label>Pravé predné koleno</FrontRightLeg.label>
+	<FrontLeftClaws.label>Predné ľavé pazúry</FrontLeftClaws.label>
+	<FrontRightClaws.label>Predné pravé pazúry</FrontRightClaws.label>
+	<Mouth.label>Ústa</Mouth.label>
+	<LeftKnifeProtrusion.label>Ľavý nôž</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Pravý nôž</RightKnifeProtrusion.label>
+	<CoveredByNaturalArmor.label>Pokrytý prírodným brnením</CoveredByNaturalArmor.label>
+	<TuskAttackTool.label>Kly</TuskAttackTool.label>
+	<HornAttackTool.label>Rohy</HornAttackTool.label>
+	<TurtleBeakAttackTool.label>Zobáky</TurtleBeakAttackTool.label>
+		
+</LanguageData>
