@@ -29,6 +29,23 @@
 	
 	<Bite.deathMessage>{0} bol dohryzený na smrť.</Bite.deathMessage>
 	
+	<SurgicalCut.deathMessage>{0} zomrel behom operácie.</SurgicalCut.deathMessage>
+	
+	 <!-- Healing local injury -->
+	<HealLocalInjury.label>Ošetrenie jednotlivých zranení</HealLocalInjury.label>
+	
+  <!-- Healing global injury -->
+	<HealGlobalInjury.label>Ošetrenie všetkých zranení</HealGlobalInjury.label>
+	
+  <!-- Restoring body part -->
+	<RestoringBodyPart.label>Obnoviť časť tela</RestoringBodyPart.label>
+	
+  <!-- misc -->
+	<Breakdown.label>Kolaps</Breakdown.label>
+	<Mining.label>Ťažiť</Mining.label>
+	<Rotting.label>Hniť</Rotting.label>
+	<Extinguish.label>Uhasiť</Extinguish.label>
+	
 	
 	
 	
