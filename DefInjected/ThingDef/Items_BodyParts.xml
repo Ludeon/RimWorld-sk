@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Heart.label>Srdce</Heart.label>
+	<Heart.description>Pumpuje krv do všetkých častí tela. Pripravené nájsť novehó majiteľa.</Heart.description>
+	
+	<Lung.label>Pľúca</Lung.label>
+	<Lung.description>Hlavná časť dýchacieho systému.</Lung.description>
+	
+	<Kidney.label>Pečen</Kidney.label>
+	<Kidney.description>Filtruje a odstraňuje odpadové látky zo systému.</Kidney.description>
+	
+	<Liver.label>Oblička</Liver.label>
+	<Liver.description>Hrá dôležitú úlohu v metabolizme organizmu.</Liver.description>
+	
+	<!--
+	<Brain.label>Gehirn</Brain.label>
+	<Brain.description></Brain.description>
+	-->
+	
+    <!-- artificial - simple prosthetics -->
+	
+	<SimpleProstheticLeg.label>Jednoduchá protéza nohy</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.description>Jednoduchá drevená náhrada nohy. Nie je veľmi pohodlná, ale svôj účel plní.</SimpleProstheticLeg.description>
+	
+	<SimpleProstheticArm.label>Jednoduchá protéza ruky</SimpleProstheticArm.label>
+	<SimpleProstheticArm.description>Jednoduchá drevená náhrada ruky. Nie je veľmi pohodlná, ale svôj účel plní.</SimpleProstheticArm.description>
+	
+	<!-- artificial - bionics -->
+	
+	<BionicEye.label>Bionické oko</BionicEye.label>
+	<BionicEye.description>Unikátny kus technológie vyrobený nie len za účelom poskytnutia zraku, ale taktiež aj nových zrakových nanoschopností.</BionicEye.description>
+	
+	<BionicArm.label>Bionická ruka</BionicArm.label>
+	<BionicArm.description>jedna z najvia sofistikovaných náhrad rúk. Jej majiteľovy dodá extrémnu silu.</BionicArm.description>
+	
+	<BionicLeg.label>Bionická noha</BionicLeg.label>
+	<BionicLeg.description>Bionická noha používa veľmi zložité technológie, aby jej používateľovy zabezpečila najpohodlnejšie kráčanie.</BionicLeg.description>
+	
+	<PowerClaw.label>Robo-pazúry</PowerClaw.label>
+	<PowerClaw.description>Silná náhrada ruky pozostávajúca z troch pazúrov.</PowerClaw.description>
+	
+	<ScytherKnifeProtrusion.label>Scytherove nože</ScytherKnifeProtrusion.label>
+	<ScytherKnifeProtrusion.description>Ruku nahrádza zahnutý scytherov nôž. Nie je veľmi príjemný, ale užitočný na boje zblízka.</ScytherKnifeProtrusion.description>
+	
+
+	
+</LanguageData>
