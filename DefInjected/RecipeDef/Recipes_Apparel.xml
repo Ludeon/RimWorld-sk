@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MakeShirt.label>Vyrobiť tričko</MakeShirt.label>
+	<MakeShirt.description>Vyrobiť tričko.</MakeShirt.description>
+	<MakeShirt.jobString>Vyrába tričko.</MakeShirt.jobString>
+	
+	<MakePants.label>Vyrobiť nohavice</MakePants.label>
+	<MakePants.description>Vyrobiť nohavice.</MakePants.description>
+	<MakePants.jobString>Vyrába nohavice.</MakePants.jobString>
+	
+	<MakeCowboyHat.label>Vyrobiť cowbojský klobúk</MakeCowboyHat.label>
+	<MakeCowboyHat.description>Vyrobiť cowbojský klobúk.</MakeCowboyHat.description>
+	<MakeCowboyHat.jobString>Vyrába cowbojský klobúk.</MakeCowboyHat.jobString>
+	
+	
+</LanguageData>
