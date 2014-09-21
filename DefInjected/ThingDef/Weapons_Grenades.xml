@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Proj_GrenadeFrag.label>Trieštivý granát</Proj_GrenadeFrag.label>
@@ -9,4 +9,8 @@
 	<Weapon_GrenadeMolotov.label>Molotovov koktail</Weapon_GrenadeMolotov.label>
 	<Weapon_GrenadeMolotov.description>Sklenená fľaša so zápalnou zmesou a kusom horiacej látky v hrdle fľaše. Obľúbená zbraň chuligánov a zúfalých bojovníkov, nech sú kdekoľvek.</Weapon_GrenadeMolotov.description>
 
+	
+	<Weapon_GrenadeEMP.label>EMP granát</Weapon_GrenadeEMP.label>
+	<Proj_GrenadeEMP.label>EMP granát</Proj_GrenadeEMP.label>
+	<Weapon_GrenadeEMP.description>Granát, ktorý produkuje elektromagnetický pulz. ten dokáže vyradiť elektrické prístroje z činnosti.</Weapon_GrenadeEMP.description>
 </LanguageData>
