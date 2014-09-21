@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MoodOffsetSanguine.label>Sangvinik</MoodOffsetSanguine.label>
+	<MoodOffsetSanguine.description>Vždy dobre naladený - lepšia nálada.</MoodOffsetSanguine.description>
+
+	<MoodOffsetOptimist.label>Optimista</MoodOffsetOptimist.label>
+	<MoodOffsetOptimist.description>Neustále vidí na veciach len to dobré - lepšia nálada.</MoodOffsetOptimist.description>
+
+	<MoodOffsetPessimist.label>Pesimista</MoodOffsetPessimist.label>
+	<MoodOffsetPessimist.description>Neustále vidí na veciach len to zlé - horšia nálada.</MoodOffsetPessimist.description>
+
+	<MoodOffsetDepressive.label>Depresívny</MoodOffsetDepressive.label>
+	<MoodOffsetDepressive.description>Neustále je v depresiach, aj keď sa veci vyvíjajú dobre - horšia nálada.</MoodOffsetDepressive.description>
+	
+
+</LanguageData>
