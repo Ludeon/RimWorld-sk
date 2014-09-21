@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<DamageDeflection_Blunt.label>Brnenie - Tupé nárazy</DamageDeflection_Blunt.label>
+	<DamageDeflection_Blunt.description>Šanca na zabránenie zranení pri explóziach alebo pádoch kamenia.</DamageDeflection_Blunt.description>
+	
+	<DamageDeflection_Piercing.label>Brnenie - Priestrely</DamageDeflection_Piercing.label>
+	<DamageDeflection_Piercing.description>Šanca na zabránenie zranení pri priestreloch guľkou, pichnutiami nožom alebo uhryznutiami zvieratami.</DamageDeflection_Piercing.description>
+	
+	<DamageDeflection_Heat.label>Brnenie - Teplo</DamageDeflection_Heat.label>
+	<DamageDeflection_Heat.description>Šanca na zabránenie zranení pri vyšších teplotách ako sú popáleniny .</DamageDeflection_Heat.description>
+	
+	<DamageDeflection_Electric.label>Brnenie - Elektrina</DamageDeflection_Electric.label>
+	<DamageDeflection_Electric.description>Šanca na zabránenie zranení elektrinou, napríklad pri EMP pulzoch.</DamageDeflection_Electric.description>
+	
+	<DamageDeflection_Toxic.label>Brnenie - Kyseliny</DamageDeflection_Toxic.label>
+	<DamageDeflection_Toxic.description>Šanca na zabránenie toxických zranení.</DamageDeflection_Toxic.description>
+	
+
+</LanguageData>
