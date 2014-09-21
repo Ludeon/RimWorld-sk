@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<CookSpeed.label>Rýchlosť varenia</CookSpeed.label>
+	<CookSpeed.description>Varí jedlá za {0}% normálneho času.</CookSpeed.description>
+	
+	<ButcheryFleshSpeed.label>Rýchlosť spracovania mäsa</ButcheryFleshSpeed.label>
+	<ButcheryFleshSpeed.description>Poráža zvieratá za {0}% normálneho času.</ButcheryFleshSpeed.description>
+	
+	<ButcheryFleshEfficiency.label>Efektívnosť spracovania mäsa</ButcheryFleshEfficiency.label>
+	<ButcheryFleshEfficiency.description>Produkuje {0}% viac mäsa z porážky.</ButcheryFleshEfficiency.description>
+	
+	<ButcheryMechanoidSpeed.label>Rýchlosť rozoberania mechanoida</ButcheryMechanoidSpeed.label>
+	<ButcheryMechanoidSpeed.description>Rozoberá mechanoidov za {0}% normálneho času.</ButcheryMechanoidSpeed.description>
+	
+	<ButcheryMechanoidEfficiency.label>Efektívnosť rozoberania mechanoidov</ButcheryMechanoidEfficiency.label>
+	<ButcheryMechanoidEfficiency.description>Vyrába {0}% normálneho množstva materiálu pri rozoberaní mechanoidov.</ButcheryMechanoidEfficiency.description>
+	
+	<StonecuttingSpeed.label>Rýchlosť opracovavánia kameňa</StonecuttingSpeed.label>
+	<StonecuttingSpeed.description>Spracováva suť za {0}% normálneho času.</StonecuttingSpeed.description>
+	
+	<StonecuttingEfficiency.label>Efektívnosť opracovávania kameňa</StonecuttingEfficiency.label>
+	<StonecuttingEfficiency.description>Produkuje {0}% viac kamenných blokov.</StonecuttingEfficiency.description>
+	
+	<TailoringSpeed.label>Rýchlosť šitia</TailoringSpeed.label>
+	<TailoringSpeed.description>Šije oblečenie za {0}% normálneho času.</TailoringSpeed.description>
+	
+	<SmeltingSpeed.label>Rýchlosť tavenia</SmeltingSpeed.label>
+	<SmeltingSpeed.description>Taví predmety za {0}% normálneho času.</SmeltingSpeed.description>
+	
+	<SmeltingEfficiency.label>Efektívnosť tavenia</SmeltingEfficiency.label>
+	<SmeltingEfficiency.description>Produkuje {0}% normálneho množstva materíalov pri tavení predmetov.</SmeltingEfficiency.description>
+	
+	
+</LanguageData>
