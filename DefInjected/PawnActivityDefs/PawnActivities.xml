@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Consciousness.label>Vedomie</Consciousness.label>
+	<Consciousness.labelMechanoids>Spracovanie dát</Consciousness.labelMechanoids>
+	
+	<Sight.label>Zrak</Sight.label>
+	
+	<Hearing.label>Sluch</Hearing.label>
+	
+	<Moving.label>Pohyb</Moving.label>
+	
+	<Manipulation.label>Práca</Manipulation.label>
+	
+	<Talking.label>Hovorenie</Talking.label>
+	<Talking.labelMechanoids>Komunikovanie</Talking.labelMechanoids>
+	
+	<Eating.label>Jedenie</Eating.label>
+	
+	<Breathing.label>Dýchanie</Breathing.label>
+	
+	<BloodFiltration.label>Filtrovanie krvi</BloodFiltration.label>
+	
+	<BloodPumping.label>Pumpovanie krvi</BloodPumping.label>
+	
+	<Metabolism.label>Metabolizmus</Metabolism.label>
+	
+</LanguageData>
