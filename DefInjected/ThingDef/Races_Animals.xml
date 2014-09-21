@@ -22,4 +22,21 @@
 	<Deer.label>Srnec</Deer.label>
 	<Deer.description>Stredne veľký, prítulný bylinožravec. Priateľský pokiaľ nerušený.</Deer.description>
 	
+	<WildBoar.label>Diviak</WildBoar.label>
+	<WildBoar.description>Hoci podľa niektorých kultúr špinavý, tento chlpatý predok dnešných ošípaných je cenený pre jeho chutné mäso.</WildBoar.description>
+	
+	<Rhinoceros.label>Nosorožec</Rhinoceros.label>
+	<Rhinoceros.description>Tento veľký cicavec je obvykle mierumilovný, ale nebude mu vadiť nabrať vás na roh ak sa mu dostanete do cesty.</Rhinoceros.description>
+	
+	<Dromedary.label>Dromedár</Dromedary.label>
+	<Dromedary.description>Prispôsobený na suché podnebie. Tento vzdialený príbuzný koní dokáže prežiť viac ako týždeň bez vody.</Dromedary.description>
+	
+	<Tortoise.label>Korytnačka</Tortoise.label>
+	<Tortoise.description>Tento veľký, pancierovaný plaz je známy hlavne kvôli svojej pomalosti, a prekvapivo silnému uhryznutiu.</Tortoise.description>
+	
+	<Cobra.label>Kobra</Cobra.label>
+	<Cobra.description>Veľký had. Kobry vedia byť veľmi agresívne ak sú provokované. Je lepšie držať sa od nich ďalej.</Cobra.description>
+
+	<Monkey.label>Opica</Monkey.label>
+	<Monkey.description>Opica používa svoj chvost aby sa mohla chytať vetví, čo jej necháva voľné ruky na iné veci.</Monkey.description>
 </LanguageData>
