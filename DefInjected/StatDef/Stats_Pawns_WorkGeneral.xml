@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<WorkSpeedGlobal.label>Rýchlosť pracovania</WorkSpeedGlobal.label>
+	<WorkSpeedGlobal.description>Pracuje {0} %-nou rýchlosťou.</WorkSpeedGlobal.description>
+	
+	<MiningSpeed.label>Rýchlosť dolovania</MiningSpeed.label>
+	<MiningSpeed.description>Ťaží {1}%-nou rýchlosťou.</MiningSpeed.description>
+	
+	<ResearchSpeed.label>Rýchlosť skúmania</ResearchSpeed.label>
+	<ResearchSpeed.description>Vyvíja {1} %-nou rýchlosťou.</ResearchSpeed.description>
+	
+	<ConstructionSpeed.label>Rýchlosť stavania</ConstructionSpeed.label>
+	<ConstructionSpeed.description>Ako rýchlo osoba stavia.</ConstructionSpeed.description>
+	
+	<PlantWorkSpeed.label>Rýchlosť sadenia</PlantWorkSpeed.label>
+	<PlantWorkSpeed.description>Sadí {0}%-nou rýchlosťou.</PlantWorkSpeed.description>
+	
+	
+	
+</LanguageData>
