@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CurrentlyBrokenPsychotic.label>Musím zabiť !</CurrentlyBrokenPsychotic.label>
+	<CurrentlyBrokenPsychotic.description>Musím zabiť ! ... Musím zabiť ! ... Musím zabiť !</CurrentlyBrokenPsychotic.description>
+
+	<CurrentlyBrokenSad.label>Kolaps</CurrentlyBrokenSad.label>
+	<CurrentlyBrokenSad.description>Je toho na mňa proste veľa...</CurrentlyBrokenSad.description>
+
+	<CurrentlyBrokenPanicFlee.label>Panika</CurrentlyBrokenPanicFlee.label>
+	<CurrentlyBrokenPanicFlee.description>Musím sa odtiaľto dostať</CurrentlyBrokenPanicFlee.description>
+
+</LanguageData>
