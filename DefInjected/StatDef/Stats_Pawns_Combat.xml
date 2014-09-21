@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MeleeHitChance.label>Šanca na zasiahnutie útokom zblízka</MeleeHitChance.label>
+	<MeleeHitChance.description>Šanca na trafenie útokom zblízka.</MeleeHitChance.description>
+	
+	<MeleeHitChanceFactor.label>Ovplyvnenie útoku zblízka</MeleeHitChanceFactor.label>
+	<MeleeHitChanceFactor.description>Šanca zasianutia v boji zblízka je {0}%</MeleeHitChanceFactor.description>
+	
+	<ShootingAccuracy.label>Strelecká presnosť</ShootingAccuracy.label>
+	<ShootingAccuracy.description>Šanca na minutie strely je {0}% za každé políčko vzdialenosti k cieľu.</ShootingAccuracy.description>
+	
+	<AimingDelayFactor.label>Čas zameriavania</AimingDelayFactor.label>
+	<AimingDelayFactor.description>Ako dlho zameriava.</AimingDelayFactor.description>
+	
+	<HitChanceFactor.label>Ovplyvnenie strieľania</HitChanceFactor.label>
+	<HitChanceFactor.description>Záporne čísla redukujú presnosť, kladne pridávajú na presnosti.</HitChanceFactor.description>
+	
+</LanguageData>
