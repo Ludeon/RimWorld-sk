@@ -9,5 +9,10 @@
 	<BeetleLike.label>Chrobák</BeetleLike.label>
 	<MechanicalCentipede.label>Mechanoid</MechanicalCentipede.label>
 	<Mechanoid.label>Mechanoid</Mechanoid.label>
-	
+	<QuadrupedAnimalWithHoovesAndHump.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndTusks.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesAndHorn.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndHorn.label>
+		<Snake.label>Had</Snake.label>
+	<Monkey.label>Opica</Monkey.label>
+		<TurtleLike.label>Korytnačka</TurtleLike.label>
 </LanguageData>
