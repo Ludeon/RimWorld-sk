@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!-- nonlocal injuries -->
+	<Starvation.label>Hladovanie</Starvation.label>
+	<BloodLoss.label>Stráta krvi</BloodLoss.label>
+	<Suffocation.label>Dusenie</Suffocation.label>
+	
+	
+</LanguageData>
