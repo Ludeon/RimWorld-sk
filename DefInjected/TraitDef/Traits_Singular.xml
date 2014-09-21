@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <rep>
+    <path>Nudist.degreeDatas[0].label</path>
+    <trans>Nudista</trans>
+  </rep>
+  <rep>
+    <path>Nudist.degreeDatas[0].description</path>
+    <trans>NAME si užíva pocit slobody vyplívajúci z nahoty. Zvládne nosiť oblečenie, ale bez neho sa cíti štastnejšie.</trans>
+  </rep>
+  
+  <rep>
+    <path>Bloodlust.degreeDatas[0].label</path>
+    <trans>Krvilačný</trans>
+  </rep>
+  <rep>
+    <path>Bloodlust.degreeDatas[0].description</path>
+    <trans>NAME posilňuje pohľad na krv. Pohľad na krv alebo mŕtvolu HIM už vôbec nevadí.</trans>
+  </rep>
+  
+  <rep>
+    <path>Psychopath.degreeDatas[0].label</path>
+    <trans>Psychopat</trans>
+  </rep>
+  <rep>
+    <path>Psychopath.degreeDatas[0].description</path>
+    <trans>NAME nemá žiadnu empatiu. NAME už utrpenie druhých vôbec nevadí. Je jedno či niekto bol zabitý, nepochovaný, umučený - teda pokiaľ sa to netýka HIS</trans>
+  </rep>
+	
+  <rep>
+    <path>Cannibal.degreeDatas[0].label</path>
+    <trans>Kanibal</trans>
+  </rep>
+  <rep>
+    <path>Cannibal.degreeDatas[0].description</path>
+    <trans>Jedenie ľudského mäsa je nechutné a neetické. Ale raz.. Veľmi dávno. NAME ochutnal. A chutilo mu to.</trans>
+  </rep>
+	
+  <rep>
+    <path>Abrasive.degreeDatas[0].label</path>
+    <trans>Ukecaný</trans>
+  </rep>
+  <rep>
+    <path>Abrasive.degreeDatas[0].description</path>
+    <trans>NAME vždy hovorí, čo je na HIS mysli. Hlavne ak ho to trápi. Veľa ľudí ho môže zle pochopiť, čo nemusí skončiť dobre.</trans>
+  </rep>
+	
+  <rep>
+    <path>TriggerHappy.degreeDatas[0].label</path>
+    <trans>Štastný strelec</trans>
+  </rep>
+  <rep>
+    <path>TriggerHappy.degreeDatas[0].description</path>
+    <trans>Pew! Pew! Pew! NAME je hrozný v streľbe. Ale HIM to je jedno, pretože zbrane sú úžasné!</trans>
+  </rep>
+	
+  <rep>
+    <path>CarefulShooter.degreeDatas[0].label</path>
+    <trans>Opatrný strelec</trans>
+  </rep>
+  <rep>
+    <path>CarefulShooter.degreeDatas[0].description</path>
+    <trans>NAME je dobrý strelec, ale vždy potrebuje viac času aby zamieril na cieľ.</trans>
+  </rep>
+	
+  <rep>
+    <path>TooSmart.degreeDatas[0].label</path>
+    <trans>Inteligent</trans>
+  </rep>
+  <rep>
+    <path>TooSmart.degreeDatas[0].description</path>
+    <trans>NAME je najmúdrejší v kolónii. HECAP sa učí všetko rýchlejšie ako ostatní, ale môže byť excentrický.</trans>
+  </rep>
+	
+  <rep>
+    <path>MartialArtist.degreeDatas[0].label</path>
+    <trans>Majster bojových umení</trans>
+  </rep>
+  <rep>
+    <path>MartialArtist.degreeDatas[0].description</path>
+    <trans>NAME je zanietený bojovník. HIS presnosť v útoku z blízka je úžasna. Ak musí nosiť zbraň je veľmi neštastný.</trans>
+  </rep>
+	
+  <rep>
+    <path>Masochist.degreeDatas[0].label</path>
+    <trans>Masochista</trans>
+  </rep>
+  <rep>
+    <path>Masochist.degreeDatas[0].description</path>
+    <trans>NAME vidí niečo vzrušujúce na bolesti. HECAP nevie prečo, je len inak naladený.</trans>
+  </rep>
+	
+  <rep>
+    <path>Prosthophile.degreeDatas[0].label</path>
+    <trans>Nadšenec moderných technológii</trans>
+  </rep>
+  <rep>
+    <path>Prosthophile.degreeDatas[0].description</path>
+    <trans>NAME sa cíti limitovaný HIS telom. HECAP často sníva o vylepšených bionických častiach jeho HIS.</trans>
+  </rep>
+	
+  <rep>
+    <path>Prosthophobe.degreeDatas[0].label</path>
+    <trans>Strach z moderných technológii</trans>
+  </rep>
+  <rep>
+    <path>Prosthophobe.degreeDatas[0].description</path>
+    <trans>NAME verí, že telo je obmedzené z nejakého dôvodu. Bionické časti tela sú podľa HIS neetické </trans>
+  </rep>
+	
+  <rep>
+    <path>GreenThumb.degreeDatas[0].label</path>
+    <trans>Záhradkár</trans>
+  </rep>
+  <rep>
+    <path>GreenThumb.degreeDatas[0].description</path>
+    <trans>NAME miluje rastlinky. HECAP má vždy lepšie náladu, keď niečo zasadí.</trans>
+  </rep>
+	
+  <!--
+  <rep>
+    <path>AbsentMinded.degreeDatas[0].label</path>
+    <trans>Geistesabwesend</trans>
+  </rep>
+  <rep>
+    <path>AbsentMinded.degreeDatas[0].description</path>
+    <trans>NAME hat Probleme damit sich auf eine Sache zu konzentrieren. Wann immer HE eine Aufgabe erledigt hat, besteht die kleine Möglichkeit, dass HE vergisst, was HE als nächstes tun wollte und stattdessen gedankenverloren herumläuft.</trans>
+  </rep>
+  -->
+	
+	
+</LanguageData>
