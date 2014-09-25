@@ -25,8 +25,8 @@
 	<TableStonecutter.label>Kamenársky stôl</TableStonecutter.label>
 	<TableStonecutter.description>Stôl, na ktorom je možné spracovávať suť na kamenné bloky.</TableStonecutter.description>
 	
-	<SlagRefinery.label>Čistička strusky</SlagRefinery.label>
-	<SlagRefinery.description>Čistí strusku za účelom získania použiteľného železa. Spotrebováva veľa energie.</SlagRefinery.description>	
+	<ElectricSmelter.label>Čistička strusky</ElectricSmelter.label>
+	<ElectricSmelter.description>Čistí strusku za účelom získania použiteľného železa. Spotrebováva veľa energie.</ElectricSmelter.description>	
 	
 	<HydroponicsBasin.label>Hydroponická nádrž</HydroponicsBasin.label>
 	<HydroponicsBasin.description>Aby ste mohli pestovať jedlo aj vo vnútri, musíte použiť hydroponické nádrže.</HydroponicsBasin.description>
@@ -39,5 +39,7 @@
 	
 	<TableTailor.label>Krajčírsky stôl</TableTailor.label>
 	<TableTailor.description>Krajčírsky stôl so všetkým, čo človek potrebuje k šitiu.</TableTailor.description>
+	
+	
 	
 </LanguageData>
