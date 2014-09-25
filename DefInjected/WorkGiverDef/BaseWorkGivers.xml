@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+    <DoctorEmergencyHeal.verb>ošetrovať</DoctorEmergencyHeal.verb>
+	<DoctorEmergencyHeal.gerund>ošetruje</DoctorEmergencyHeal.gerund>
+	<DoctorHeal.verb>ošetrovať</DoctorHeal.verb>
+	<DoctorHeal.gerund>ošetruje</DoctorHeal.gerund>
 	<DoctorFeed.verb>ošetrovať</DoctorFeed.verb>
 	<DoctorFeed.gerund>ošetruje</DoctorFeed.gerund>
 	<GrowerSow.verb>siať</GrowerSow.verb>
@@ -62,7 +65,14 @@
 	
 	<DoBillsMedicalMechanoidOperation.verb>modifikovať</DoBillsMedicalMechanoidOperation.verb>
 	<DoBillsMedicalMechanoidOperation.gerund>modifikuje</DoBillsMedicalMechanoidOperation.gerund>
+	
+	<BecomePatient.verb>liečenie v</BecomePatient.verb>
+	<BecomePatient.gerund>liečenie v</BecomePatient.gerund>
+	
+	<DoBillsMakeClothes.verb>vyrábať oblečenie</DoBillsMakeClothes.verb>
+	<DoBillsMakeClothes.gerund>vyrába oblečenie</DoBillsMakeClothes.gerund>
   
 	
 </LanguageData>
+
 
