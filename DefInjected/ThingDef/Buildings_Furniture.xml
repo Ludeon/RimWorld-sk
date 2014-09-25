@@ -7,23 +7,6 @@
 	<Bed.label>Posteľ</Bed.label>
 	<Bed.description>Pohodlný matrac s pokrývkami v posteľnom ráme. Výborné miesto na oddych. Efektivita odpočinku: 10/10</Bed.description>
 	
-	<Stool_Metal.label>Železná stolička</Stool_Metal.label>
-	<Stool_Metal.description>Ľudia na nej sedia.</Stool_Metal.description>
-	
-	<Stool_Wood.label>Drevená stolička</Stool_Wood.label>
-	<Stool_Wood.description>Ľudia na nej sedia.</Stool_Wood.description>
-
-	<TableShort_Metal.label>Kovový stôl (malý)</TableShort_Metal.label>
-	<TableShort_Metal.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableShort_Metal.description>	
-
-	<TableLong_Metal.label>Kovový stôl (veľký)</TableLong_Metal.label>
-	<TableLong_Metal.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableLong_Metal.description>
-
-	<TableShort_Wood.label>Drevený stôl (malý)</TableShort_Wood.label>
-	<TableShort_Wood.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableShort_Wood.description>	
-
-	<TableLong_Wood.label>Drevený stôl (veľký)</TableLong_Wood.label>
-	<TableLong_Wood.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableLong_Wood.description>
 
 	<StandingLamp.label>Stojanová lampa</StandingLamp.label>
 	<StandingLamp.description>Stojanová lampa, ktorá osvetľuje priestor navôkol.</StandingLamp.description>	
@@ -42,5 +25,18 @@
 	
 	<RoyalBed.label>Kráľovská posteľ</RoyalBed.label>
 	<RoyalBed.description>Veľká luxusná posteľ. Ako stvorená pre urodzených.</RoyalBed.description>
+		
+	<TableShort.label>Stôl (malý)</TableShort.label>
+	<TableShort.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableShort.description>
+	
+	<TableLong.label>Stôl (veľký)</TableLong.label>
+	<TableLong.description>Ak sú pri ňom stoličky, ľudia pri stole jedia.</TableLong.description>
+	
+	<HospitalBed.label>Nemocničná posteľ</HospitalBed.label>
+	<HospitalBed.description>Posteľ špeciálne vyvinutá pre chorých ľudí. Zvyšuje šance na úspešné vyliečenie.</HospitalBed.description>
+	
+	
+	<Stool.label>Stolička</Stool.label>
+	<Stool.description>Ľudia na nej sedia.</Stool.description>
 	
 </LanguageData>
