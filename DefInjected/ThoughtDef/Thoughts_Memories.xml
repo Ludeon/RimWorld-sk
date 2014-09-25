@@ -81,5 +81,29 @@
 	
 	<GreenThumbHappy.label>Zasadil rastlinku</GreenThumbHappy.label>
 	<GreenThumbHappy.description>To je to čo Svet potrebuje! Rastliny!</GreenThumbHappy.description>
+	
+	<WitnessedDeathAlly.label>Videl zomrieť kolonistu</WitnessedDeathAlly.label>
+	<WitnessedDeathAlly.description>Videl som zomrieť jedného z našich. V jednom okamihu bol živý a v tom ďalšom už mŕtvy.</WitnessedDeathAlly.description>
+	
+	<WitnessedDeathStranger.label>Videl niekoho zomrieť</WitnessedDeathStranger.label>
+	<WitnessedDeathStranger.description>Videl som niekoho zomrieť. V jednom okamihu bol živý a v tom ďalšom už mŕtvy.</WitnessedDeathStranger.description>
+	
+	<WitnessedDeathStrangerBloodlust.label>Videl niekoho zomrieť</WitnessedDeathStrangerBloodlust.label>
+	<WitnessedDeathStrangerBloodlust.description>Videl som niekoho umrieť. To bola sila!</WitnessedDeathStrangerBloodlust.description>
 
+	<ObservedLayingRottingCorpse.label>Videl hnijúcu mŕtvolu</ObservedLayingRottingCorpse.label>
+	<ObservedLayingRottingCorpse.description>Na zemi som videl hnijúcu mŕtvolu. Bolo to nechutné.</ObservedLayingRottingCorpse.description>
+	
+	<JustImprisoned.label>Uväznený</JustImprisoned.label>
+	<JustImprisoned.description>Práve som bol uväznený. Musím sa s tým vyrovnať..</JustImprisoned.description>
+	
+	<KilledHumanoidBloodlust.label>Niekoho zabil</KilledHumanoidBloodlust.label>
+	<KilledHumanoidBloodlust.description>Niekomu som prehnal guľku hlavou! Sila!</KilledHumanoidBloodlust.description>
+	
+	<AteHumanoidMeatDirectCannibal.label>Zjedol ľudské mäso (surové)</AteHumanoidMeatDirectCannibal.label>
+	<AteHumanoidMeatDirectCannibal.description>Zjedol som mäso iného človeka. Bolo to... šťavnaté.</AteHumanoidMeatDirectCannibal.description>
+	
+	<AteHumanoidMeatAsIngredientCannibal.label>Zjedol ľudské mäso (uvarené)</AteHumanoidMeatAsIngredientCannibal.label>
+	<AteHumanoidMeatAsIngredientCannibal.description>Zjedol som mäso iného človeka. Delikatesa! Len mi k tomu chýbali fava fazuľky a nejaké víno.</AteHumanoidMeatAsIngredientCannibal.description>
+	
 </LanguageData>
