@@ -51,8 +51,14 @@
 
 	<Bullet_InfernoCannon.label>Strela do Inferno kanónu</Bullet_InfernoCannon.label>
 	<Gun_InfernoCannon.label>Inferno kanón</Gun_InfernoCannon.label>
-	<Gun_InfernoCannon.description>Zápalné delostrelecké zariadenie. Vyrábené mechanoidmi.</Gun_InfernoCannon.description>
+	<Gun_InfernoCannon.description>Zápalné delostrelecké zariadenie. Vyrábané mechanoidmi.</Gun_InfernoCannon.description>
 	
+	<Bullet_ChargeLance.label>Náboj do plazmovej pištole</Bullet_ChargeLance.label>
+	<Gun_ChargeLance.label>Plazmová pištoľ</Gun_ChargeLance.label>
+	<Gun_ChargeLance.description>Používaná ako podpora pre plazmový samopaľ. Strieľa jednu strelu za veľkej rýchlosti. Vyrábaná mechanoidmi.</Gun_ChargeLance.description>
 	
+	<Bullet_ChargeBlasterHeavy.label>Náboj do plazmového samopaľu</Bullet_ChargeBlasterHeavy.label>
+	<Gun_ChargeBlasterHeavy.label>Plazmový samopaľ</Gun_ChargeBlasterHeavy.label>
+	<Gun_ChargeBlasterHeavy.description>Strieľa veľké množstvo plazmových strieľ. Vhodná na veľké strelecké pokrytie jednej oblasti. Vyrábaný mechanoidmi.</Gun_ChargeBlasterHeavy.description>
 	
 </LanguageData>
