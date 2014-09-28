@@ -34,6 +34,7 @@
 	<ProsthophobeUnhappy.label>Má bionickú časť tela</ProsthophobeUnhappy.label>
     <ProsthophobeUnhappy.description>Premenili ma v bionickú príšeru!... Keby som len mal na výber...</ProsthophobeUnhappy.description>
 	
-	<MartialArtistUnhappy.label>Nosí zbraň</MartialArtistUnhappy.label>
-	<MartialArtistUnhappy.description>Agh! Nenávidím zbrane!</MartialArtistUnhappy.description>
+	
+	<BrawlerUnhappy.label>Nosí zbraň na diaľku</BrawlerUnhappy.label>
+    <BrawlerUnhappy.description>Argh... Musím nosiť zbraň na väčšie vzdialenosti. Chcem, aby to bolo blízke a osobné!</BrawlerUnhappy.description>
     </LanguageData>
