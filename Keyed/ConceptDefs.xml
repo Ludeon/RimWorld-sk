@@ -55,4 +55,6 @@
   <ConceptText_ArrestingCreatesEnemies>Ak niekoho uväzníte, jeho celá frakcia sa začne správať nepriateľsky.\n\nNeväznite členov frakcie, ktorej chcete zostať priateľom!</ConceptText_ArrestingCreatesEnemies>
   
   <ConceptText_SetGrowingZonePlant>Môžeš si zvoliť, ktorá rastlina má rásť na poli. Môžes pestovať aj stromy!\n\Len klikni na pole, a potom na políčko "rastie", aby si si zvolil čo pestovať.</ConceptText_SetGrowingZonePlant>
+  
+  <ConceptText_MedicalOperations>Aby si poslal kolonistu na operáciu, akou je odobratie orgánov alebo inštalácia protézy, otvorte kolonistovu kolónku ZDRAVIE a tam na sub-kolónku operácie.</ConceptText_MedicalOperations>
 </LanguageData>
