@@ -81,4 +81,6 @@
   <NotInjured>Nezranený</NotInjured>
   <SomeoneElseSleeping>Obsadené</SomeoneElseSleeping>
   
+      <EquipWarningBrawler>(Bitkár: bude neštastný)</EquipWarningBrawler>
+  
 </LanguageData>
