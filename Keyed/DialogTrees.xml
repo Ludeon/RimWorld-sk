@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
  
   <FactionGreetingHostile>Zástupca {0} vychŕli na monitor zopár expresívnych výrazov a odpojí sa.</FactionGreetingHostile>
   <FactionGreetingWary>Zástupca {0} opatrne pozdraví {1} a spýta sa na JEHO žiadosť.</FactionGreetingWary>
-  <FactionGreetingWarm>Zástupca {0} priateľsky pozdraví {1} a spýta sa, ako sa kolónii darí.</FactionGreetingWarm>
+  <FactionGreetingFriendly>Zástupca {0} priateľsky pozdraví {1} a spýta sa, ako sa kolónii darí.</FactionGreetingFriendly>
  
   <Disconnect>Odpojiť</Disconnect>
  
