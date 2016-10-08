@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Human.label>Člobek</Human.label>
+	<Human.label>Človek</Human.label>
 	<QuadrupedAnimalWithPaws.label>Štvornožec</QuadrupedAnimalWithPaws.label>
 	<QuadrupedAnimalWithPawsAndTail.label>Štvornožec s chvostom</QuadrupedAnimalWithPawsAndTail.label>
 	<QuadrupedAnimalWithHooves.label>Štvornožec s kopytami</QuadrupedAnimalWithHooves.label>
