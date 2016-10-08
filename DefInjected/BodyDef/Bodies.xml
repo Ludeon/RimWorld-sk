@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Human.label>Člobek</Human.label>
-	<QuadrupedAnimalWithPaws.label>Štvornohé zviera</QuadrupedAnimalWithPaws.label>
-	<QuadrupedAnimalWithPawsAndTail.label>Viacnohé zviera</QuadrupedAnimalWithPawsAndTail.label>
-	<QuadrupedAnimalWithHooves.label>Viacnohé zviera </QuadrupedAnimalWithHooves.label>
-	<QuadrupedAnimalWithClawsTailAndJowl.label>Viacnohé zviera </QuadrupedAnimalWithClawsTailAndJowl.label>
+	<Human.label>Človek</Human.label>
+	<QuadrupedAnimalWithPaws.label>Štvornožec</QuadrupedAnimalWithPaws.label>
+	<QuadrupedAnimalWithPawsAndTail.label>Štvornožec s chvostom</QuadrupedAnimalWithPawsAndTail.label>
+	<QuadrupedAnimalWithHooves.label>Štvornožec s kopytami</QuadrupedAnimalWithHooves.label>
+	<QuadrupedAnimalWithClawsTailAndJowl.label>Štvornožec s chvostom a drápmi</QuadrupedAnimalWithClawsTailAndJowl.label>
 	<BeetleLike.label>Chrobák</BeetleLike.label>
-	<MechanicalCentipede.label>Mechanoid</MechanicalCentipede.label>
+	<MechanicalCentipede.label>Mechastonožka</MechanicalCentipede.label>
 	<Mechanoid.label>Mechanoid</Mechanoid.label>
-	<QuadrupedAnimalWithHoovesAndHump.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndHump.label>
-	<QuadrupedAnimalWithHoovesAndTusks.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndTusks.label>
-	<QuadrupedAnimalWithHoovesAndHorn.label>Viacnohé zviera</QuadrupedAnimalWithHoovesAndHorn.label>
+	<QuadrupedAnimalWithHoovesAndHump.label>Štvornožec s hrbom</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndTusks.label>Štvornožec s kopytami a klami</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesAndHorn.label>Štvornožec s rohami</QuadrupedAnimalWithHoovesAndHorn.label>
 		<Snake.label>Had</Snake.label>
 	<Monkey.label>Opica</Monkey.label>
 		<TurtleLike.label>Korytnačka</TurtleLike.label>
