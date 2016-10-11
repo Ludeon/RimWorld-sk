@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Audiovisuals -->
 	<Audiovisuals>Audio a video</Audiovisuals>
 	<GameVolume>Hlasitosť hry</GameVolume>
 	<MusicVolume>Hlasitosť hudby</MusicVolume>
-	<GraphicsQuality>Kvalita grafiky</GraphicsQuality>
-	<GraphicsQualityNormal>Normálna</GraphicsQualityNormal>
-	<GraphicsQualityGreat>Výborná</GraphicsQualityGreat>
+	<Antialiasing>Anti-aliasing</Antialiasing>
+	
+	<!-- Gameplay -->
 	<EdgeScreenScroll>Posun myšou pri kraji obrazovky</EdgeScreenScroll>
+	<PauseOnLoad>Zastaviť po načitaní</PauseOnLoad>
+	<PauseOnUrgentLetter>Zastaviť pri urgentnej správe</PauseOnUrgentLetter>
 	<CustomCursor>Upravený kurzor</CustomCursor>
+	<KeyboardConfig>Nastavenie klávesnice</KeyboardConfig>
 	<ChooseLanguage>Zvoliť jazyk</ChooseLanguage>
-	<AdaptiveTutor>Adaptívny inštruktor</AdaptiveTutor>
 	<ResetAdaptiveTutor>Resetovať inštruktora</ResetAdaptiveTutor>
 	<AdaptiveTutorIsReset>Adaptívny inštruktor bol resetovaný. Bude vás učiť od začiatku.</AdaptiveTutorIsReset>
-	<RunInBackground>Bežať na pozadí</RunInBackground>
+	<RunInBackground>Bežanie hry na pozadí</RunInBackground>
 	<DevelopmentMode>Vývojársky režim</DevelopmentMode>
-	<LogDeepProfileData>Logovať detailnejšie dáta profilu</LogDeepProfileData>
+	<ResetModsConfigOnCrash>Vyresetovaie nastavení módov pri spadnutí</ResetModsConfigOnCrash>
+	<LogVerbose>Podrobné logovanie</LogVerbose>
+	<OpenSaveGameDataFolder>Adresár s uloženými hrami</OpenSaveGameDataFolder>
 	<NamesYouWantToSee>Priezviská postáv, ktoré chcete v hre vidieť.</NamesYouWantToSee>
+	<ChangeStoryteller>Zmena rozprávača</ChangeStoryteller>
+	<AutosaveInterval>Auto-uloženie interval</AutosaveInterval>
+	<TemperatureMode>Teplotný režim</TemperatureMode>
+	<ShowRealtimeClock>Zobraz reálny čas</ShowRealtimeClock>
+	<PlantWindSway>Plant wind sway</PlantWindSway>
+	<MaxPermadeathAutosaveIntervalInfo>Maximálny počet auto-uložení pri móde trvalej smrti je {0} dní.</MaxPermadeathAutosaveIntervalInfo>
+
+	<!-- Resolution -->
 	<Resolution>Rozlíšenie</Resolution>
 	<Fullscreen>Celá obrazovka</Fullscreen>
-	<CurrentRes>Aktuálne {0}</CurrentRes>
-	<OpenSaveGameDataFolder>Adresár s uloženými hrami</OpenSaveGameDataFolder>
-	<UserName>Meno hráča</UserName>
-	<ChooseResolution>Zmena rozlíšenia</ChooseResolution>
-	<Privacy>Súkromie</Privacy>
-	<ChooseHistoryUploadPref>Nastavenia nahrávania dát</ChooseHistoryUploadPref>
-	
 
-	      <ChangeStoryteller>Zmena rozprávača</ChangeStoryteller>
-		  
-		  <CurrentHistoryUploadPref>Aktuálne {0}</CurrentHistoryUploadPref>
-		  <AboutHistoryUpload>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované. Nahrané dáta pozostávajú len zo štatistík a histórie hry. Žiadne osobné údaje, okrem vášho hráčskeho mena, nebudú poslané, čo znamená, že je to kompletne anonymné.</AboutHistoryUpload>
+	<!-- Privacy-->
+	<Privacy>Súkromie</Privacy>
+	<UserName>Meno hráča</UserName>
+	<CurrentHistoryUploadPref>Aktuálne {0}</CurrentHistoryUploadPref>
+	<AboutHistoryUpload>Údaje z hrania hry pomáhajú vývojárom balancovať hru. Ak súhlasíte, vaše informácie budú poslané každých {0} herných dní (a v ostatných prípadoch, ako je vypnutie hry) na RimWorld servery, kde budú znanalizované. Nahrané dáta pozostávajú len zo štatistík a histórie hry. Žiadne osobné údaje, okrem vášho hráčskeho mena, nebudú poslané, čo znamená, že je to kompletne anonymné.</AboutHistoryUpload>
 
 </LanguageData>
