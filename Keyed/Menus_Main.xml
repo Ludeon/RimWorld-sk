@@ -5,13 +5,16 @@
   <CreateWorld>Vytvoriť svet</CreateWorld>
   <NewColony>Nová kolónia</NewColony>
   <BackToGame>Späť do hry</BackToGame>
+  <ReviewScenario>Preskúmať scénar</ReviewScenario>
   <Save>Uložiť</Save>
-  <Load>Nahrať</Load>
+  <LoadGame>Nahrať</LoadGame>
   <Options>Nastavenia</Options>
   <Mods>Módy</Mods>
   <Credits>Poďakovanie</Credits>
   <QuitToMainMenu>Späť na hlavné menu</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Uložiť a vrátiť sa do menu</SaveAndQuitToMainMenu>
   <QuitToOS>Ukončiť hru</QuitToOS>
+  <SaveAndQuitToOS>Uložit a ukončit</SaveAndQuitToOS>
   <FictionPrimer>Úvod do príbehu</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
   <Forums>Diskusné fóra</Forums>
@@ -19,83 +22,83 @@
   <TynansTwitter>Tynanov twitter</TynansTwitter>
   <TynansDesignBook>Tynanov dizajnblok</TynansDesignBook>
   <HelpTranslate>Pomôž preložiť Rimworld</HelpTranslate>
-
+  <BuySoundtrack>Kúp sountrack</BuySoundtrack>
+  <CreateWorld>Vytvor svet</CreateWorld>
+  
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Preskúmať svet</ReviewWorld>
+  <WorldGenerate>Generovať</WorldGenerate>
+  <WorldSaveAndFinish>Ulož a dokonči</WorldSaveAndFinish>
+  <Reset>Reset</Reset>
+  <WorldSize>Veľkosť</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Náhodný seed</RandomizeSeed>
+  
+  <!--=========== Select world ===================-->
+  <SelectWorld>Vyber svet</SelectWorld>
+  <WorldChooseButton>Vyber</WorldChooseButton>
+  <NoWorldsFilesFound>Súbor zo svetom neexistuje. Najprv vytvor svet.</NoWorldsFilesFound>
+  
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Je dostupná verzia {0}. Mali by ste si ju stiahnuť. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsk@gmail.com</BuildNowAvailable>
   <BuildUpToDate>Vaša verzia hry je aktuálna. V prípade chybného alebo chýbajúceho slovenského prekladu napíšte na rimworldsvk@gmail.com </BuildUpToDate>
   <ErrorGettingVersionInfo>Chyba pri kontrole informácií o verzii hry: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Načítavam informácie o verzii hry...</LoadingVersionInfo>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>Získať mody</GetMods>
+    <!--=========== World generator =========-->
+  <GenerateWorld>Vygeneruj svet</GenerateWorld>
+  
+   <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Otvor Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Ziskaj mods z fóra</GetModsFromForum>
+  <OpenModsDataFolder>Otvor priečinok z módami</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Naozaj chcete zakázať základný mod? Hra nebude fungovať, pokiaľ nemáte iný mod, ktorý nahrádza základnú funkcionalitu.\n\nZapamätajte si, že iné mody môžu nahradiť definície v základnom mode použitím rovnakých "defName".</ConfirmDisableCoreMod>
-  <Author>Autor</Author>
-  <OpenModsDataFolder>Otvoriť priečinok s módami</OpenModsDataFolder>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Prestať odoberať</Unsubscribe>
+  <ConfirmUnsubscribe>Ste si istí, že chcete zmazať všetok obsah pre {0}?</ConfirmUnsubscribe>
+  <Author>Author</Author>
+  <WorkshopPage>Stránka Workshopu</WorkshopPage>
+  <UploadToSteamWorkshop>Uploaduj do Steam Workshopu</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Updatuj do Steam Workshopu</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Práve sa uploaduje.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Úspešne uploadované {0}.</WorkshopUploadSucceeded>
+  <Downloading>Stahujem.</Downloading>
+  <Source>Zdroj</Source>
+  <ModTargetVersion>Pre verziu: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Tento mod nebol stvorený pre túto verziu RimWorld, pravdepodobne nebude pracovať správne.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod potrebuje dobre byť dobré formátovaný cieľovú verziu v About.xml. Takto: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Potiahni pre zmenu poradia.</DragToReorder>
 
-  <!--=========== Storyteller chooser ==========-->
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Vyber scénar</ChooseScenario>
+  <ScenariosCustom>Vlastný</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Editor scenárov</ScenarioEditor>
+  <Delete>Vymazať</Delete>
+
+   <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <Load>Načítať</Load>
+  <EditMode>Uprav mod</EditMode>
+  <Summary>Zhrnutie</Summary>
+  <AddPart>Pridaj časť</AddPart>
+  <TextFieldsMustBeFilled>Cele textové pole musí byť vyplnené.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Určite chceš uploadovať na Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Môžeš uploadovať  len obsah ktorý sám vytvoríš. Samozrejme.\n\nVytvoril si tento obsah sám?</ConfirmContentAuthor>
+  <Incompatible>Nekontabilné</Incompatible>
+  <TooMany>Príliš veľa (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Keďže ste author, môže byť uploadované na Workshop.</CanBeUpdatedOnWorkshop>
+  
+ <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Voľba UI Rozprávača</ChooseAIStoryteller>
   <HowStorytellersWork>UI Rozprávač vytvára udalosti ako pirátske nájazdy, straty zdrojov alebo útoky zvierat. Tieto rozhodnutia ovplyvňujú napredovanie a príbeh vašej kolónie.</HowStorytellersWork>
   <MustChooseChallengeScale>Musíš si zvoliť obtiažnosť výziev.</MustChooseChallengeScale>
-  <ChallengeScale>Obtiažnosť výziev</ChallengeScale>
-  <ChallengeScaleTip>Keď po tebe rozprávač pošle hrozbu, bude mať  {0} z obtiažnosti Výzva.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Budovateľský mód</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Na voľný čas</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Normálny mód</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Výzva</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Veľká výzva</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Extrémná výzva</ChallengeScale_ExtremeChallenge>
-  <!--=========== Character chooser ==========-->  
-  <CreateCharacters>Tvorba postáv</CreateCharacters>
-  <FirstNameDesc>Krstné meno postavy.\n\nToto je zobrazené len v niektorých ponukách.</FirstNameDesc>
-  <ShortIdentifierDesc>Krátky identifikátor postavy.\n\nTento je zobrazený vždy. Môže to byť krstné meno alebo priezvisko, alebo niečo úplne iné.</ShortIdentifierDesc>
-  <LastNameDesc>Priezvisko postavy.\n\nToto je zobrazené len v niektorých ponukách.</LastNameDesc>
-  <Randomize>Náhodný výber</Randomize>
-  <AgeIndicator>vek {0}</AgeIndicator>
-  <Backstory>Príbeh postavy</Backstory>
-  <IncapableOf>Neschopný v:</IncapableOf>
-  <Traits>Črty</Traits>
-  <TraitsDoNothing>Črty sú zatiaľ iba zábavným doplnkom, keďže väčšina nemá žiadny vplyv na hru. To sa v budúcnosti ale zmení.</TraitsDoNothing>
-  <Skills>Schopnosti</Skills>
-  <NoneLower>žiadne</NoneLower>
-  <Adulthood>Dospelosť</Adulthood>
-  <Childhood>Detstvo</Childhood>
-  <Male>Muž</Male>
-  <Female>Žena</Female>
-
-  
-  <!--=========== Misc ==========-->
-  <Start>Štart</Start>
-  <Advanced>Pokročilé</Advanced>
-  <Next>Ďalej</Next>
-  <Back>Späť</Back>
-
-  <Gameplay>Hranie hry</Gameplay>
-
-  <ConfirmQuit>Naozaj chcete skončiť? Stratíte neuloženú hru.</ConfirmQuit>
-  
-  <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
-
-  <GeneratingWorld>Vytváram svet...</GeneratingWorld>
-    <GeneratingMap>Generujem mapu...</GeneratingMap>
-
-    <!--=========== Create/review world ================-->
-  <ReviewWorld>Ukážka sveta</ReviewWorld>
-  <WorldGenerate>Generovať</WorldGenerate>
-  <WorldSaveAndFinish>Uložiť a dokončiť</WorldSaveAndFinish>
-  <Reset>Resetovať</Reset>
-  <WorldSize>Veľkosť</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Náhodný seed</RandomizeSeed>
-  
-    <!--=========== Select world ===================-->
-  <SelectWorld>Zvoľ svet</SelectWorld>
-  <WorldChooseButton>Zvoliť</WorldChooseButton>
-  <NoWorldsFilesFound>Žiadne súbory nenájdené. Najskôr si vytvor svet.</NoWorldsFilesFound>
-    <!--=========== World generator =========-->
-  <GenerateWorld>Generovať svet</GenerateWorld>
+  <Difficulty>Obtiažnosti</Difficulty>
   
     <!--=========== Landing site select =========-->
   <SelectLandingSite>Zvoliť pristávacie miesto</SelectLandingSite>
+  <SelectRandomSite>Zvoliť náhodné miesto</SelectRandomSite>
   <SelectSite>Zvoliť miesto</SelectSite>
   <MustSelectLandingSite>Musíš zvoliť pristávacie miesto.</MustSelectLandingSite>
   <CannotLandBiome>Nemôžes pristáť v tomto bióme: {0}</CannotLandBiome>
@@ -107,21 +110,56 @@
   <WorldRenderModeRainfall>Množstvo zrážok</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Biómy</WorldRenderModeBiomes>
   <BiomeNotImplemented>ešte nie je v hre implentovaný. </BiomeNotImplemented>
+  <BaseAlreadyThere>{0} základňa tu už je.</BaseAlreadyThere>
   <Biome>Bióm</Biome>
   <Terrain>Povrch</Terrain>
   <Elevation>Nadmorská výška</Elevation>
   <Fertility>Úrodnosť zeme</Fertility>
   <AvgTemp>Priemerná teplota</AvgTemp>
+  <AvgWinterTemp>Priemerná teplota (v zime): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Priemerná teplota (v lete): {0}</AvgSummerTemp>
   <Rainfall>Množstvo zrážok</Rainfall>
   <HasCoast0>Severné pobrežie</HasCoast0>
   <HasCoast1>Východné pobrežie</HasCoast1>
   <HasCoast2>Južné pobrežie</HasCoast2>
   <HasCoast3>Západné pobrežie</HasCoast3>
+  <FactionBase>Základňa frakcie</FactionBase>
+  <StoneTypesHere>Typy kameňa</StoneTypesHere>
   
-    <PermanentMoodEffect>Pernamentný efekt nálady</PermanentMoodEffect>
-<BaseAlreadyThere>{0} tu už má základňu.</BaseAlreadyThere>
-
-  <FactionBase>Základna frakcie</FactionBase>
-    <Pain>Bolesť</Pain>
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Vyber osadníkov</CreateCharacters>
+  <FirstNameDesc>Krstné meno postavy.\n\nToto sa zobrazí iba v niektorých ponukách.</FirstNameDesc>
+  <ShortIdentifierDesc>Identifikátor postavy.\n\nJe zobrazený za kažných okolností . Môže to byť meno, priezvisko, alebo prezívka.</ShortIdentifierDesc>
+  <LastNameDesc>Priezvisko postavy.\n\nToto sa zobrazí iba v niektorých ponukách.</LastNameDesc>
+  <Randomize>Náhodne</Randomize>
+  <AgeIndicator>Vek {0}</AgeIndicator>
+  <Backstory>Príbeh postavy</Backstory>
+  <IncapableOf>Neschopný v</IncapableOf>
+  <Traits>Črty</Traits>
+  <PermanentMoodEffect>Permanentný efekt nálady</PermanentMoodEffect>
+  <Skills>Schopnosti</Skills>
+  <NoneLower>žiadne</NoneLower>
+  <Adulthood>Dospelosť</Adulthood>
+  <Childhood>Detstvo</Childhood>
+  <Male>Muž</Male>
+  <Female>Žena</Female>
+  <Pain>Bolesť</Pain>
+  <Health>Zdravie</Health>
+  <Relations>Relations</Relations>
+  
+    <!--=========== Misc ==========-->
+  <Start>Štart</Start>
+  <Advanced>Pokročilé</Advanced>
+  <Next>Ďalej</Next>
+  <Back>Späť</Back>
+  
+  <Gameplay>Hranie hry</Gameplay>
+  
+  <ConfirmQuit>Naozaj chcete skončiť? Stratíte neuloženú hru.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Každá postava potrebuje platné meno.</EveryoneNeedsValidName>
+ 
+  <GeneratingWorld>Vytváram svet...</GeneratingWorld>
+    <GeneratingMap>Generujem mapu...</GeneratingMap>
 
 </LanguageData>
