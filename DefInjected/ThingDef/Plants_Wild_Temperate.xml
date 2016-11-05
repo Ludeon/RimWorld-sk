@@ -27,5 +27,15 @@
 	<PlantTreePoplar.label>Topoľ</PlantTreePoplar.label>
 	<PlantTreePoplar.description>Vysoký strom s mäkkým drevom. Rastie rýchlo, ale jeho drevo nie je príliš silné.</PlantTreePoplar.description>
 	
+	<PlantTreePine.label>Borovica</PlantTreePine.label>
+	<PlantTreePine.description>Strom.</PlantTreePine.description>
 	
+	<PlantTreeBirch.label>Breza</PlantTreeBirch.label>
+	<PlantTreeBirch.description>Strom.</PlantTreeBirch.description>
+	
+	<PlantTreeTeak.label>Teak</PlantTreeTeak.label>
+	<PlantTreeTeak.description>Strom.</PlantTreeTeak.description>
+	
+	<PlantTreeCecropia.label>Cecropia</PlantTreeCecropia.label>
+	<PlantTreeCecropia.description>Strom.</PlantTreeCecropia.description>
 </LanguageData>
