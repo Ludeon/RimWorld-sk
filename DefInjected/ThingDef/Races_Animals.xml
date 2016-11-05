@@ -6,27 +6,27 @@
   
 	<Muffalo.label>Muffalo</Muffalo.label>
 	<Muffalo.description>Veľké bylinožravece pochádzajúce z byvola a prispôsobené exotickému prostrediu. Mierumilovné pokiaľ nerušené</Muffalo.description>
-		<Muffalo_Leather.label>Koža z mývola</Muffalo_Leather.label>
+	<Muffalo_Leather.label>Koža z mývola</Muffalo_Leather.label>
 	<Muffalo_Meat.label>Mäso z mývola</Muffalo_Meat.label>
 	
 	<Squirrel.label>Veverica</Squirrel.label>
 	<Squirrel.description>Jeden z mnohých vytrvalých, univerzálnych druhov hlodavcov, ktoré nasledujú človeka po celom vesmíre.</Squirrel.description>
-		<Squirrel_Leather.label>Koža z veverice</Squirrel_Leather.label>
+	<Squirrel_Leather.label>Koža z veverice</Squirrel_Leather.label>
 	<Squirrel_Meat.label>Mäso z veverice</Squirrel_Meat.label>
 	
 	<Boomrat.label>Bumkrysa</Boomrat.label>
 	<Boomrat.description>Vytvorené genetickým ozbrojovaním, alebo ako zvláštný obranný mechanizmus, tieto potkany vybuchnú, keď sú zabité.</Boomrat.description>
-		<Boomrat_Leather.label>Koža z bumkrysy</Boomrat_Leather.label>
+	<Boomrat_Leather.label>Koža z bumkrysy</Boomrat_Leather.label>
 	<Boomrat_Meat.label>Mäso z bumkrysy</Boomrat_Meat.label>
 	
 	<Iguana.label>Leguán</Iguana.label>
 	<Iguana.description>Tieto plazy sa živia rastlinamy. Ak ich však naštveš, ukrývajú veľké pazúry, ktoré ich robia vcelku nebezpečnými.</Iguana.description>
-		<Iguana_Leather.label>Koža z leguána</Iguana_Leather.label>
+	<Iguana_Leather.label>Koža z leguána</Iguana_Leather.label>
 	<Iguana_Meat.label>Mäso z leguána</Iguana_Meat.label>
 	
 	<Megascarab.label>Skarab</Megascarab.label>
 	<Megascarab.description>Veľký, geneticky upravený chrobák. Jeho veľkosť a silná ulita ho robia v boji nebezpečnými.</Megascarab.description>
-		<Megascarab_Meat.label>Mäso zo skaraba</Megascarab_Meat.label>
+	<Megascarab_Meat.label>Mäso zo skaraba</Megascarab_Meat.label>
 		
 	<Deer.label>Srnec</Deer.label>
 	<Deer.description>Stredne veľký, prítulný bylinožravec. Priateľský pokiaľ nerušený.</Deer.description>
@@ -35,12 +35,12 @@
 	
 	<WildBoar.label>Diviak</WildBoar.label>
 	<WildBoar.description>Hoci podľa niektorých kultúr špinavý, tento chlpatý predok dnešných ošípaných je cenený pre jeho chutné mäso.</WildBoar.description>
-		<WildBoar_Leather.label>Koža z diviaka</WildBoar_Leather.label>
+	<WildBoar_Leather.label>Koža z diviaka</WildBoar_Leather.label>
 	<WildBoar_Meat.label>Mäso z diviaka</WildBoar_Meat.label>
 	
 	<Rhinoceros.label>Nosorožec</Rhinoceros.label>
 	<Rhinoceros.description>Tento veľký cicavec je obvykle mierumilovný, ale nebude mu vadiť nabrať vás na roh ak sa mu dostanete do cesty.</Rhinoceros.description>
-		<Rhinoceros_Leather.label>Koža z nosorožca</Rhinoceros_Leather.label>
+	<Rhinoceros_Leather.label>Koža z nosorožca</Rhinoceros_Leather.label>
 	<Rhinoceros_Meat.label>Mäso z nosorožca</Rhinoceros_Meat.label>
 	
 	<Dromedary.label>Dromedár</Dromedary.label>
@@ -60,8 +60,51 @@
 	
 	<Monkey.label>Opica</Monkey.label>
 	<Monkey.description>Opica používa svoj chvost aby sa mohla chytať vetví, čo jej necháva voľné ruky na iné veci.</Monkey.description>
-		<Monkey_Leather.label>Koža z opice</Monkey_Leather.label>
+	<Monkey_Leather.label>Koža z opice</Monkey_Leather.label>
 	<Monkey_Meat.label>Mäso z opice</Monkey_Meat.label>
+	
+	<Hare.label>Králik</Hare.label>
+	<Hare.description>Tento malý osamelý bylinožravec sa vie rýchlo dostať preč od nebezbečenstva</Hare.description>
+	<Hare_Leather.label>Koža z králika</Hare_Leather.label>
+	<Hare_Meat.label>Mäso z králika</Hare_Meat.label>
+	
+	<Husky.label>Husky</Husky.label>
+	<Husky.description>Veľký, energický pes s hrubou srsťou prisposôbenou na komfort aj v arktickom prostredí.</Husky.description>
+	<Husky_Leather.label>Koža z huskyho</Husky_Leather.label>
+	<Husky_Meat.label>Mäso z huskyho</Husky_Meat.label>
+	
+	<Linx.label>Rys</Linx.label>
+	<Linx.description>Divoká mačka väčšia ako mačka domáca, ale menšia ako jaguár. Rysy prežívajú na diéte malých vtákov a zvierat. Ich veľmi teplá srsť ich udržuje v bezpečí pred brutálnym chladným počasím v ich severných teritóriách.</Linx.description>
+	<Linx_Leather.label>Koža z rysa</Linx_Leather.label>
+	<Linx_Meat.label>Mäso z rysa</Linx_Meat.label>
+	
+	<Rat.label>Krysa</Rat.label>
+	<Rat.description>Hlodavec známy pre znečisťovanie kuchýň a roznášania chorôb. Žerie skoro všetko, žije skoro všade.</Rat.description>
+	<Rat_Leather.label>Koža z krysy</Rat_Leather.label>
+	<Rat_Meat.label>Mäso z krysy</Rat_Meat.label>
+	
+	<TimberWolf.label>Vlk Americký</TimberWolf.label>
+	<TimberWolf.description>Mrzutý predátor, ktorý bol dlho obávaný u veľa starovekých kultúr na Zemi. Ako lovci vo svorke, vlky majú komplexný sociálny život a sú veľmi inteligentný.</TimberWolf.description>
+	<TimberWolf_Leather.label>Koža vlka amerického</TimberWolf_Leather.label>
+	<TimberWolf_Meat.label>Mäso vlka amerického</TimberWolf_Meat.label>
+	
+	<YorkshireTerrier.label>Yorkšírsky teriér</YorkshireTerrier.label>
+	<YorkshireTerrier.description>Malý vyrovnaný pes. Originálne vyšľachtený na chytanie krýs, ale neskôr sa stal súťažným a spoločníckym zvieraťom.</YorkshireTerrier.description>
+	<YorkshireTerrier_Leather.label>Koža Yorkšírskeho Teriéra.</YorkshireTerrier_Leather.label>
+	<YorkshireTerrier_Meat.label>Mäso Yorkšírskeho Teriéra.</YorkshireTerrier_Meat.label>
+	
+	<Warg.label>Warg</Warg.label>
+	<Warg.description>Veľmi svalnatá vlkoidná príšera. Vedci hovoria že Wargovia sú potomkami vyzbrojených vojnových zvierat vytvorených pre potlačenie populácie. Poverčivý ľudia ich vidia ako nástroje nahnevaného boha. Jedia iba mäso alebo mŕtvoly.</Warg.description>
+	<Warg_Leather.label>Koža z Warga</Warg_Leather.label>
+	<Warg_Meat.label>Mäso z Warga</Warg_Meat.label>
+	
+	<Pig.label>Prasa</Pig.label>
+	<Pig.description>Prasa bolo jedno z prvých domestikovaných zvierat. Normálne sa chovajú pre mäso a kožu. Ľahko sa kŕmia lebo sú všežravci.</Pig.description>
+	<Pig_Leather.label>Koža z prasaťa</Pig_Leather.label>
+	<Pig_Meat.label>Mäso z prasaťa</Pig_Meat.label>
+	
+		
+	
 	
 	
 </LanguageData>
