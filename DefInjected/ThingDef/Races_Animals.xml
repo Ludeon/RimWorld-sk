@@ -69,7 +69,7 @@
 	<Hare_Meat.label>Mäso z králika</Hare_Meat.label>
 	
 	<Husky.label>Husky</Husky.label>
-	<Husky.description>Veľký, energický pes s hrubou srsťou prisposôbenou na komfort aj v arktickom prostredí.</Husky.description>
+	<Husky.description>Veľký, energický pes s hrubou srsťou prisposôbenou na prežitie aj v arktickom prostredí.</Husky.description>
 	<Husky_Leather.label>Koža z huskyho</Husky_Leather.label>
 	<Husky_Meat.label>Mäso z huskyho</Husky_Meat.label>
 	
@@ -94,7 +94,7 @@
 	<YorkshireTerrier_Meat.label>Mäso Yorkšírskeho Teriéra.</YorkshireTerrier_Meat.label>
 	
 	<Warg.label>Warg</Warg.label>
-	<Warg.description>Veľmi svalnatá príšera podobajúca sa na vlka. Vedci hovoria že Wargovia sú potomkami vyzbrojených vojnových zvierat vytvorených na potlačenie populácie. Poverčivý ľudia ich vidia ako nástroje nahnevaného boha. Jedia iba mäso alebo mŕtvoly.</Warg.description>
+	<Warg.description>Veľmi svalnatá príšera podobajúca sa na vlka. Vedci hovoria že Wargovia sú potomkami ozbrojených vojnových zvierat vytvorených na potlačenie populácie. Poverčivý ľudia ich vidia ako nástroje nahnevaného boha. Jedia iba mäso alebo mŕtvoly.</Warg.description>
 	<Warg_Leather.label>Koža z Warga</Warg_Leather.label>
 	<Warg_Meat.label>Mäso z Warga</Warg_Meat.label>
 	
@@ -103,7 +103,11 @@
 	<Pig_Leather.label>Koža z prasaťa</Pig_Leather.label>
 	<Pig_Meat.label>Mäso z prasaťa</Pig_Meat.label>
 	
-		
+	<Raccoon.label>Mýval</Raccoon.label>
+	<Raccoon.description>Malé, otužilé zviera, ktoré sa pohybuje okolo lesov a krov. Žerie skoro všetko.</Raccoon.description>
+	<Raccoon_Leather.label>Koža z mývala</Raccoon_Leather.label>
+	<Raccoon_Meat.label>Mäso z mývala</Raccoon_Meat.label>
+	
 	
 	
 	
