@@ -79,6 +79,23 @@
 	<CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Pokúsiť sa pripojiť na inú elektrickú sieť v dosahu. Používa sa, ak je prístroj napojený na nenapojenú elektrickú sieť, ale v dosahu je napojená sieť. </CommandTryReconnectDesc>
 
+	<SpawningAllThings>Vytváranie všetkých predmetov</SpawningAllThings>	
+	
+	<LoadingWorld>Načítavanie sveta</LoadingWorld>	
+	
+	<LoadingAssets>Načítavanie prvkov</LoadingAssets>	
+	
+	<LoadingDefs>Načítanie Defs</LoadingDefs>	
+	
+	<LoadingMap>Načítanie Mapy</LoadingMap>		
+	
+	<Initializing>Inicializácia</Initializing>	
+	
+	<InitializingMap>Inicializácia mapy</InitializingMap>	
+
+
+
+
   
   
 </LanguageData>
