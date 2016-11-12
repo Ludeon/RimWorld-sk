@@ -103,7 +103,18 @@
 	<Raccoon_Leather.label>Koža z mývala</Raccoon_Leather.label>
 	<Raccoon_Meat.label>Mäso z mývala</Raccoon_Meat.label>
 	
+	<LabradorRetriever.label>Labrador</LabradorRetriever.label>	
+	<LabradorRetriever.description>Veľmi zručný, stredne veľký pes. Originálne vyšľachetný na prinášanie vtákov zabitých pri love. Je aj vynikajúci strážca, kamarát na hranie a člen rodiny.</LabradorRetriever.description>
+	<LabradorRetriever_Leather.label>Koža z labradora</LabradorRetriever_Leather.label>
+	<LabradorRetriever_Meat.label>Mäso z labradora</LabradorRetriever_Meat.label>
+
+	<Cat.label>Mačka</Cat.label>
+	<Cat.description>Jeden z prvých ľudských maznáčikov. Sú populárne pre ich pokojnosť,samostatnosť a ich hebkú mäkkú srsť.</Cat.description>
+	<Cat_Leather.label>Koža z mačky</Cat_Leather.label>
+	<Cat_Meat.label>Mäso z mačky</Cat_Meat.label>
+
+	<FoxRed.label>Líška</FoxRed.label>
+	<FoxRed.description>Malá psia šelma prispôsobená na chytanie malej koristi v miernom podnebí.</FoxRed.description>
+	<FoxRed_Leather.label>Koža z líšky</FoxRed_Leather.label>
 	
-	
-	
-</LanguageData>
+	</LanguageData>
