@@ -73,10 +73,10 @@
 	<Husky_Leather.label>Koža z huskyho</Husky_Leather.label>
 	<Husky_Meat.label>Mäso z huskyho</Husky_Meat.label>
 	
-	<Linx.label>Rys</Linx.label>
-	<Linx.description>Divoká mačka väčšia ako mačka domáca, ale menšia ako jaguár. Rysy sa živia malými vtákmi a zvieratami. Ich veľmi teplá srsť ich udržuje v bezpečí pred brutálnym chladným počasím v ich severných teritóriách.</Linx.description>
-	<Linx_Leather.label>Koža z rysa</Linx_Leather.label>
-	<Linx_Meat.label>Mäso z rysa</Linx_Meat.label>
+	<Lynx.label>Rys</Lynx.label>
+	<Lynx.description>Divoká mačka väčšia ako mačka domáca, ale menšia ako jaguár. Rysy sa živia malými vtákmi a zvieratami. Ich veľmi teplá srsť ich udržuje v bezpečí pred brutálnym chladným počasím v ich severných teritóriách.</Lynx.description>
+	<Lynx_Leather.label>Koža z rysa</Lynx_Leather.label>
+	<Lynx_Meat.label>Mäso z rysa</Lynx_Meat.label>
 	
 	<Rat.label>Krysa</Rat.label>
 	<Rat.description>Hlodavec známy pre znečisťovanie kuchýň a roznášania chorôb. Žerie skoro všetko, žije skoro všade.</Rat.description>
