@@ -3,12 +3,22 @@
 	
 
 	
-		<Muffalo.label>Myvol</Muffalo.label>
+	<Muffalo.label>Myvol</Muffalo.label>
+	
 	<Squirrel.label>Veverica</Squirrel.label>
+	
 	<Boomrat.label>Bumkrysa</Boomrat.label>
+	
 	<Iguana.label>Leguán</Iguana.label>
+	
 	<MegaScarab.label>Mega skarab</MegaScarab.label>
+	
 	<Rhinoceros.label>Nosorožec</Rhinoceros.label>
+	
 	<Dromedary.label>Dromedár</Dromedary.label>
-		
-</LanguageData>
+	
+	<Raccoon.label>Mýval</Raccoon.label>		
+	
+	<Hare.label>Králik</Hare.label>	
+	
+	</LanguageData>
