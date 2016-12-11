@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  
+  <DaysLower>dni</DaysLower>
+  <SecondsLower>sekundy</SecondsLower>
+
+  <SeasonSpring>Jar</SeasonSpring>
+  <SeasonSummer>Leto</SeasonSummer>
+  <SeasonFall>Jeseň</SeasonFall>
+  <SeasonWinter>Zima</SeasonWinter>
+
+  <Born>Narodený: {0}</Born>
+  <AgeChronological>Chronologický vek: {0} Rokov, {1} Obdobie, {2} Dní</AgeChronological>
+  <AgeBiological>Biologický vek: {0} Rokov, {1} Obdobie, {2} Dní</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 Rok</Period1Year>
+  <PeriodYears>{0} Roky</PeriodYears>
+  <Period1Season>1 Obdobie</Period1Season>
+  <PeriodSeasons>{0} Obdobia</PeriodSeasons>
+  <Period1Day>1 Deň</Period1Day>
+  <PeriodDays>{0} Dní</PeriodDays>
+  <Period1Hour>1 Hodina</Period1Hour>
+  <PeriodHours>{0} Hodín</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Začalo</Started>
+  <Lasted>Trvalo</Lasted>
+  <OccurredTimeAgo>Stalo sa pred {0} rokmi</OccurredTimeAgo>
+  
+</LanguageData>
