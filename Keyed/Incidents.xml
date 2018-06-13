@@ -42,14 +42,14 @@
  
   <TraderArrival>Neďaleko sa presúva obchodná loď.\n\nJe známa ako {0}. Je to {1}.</TraderArrival>
  
-  <SingleTravelerPassing>{0} z {1} prechádza okolo. HECAP sa nazýva {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>{0} z {1} prechádza okolo. [PAWN_pronoun] sa nazýva {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Skupina cestovateľov z {0} prechádza okolo.</GroupTravelersPassing>
  
-  <SingleVisitorArrives>{0} z {1} navštívi kolóniu.\n\nHECAP sa nazýva {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>{0} z {1} navštívi kolóniu.\n\n[PAWN_pronoun] sa nazýva {2}.</SingleVisitorArrives>
   <GroupVisitorsArrive>Skupina z {0} navštívila kolóniu.</GroupVisitorsArrive>
   <VisitorsLeaving>Návštevníci z {0} odchádzajú.</VisitorsLeaving>
  
-  <WandererJoin>Prišiel/a {0} menom NAME a pridal/a sa ku kolónii. HECAP je {1}.</WandererJoin>
+  <WandererJoin>Prišiel/a {0} menom [PAWN_nameDef] a pridal/a sa ku kolónii. [PAWN_pronoun] je {1}.</WandererJoin>
  
  <!-- Crashed ship part-->
   <SpaceshipPartCrash>Veľký kus havarovanej lode dopadol niekde v okolí.\n\nTvoji kolonisti cítia niekde v zadu ich mysle zvláštne, šepkajúce zvuky. Vnútri to musí schovávať AI Personas. A toto AI nie je priateľské.\n\nZnič ho čo najskôr.</SpaceshipPartCrash>

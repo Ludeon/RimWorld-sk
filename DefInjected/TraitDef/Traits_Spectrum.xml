@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[0].description</path>
-    <trans>NAME je vždy na konci skupiny.</trans>
+    <trans>[PAWN_nameDef] je vždy na konci skupiny.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[1].label</path>
@@ -16,7 +16,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[1].description</path>
-    <trans>NAME chce byť všade čo najrýchlejšie. Preto je vždy prvý v skupine</trans>
+    <trans>[PAWN_nameDef] chce byť všade čo najrýchlejšie. Preto je vždy prvý v skupine</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[2].label</path>
@@ -24,7 +24,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[2].description</path>
-    <trans>NAME sa pohybuje s pocitom súrnosti. Preto HIM nikdy nestíhajú.</trans>
+    <trans>[PAWN_nameDef] sa pohybuje s pocitom súrnosti. Preto [PAWN_objective] nikdy nestíhajú.</trans>
   </rep>
   
 
@@ -34,7 +34,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[0].description</path>
-    <trans>NAME ije prírodne pozitívny o každej situácii.</trans>
+    <trans>[PAWN_nameDef] ije prírodne pozitívny o každej situácii.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].label</path>
@@ -42,7 +42,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].description</path>
-    <trans>NAME je od prírody optimista. Je ťažké ho/ju nervovo zrútiť.</trans>
+    <trans>[PAWN_nameDef] je od prírody optimista. Je ťažké ho/ju nervovo zrútiť.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].label</path>
@@ -50,7 +50,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].description</path>
-    <trans>NAME je od prírody pesimista. HECAP sa pozerá na tú zlú stránku života.</trans>
+    <trans>[PAWN_nameDef] je od prírody pesimista. [PAWN_pronoun] sa pozerá na tú zlú stránku života.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].label</path>
@@ -58,7 +58,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].description</path>
-    <trans>NAME je neustále neštastný. HECAP má problémy mať dobrú náladu, aj keď je všetko v poriadku. Aj preto sa dokáže ľahko nervovo zrútiť.</trans>
+    <trans>[PAWN_nameDef] je neustále neštastný. [PAWN_pronoun] má problémy mať dobrú náladu, aj keď je všetko v poriadku. Aj preto sa dokáže ľahko nervovo zrútiť.</trans>
   </rep>
 	
 	
@@ -68,7 +68,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[0].description</path>
-    <trans>HIS myseľ je železný štít. Bude pokračovať ďalej, aj keď ostatní sa už dávno zrútili.</trans>
+    <trans>[PAWN_possessive] myseľ je železný štít. Bude pokračovať ďalej, aj keď ostatní sa už dávno zrútili.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].label</path>
@@ -76,7 +76,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].description</path>
-    <trans>NAME je mentálne silný, a je ťažké ho nervovo zrútiť.</trans>
+    <trans>[PAWN_nameDef] je mentálne silný, a je ťažké ho nervovo zrútiť.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].label</path>
@@ -84,7 +84,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].description</path>
-    <trans>HIS nervy zvinkú prasknúť pod tlakom.</trans>
+    <trans>[PAWN_possessive] nervy zvinkú prasknúť pod tlakom.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].label</path>
@@ -92,7 +92,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].description</path>
-    <trans>NAME nezvláda situácie pod väčším tlakom. Veľké riziko nervového zrútenia.</trans>
+    <trans>[PAWN_nameDef] nezvláda situácie pod väčším tlakom. Veľké riziko nervového zrútenia.</trans>
   </rep>
   
   
@@ -102,7 +102,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[0].description</path>
-    <trans>NAME má rád veci usporiadané. HECAP preto pracuje rýchlejšie aby všetko zvládol. To sa ale odráža na jeho nervoch...</trans>
+    <trans>[PAWN_nameDef] má rád veci usporiadané. [PAWN_pronoun] preto pracuje rýchlejšie aby všetko zvládol. To sa ale odráža na jeho nervoch...</trans>
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].label</path>
@@ -110,7 +110,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].description</path>
-    <trans>NAME je neustále nervózny o tom čo všetko musí urobiť. HECAP pracuje oveľa rýchlejšie ako otatní. Avšak to necháva na HIS mysli nejaké známky..</trans>
+    <trans>[PAWN_nameDef] je neustále nervózny o tom čo všetko musí urobiť. [PAWN_pronoun] pracuje oveľa rýchlejšie ako otatní. Avšak to necháva na [PAWN_possessive] mysli nejaké známky..</trans>
   </rep>
   
   
@@ -120,7 +120,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[0].description</path>
-    <trans>NAME nemá problém ani s najťažšímy prácami, ktoré zvláda rýchlejšie ako ostatní.</trans>
+    <trans>[PAWN_nameDef] nemá problém ani s najťažšímy prácami, ktoré zvláda rýchlejšie ako ostatní.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].label</path>
@@ -128,7 +128,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].description</path>
-    <trans>NAME sa snaží vždy urobiť svôj kus práce..</trans>
+    <trans>[PAWN_nameDef] sa snaží vždy urobiť svôj kus práce..</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].label</path>
@@ -136,7 +136,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].description</path>
-    <trans>NAME je tak trochu lenivý.</trans>
+    <trans>[PAWN_nameDef] je tak trochu lenivý.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].label</path>
@@ -144,7 +144,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].description</path>
-    <trans>NAME miluje oddych a nenávidí hocijakú prácu. Pracuje veľmi pomaly a málokedy sa dokáže sústrediť.</trans>
+    <trans>[PAWN_nameDef] miluje oddych a nenávidí hocijakú prácu. Pracuje veľmi pomaly a málokedy sa dokáže sústrediť.</trans>
   </rep>
   
   
@@ -154,7 +154,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[0].description</path>
-    <trans>HISCAP je ako rádio. NAME je extrémne senzitívny na psychické javy.</trans>
+    <trans>[PAWN_possessive] je ako rádio. [PAWN_nameDef] je extrémne senzitívny na psychické javy.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[1].label</path>
@@ -162,7 +162,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[1].description</path>
-    <trans>NAME je neobyčajne senzitívny na psychické javy.</trans>
+    <trans>[PAWN_nameDef] je neobyčajne senzitívny na psychické javy.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[2].label</path>
@@ -170,7 +170,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[2].description</path>
-    <trans>NAME je menej ovplyvnení psychickými javmi ako ostatní.</trans>
+    <trans>[PAWN_nameDef] je menej ovplyvnení psychickými javmi ako ostatní.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[3].label</path>
@@ -178,7 +178,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[3].description</path>
-    <trans>NAME je úplne iný ako ostatni. HIS myseľ nie je vôbec ovplyvnená psychickými javmi.</trans>
+    <trans>[PAWN_nameDef] je úplne iný ako ostatni. [PAWN_possessive] myseľ nie je vôbec ovplyvnená psychickými javmi.</trans>
   </rep>
 	
 </LanguageData>
