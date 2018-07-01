@@ -54,7 +54,7 @@
  <!-- Crashed ship part-->
   <SpaceshipPartCrash>Veľký kus havarovanej lode dopadol niekde v okolí.\n\nTvoji kolonisti cítia niekde v zadu ich mysle zvláštne, šepkajúce zvuky. Vnútri to musí schovávať AI Personas. A toto AI nie je priateľské.\n\nZnič ho čo najskôr.</SpaceshipPartCrash>
   <MessageAnimalInsanityPulse>Spadnutý kus dole vysiela psychické vlny, ktore privádzajú niektoré zvieratá do šialenstva.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Spadnutý kus love vysiela psychické vlny, ktoré priviedli {0} do šialenstva.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Spadnutý kus lode vysiela psychické vlny, ktoré priviedli {0} do šialenstva.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Spadlo pred {0} dňami.</AwokeDaysAgo>
   <PsychicDroneLevel>Úroveň psychickej vlny: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Nízka</PsychicDroneLevelLow>
