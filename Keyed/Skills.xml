@@ -1,16 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Level>Úroveň</Level>
   <ProgressToNextLevel>Postup na ďalšiu úroveň</ProgressToNextLevel>
+  <Experience>Skúsenosť</Experience>
   <Passion>Záľuba</Passion>
   <PassionNone>Žiadna (učí sa {0}x rýchlejšie)</PassionNone>
   <PassionMinor>Mierna (učí sa {0}x rýchlejšie)</PassionMinor>
   <PassionMajor>Výrazná (učí sa {0}x rýchlejšie)</PassionMajor>
+  <LearnedMaxToday>Nauči sa najviac dnes ({0}/{1}, ďalej učenie znasobene o {2})</LearnedMaxToday>
   <EffectsAtLevel>Účinok na úrovni {0}</EffectsAtLevel>
     <SkillMax>MAX</SkillMax>
   
 
+  
   <Skill0>Neschopný</Skill0>
   <Skill1>Nekompetentný</Skill1>
   <Skill2>Základné informácie</Skill2>
